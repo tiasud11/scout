@@ -1,0 +1,60 @@
+name: Scout
+on:
+  schedule:
+    - cron: "0 8 * * *"
+    - cron: "0 9 * * *"
+    - cron: "30 13 * * *"
+    - cron: "30 14 * * *"
+    - cron: "30 19 * * *"
+    - cron: "30 20 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: scout
+  cancel-in-progress: false
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore folder layout on first run
+        run: |
+          if [ ! -d scout ]; then
+            mkdir -p scout tests feed state
+            mv __init__.py adapters.py classify.py gate.py scout.py scout/
+            mv test_gate.py tests/ && touch tests/__init__.py
+            mv roles.json feed/ && mv seen.json state/
+          fi
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - name: Window check
+        id: win
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          n = datetime.now(ZoneInfo("Europe/London")); m = n.hour*60+n.minute
+          ok = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch" or any(0 <= m-t < 28 for t in (540, 870, 1230))
+          print(f"go={'1' if ok else '0'}")
+          PY
+      - if: steps.win.outputs.go == '1'
+        run: |
+          pip install -q -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - if: steps.win.outputs.go == '1'
+        name: Run Scout
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE: "1"
+        run: python -m scout.scout
+      - if: steps.win.outputs.go == '1'
+        name: Commit feed
+        run: |
+          git config user.name "scout-bot"
+          git config user.email "scout-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "scout: $(date -u +%F' '%H:%M)Z"
+          git push
