@@ -14,6 +14,10 @@ OFF_CYCLE = re.compile(r"off[\s\-]?cycle", re.I)
 SUSTAIN_TITLE = re.compile(
     r"\b(sustainab\w*|esg|climate|impact invest\w*|green finance|responsible invest\w*|net[\s\-]?zero)\b", re.I)
 SUMMER = re.compile(r"\bsummer\b", re.I)
+TRADING_ONLY = re.compile(
+    r"\b(sales\s*(and|&)?\s*trading|s&t\b|trading (analyst|associate|intern\w*)|quant(itative)?\s*"
+    r"(research|trading|analyst|developer|strategist)|markets? analyst|global markets\b|"
+    r"equity (trading|sales)|fixed income (trading|sales)|flow trading|prop(rietary)? trading)\b", re.I)
 SPRING = re.compile(
     r"\b(spring (week|insight|intern\w*|program\w*)|insight (week|program\w*|day|series)|discovery (week|program\w*)|"
     r"first[\s\-]year (program\w*|insight)|springboard)\b", re.I)
@@ -87,6 +91,9 @@ def evaluate(title, location="", body=""):
     # Rule 5. Standalone sustainable finance = sustainability is the role itself (in the title).
     if SUSTAIN_TITLE.search(title):
         return exclude("standalone sustainable finance role (title)")
+          # Rule 5b. Not interested in sales, trading or quant roles. Title is decisive.
+    if TRADING_ONLY.search(title):
+        return exclude("sales, trading or quant role, not wanted")
 
     # Rule 3. Programme type.
     if rtype == "other":
