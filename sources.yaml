@@ -1,0 +1,102 @@
+# Scout sources. Add a firm = add one block. No code changes needed.
+#
+# types
+#   workday     host, tenant, site            (public search API behind any myworkdayjobs.com careers page)
+#   greenhouse  board                         (boards.greenhouse.io/<board>)
+#   lever       board                         (jobs.lever.co/<board>)
+#   rendered    url                           (headless browser, works on any JavaScript careers page or aggregator)
+#   html        url                           (plain GET, fastest, for simple static pages)
+# options
+#   aggregator: true   firm name comes from the listing, not from this block
+#   keep_all: true     keep every link on the page (use on pages that ONLY list programmes)
+#   enabled: false     switch a source off without deleting it
+#
+# STATUS: seed list. URLs were written without live access (the build sandbox blocks these hosts),
+# so the first manual run is the verification pass. feed/health.json names every source that
+# errored or returned zero items. Fix or swap those URLs, rerun, done.
+
+sources:
+  # ---------- aggregators (safety net, direct pages below are what gets her in early) ----------
+  - {id: trackr-summer, type: rendered, aggregator: true, keep_all: true, scrolls: 12,
+     url: "https://app.the-trackr.com/uk-finance/summer-internships"}
+  - {id: trackr-spring, type: rendered, aggregator: true, keep_all: true, scrolls: 12,
+     url: "https://app.the-trackr.com/uk-finance/spring-weeks"}
+  - {id: brightnetwork-finance, type: rendered, aggregator: true, scrolls: 8,
+     url: "https://www.brightnetwork.co.uk/search/?content_types=jobs&career_path_sectors=banking-finance&job_types=internship&locations=london"}
+
+  # ---------- investment banks ----------
+  - {id: goldman-sachs, firm: Goldman Sachs, type: rendered, url: "https://higher.gs.com/campus?LOCATION=London"}
+  - {id: jpmorgan, firm: JPMorgan Chase, type: rendered, url: "https://careers.jpmorgan.com/global/en/students/programs"}
+  - {id: morgan-stanley, firm: Morgan Stanley, type: workday, host: ms.wd5.myworkdayjobs.com, tenant: ms, site: External,
+     search: ["summer analyst london", "spring insight london", "intern london"]}
+  - {id: bank-of-america, firm: Bank of America, type: rendered, url: "https://campus.bankofamerica.com/careers/"}
+  - {id: citi, firm: Citi, type: workday, host: citi.wd5.myworkdayjobs.com, tenant: citi, site: "2",
+     search: ["summer analyst london", "spring insight london", "intern london"]}
+  - {id: barclays, firm: Barclays, type: rendered, url: "https://search.jobs.barclays/search-jobs/intern/London"}
+  - {id: hsbc, firm: HSBC, type: rendered, url: "https://www.hsbc.com/careers/students-and-graduates/find-a-programme"}
+  - {id: ubs, firm: UBS, type: rendered, url: "https://www.ubs.com/global/en/careers/students-and-graduates.html"}
+  - {id: deutsche-bank, firm: Deutsche Bank, type: rendered, url: "https://careers.db.com/students-graduates/"}
+  - {id: bnp-paribas, firm: BNP Paribas, type: rendered, url: "https://group.bnpparibas/en/careers/all-job-offers/united-kingdom"}
+  - {id: societe-generale, firm: Societe Generale, type: rendered, url: "https://careers.societegenerale.com/en/students-graduates"}
+  - {id: nomura, firm: Nomura, type: rendered, url: "https://www.nomura.com/careers/graduates/emea/"}
+  - {id: rbc, firm: RBC Capital Markets, type: rendered, url: "https://jobs.rbc.com/ca/en/europe-students"}
+  - {id: jefferies, firm: Jefferies, type: rendered, url: "https://www.jefferies.com/careers/students-and-graduates/"}
+  - {id: macquarie, firm: Macquarie, type: rendered, url: "https://www.macquarie.com/uk/en/careers/graduates-and-interns.html"}
+  - {id: standard-chartered, firm: Standard Chartered, type: rendered, url: "https://www.sc.com/en/careers/early-careers/"}
+  - {id: smbc, firm: SMBC, type: rendered, url: "https://www.smbcgroup.com/emea/careers/early-careers"}
+
+  # ---------- advisory and boutiques ----------
+  - {id: rothschild, firm: Rothschild & Co, type: rendered, url: "https://www.rothschildandco.com/en/careers/students-and-graduates/"}
+  - {id: lazard, firm: Lazard, type: rendered, url: "https://www.lazard.com/careers/students/"}
+  - {id: evercore, firm: Evercore, type: rendered, url: "https://www.evercore.com/careers/students-graduates/"}
+  - {id: pjt, firm: PJT Partners, type: rendered, url: "https://pjtpartners.com/careers/students"}
+  - {id: moelis, firm: Moelis & Company, type: rendered, url: "https://www.moelis.com/careers/students/"}
+  - {id: centerview, firm: Centerview Partners, type: rendered, url: "https://www.centerviewpartners.com/careers/"}
+  - {id: houlihan-lokey, firm: Houlihan Lokey, type: rendered, url: "https://hl.com/careers/students/"}
+  - {id: perella, firm: Perella Weinberg, type: rendered, url: "https://pwpartners.com/careers/"}
+  - {id: howden, firm: Howden, type: rendered, url: "https://www.howdengroup.com/uk-en/careers/early-careers"}
+
+  # ---------- buy side, private markets, hedge funds ----------
+  - {id: blackstone, firm: Blackstone, type: workday, host: blackstone.wd1.myworkdayjobs.com, tenant: blackstone,
+     site: Blackstone_Campus_Careers, search: ["london"]}
+  - {id: blackrock, firm: BlackRock, type: rendered, url: "https://careers.blackrock.com/early-careers/"}
+  - {id: kkr, firm: KKR, type: rendered, url: "https://www.kkr.com/careers/students"}
+  - {id: apollo, firm: Apollo, type: rendered, url: "https://www.apollo.com/careers/students"}
+  - {id: carlyle, firm: Carlyle, type: rendered, url: "https://www.carlyle.com/careers/students"}
+  - {id: ares, firm: Ares Management, type: rendered, url: "https://www.aresmgmt.com/careers/campus-recruiting"}
+  - {id: schroders, firm: Schroders, type: rendered, url: "https://www.schroders.com/en/global/individual/careers/early-careers/"}
+  - {id: fidelity-intl, firm: Fidelity International, type: rendered, url: "https://careers.fidelityinternational.com/early-careers/"}
+  - {id: mandg, firm: M&G, type: rendered, url: "https://www.mandg.com/careers/early-careers"}
+  - {id: lgim, firm: Legal & General, type: rendered, url: "https://group.legalandgeneral.com/en/careers/early-careers"}
+  - {id: baillie-gifford, firm: Baillie Gifford, type: rendered, url: "https://www.bailliegifford.com/en/uk/about-us/careers/early-careers/"}
+  - {id: man-group, firm: Man Group, type: rendered, url: "https://www.man.com/careers/early-careers"}
+  - {id: point72, firm: Point72, type: greenhouse, board: point72}
+  - {id: millennium, firm: Millennium, type: rendered, url: "https://www.mlp.com/careers/students/"}
+  - {id: citadel, firm: Citadel, type: rendered, url: "https://www.citadel.com/careers/open-opportunities/students/internships/"}
+  - {id: gic, firm: GIC, type: rendered, url: "https://www.gic.com.sg/careers/early-careers/"}
+
+  # ---------- Big 4, consulting, economic consulting ----------
+  - {id: deloitte, firm: Deloitte, type: rendered, url: "https://www.deloitte.com/uk/en/careers/students.html"}
+  - {id: pwc, firm: PwC, type: rendered, url: "https://www.pwc.co.uk/careers/early-careers/our-programmes.html"}
+  - {id: ey, firm: EY, type: rendered, url: "https://www.ey.com/en_uk/careers/students/programmes"}
+  - {id: kpmg, firm: KPMG, type: rendered, url: "https://www.kpmgcareers.co.uk/undergraduate/"}
+  - {id: mckinsey, firm: McKinsey & Company, type: rendered, url: "https://www.mckinsey.com/careers/students"}
+  - {id: bcg, firm: BCG, type: rendered, url: "https://careers.bcg.com/global/en/students"}
+  - {id: bain, firm: Bain & Company, type: rendered, url: "https://www.bain.com/careers/work-with-us/students/"}
+  - {id: oliver-wyman, firm: Oliver Wyman, type: rendered, url: "https://www.oliverwyman.com/careers/entry-level.html"}
+  - {id: fti, firm: FTI Consulting, type: rendered, url: "https://www.fticonsulting.com/careers/students"}
+  - {id: brg, firm: Berkeley Research Group, type: rendered, url: "https://www.thinkbrg.com/careers/"}
+  - {id: frontier-economics, firm: Frontier Economics, type: rendered, url: "https://www.frontier-economics.com/uk/en/careers/"}
+  - {id: oxera, firm: Oxera, type: rendered, url: "https://www.oxera.com/careers/"}
+  - {id: accuracy, firm: Accuracy, type: rendered, url: "https://www.accuracy.com/careers"}
+
+  # ---------- insurance, broking, pensions, market infrastructure, fintech ----------
+  - {id: aon, firm: Aon, type: rendered, url: "https://www.aon.com/careers/early-careers/uk"}
+  - {id: marsh, firm: Marsh McLennan, type: rendered, url: "https://careers.marshmclennan.com/global/en/early-careers"}
+  - {id: wtw, firm: WTW, type: rendered, url: "https://careers.wtwco.com/early-careers/"}
+  - {id: lloyds-of-london, firm: "Lloyd's", type: rendered, url: "https://www.lloyds.com/about-lloyds/careers/early-careers"}
+  - {id: lseg, firm: LSEG, type: workday, host: lseg.wd3.myworkdayjobs.com, tenant: lseg, site: Careers,
+     search: ["intern london", "summer london"]}
+  - {id: amex, firm: American Express, type: rendered, url: "https://www.americanexpress.com/en-gb/careers/students/"}
+  - {id: revolut, firm: Revolut, type: rendered, url: "https://www.revolut.com/careers/?team=Rev-celerator"}
+  - {id: wise, firm: Wise, type: rendered, url: "https://wise.jobs/early-careers"}
