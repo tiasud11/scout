@@ -1,0 +1,346 @@
+{
+ "run": "2026-09-19 00:26",
+ "haiku": false,
+ "opened": 80,
+ "new": 60,
+ "sources": [
+  {
+   "source": "trackr-summer",
+   "ok": true,
+   "items": 1322
+  },
+  {
+   "source": "trackr-spring",
+   "ok": true,
+   "items": 376
+  },
+  {
+   "source": "brightnetwork-finance",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "goldman-sachs",
+   "ok": true,
+   "items": 26
+  },
+  {
+   "source": "jpmorgan",
+   "ok": true,
+   "items": 94
+  },
+  {
+   "source": "morgan-stanley",
+   "ok": true,
+   "items": 59
+  },
+  {
+   "source": "bank-of-america",
+   "ok": true,
+   "items": 17
+  },
+  {
+   "source": "citi",
+   "ok": true,
+   "items": 118
+  },
+  {
+   "source": "barclays",
+   "ok": true,
+   "items": 27
+  },
+  {
+   "source": "hsbc",
+   "ok": true,
+   "items": 109
+  },
+  {
+   "source": "ubs",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "source": "deutsche-bank",
+   "ok": true,
+   "items": 48
+  },
+  {
+   "source": "bnp-paribas",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "societe-generale",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "source": "nomura",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "rbc",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "source": "jefferies",
+   "ok": true,
+   "items": 33
+  },
+  {
+   "source": "macquarie",
+   "ok": true,
+   "items": 19
+  },
+  {
+   "source": "standard-chartered",
+   "ok": true,
+   "items": 18
+  },
+  {
+   "source": "smbc",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "rothschild",
+   "ok": true,
+   "items": 18
+  },
+  {
+   "source": "lazard",
+   "ok": true,
+   "items": 32
+  },
+  {
+   "source": "evercore",
+   "ok": true,
+   "items": 17
+  },
+  {
+   "source": "pjt",
+   "ok": true,
+   "items": 18
+  },
+  {
+   "source": "moelis",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "source": "centerview",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "houlihan-lokey",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "source": "perella",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "howden",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "source": "blackstone",
+   "ok": true,
+   "items": 18
+  },
+  {
+   "source": "blackrock",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "source": "kkr",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "source": "apollo",
+   "ok": true,
+   "items": 19
+  },
+  {
+   "source": "carlyle",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "ares",
+   "ok": true,
+   "items": 21
+  },
+  {
+   "source": "schroders",
+   "ok": true,
+   "items": 15
+  },
+  {
+   "source": "fidelity-intl",
+   "ok": true,
+   "items": 59
+  },
+  {
+   "source": "mandg",
+   "ok": true,
+   "items": 137
+  },
+  {
+   "source": "lgim",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "baillie-gifford",
+   "ok": true,
+   "items": 16
+  },
+  {
+   "source": "man-group",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "source": "point72",
+   "ok": true,
+   "items": 233
+  },
+  {
+   "source": "millennium",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "source": "citadel",
+   "ok": true,
+   "items": 67
+  },
+  {
+   "source": "gic",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "deloitte",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "pwc",
+   "ok": true,
+   "items": 53
+  },
+  {
+   "source": "ey",
+   "ok": true,
+   "items": 23
+  },
+  {
+   "source": "kpmg",
+   "ok": true,
+   "items": 41
+  },
+  {
+   "source": "mckinsey",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "bcg",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "source": "bain",
+   "ok": true,
+   "items": 25
+  },
+  {
+   "source": "oliver-wyman",
+   "ok": true,
+   "items": 65
+  },
+  {
+   "source": "fti",
+   "ok": true,
+   "items": 33
+  },
+  {
+   "source": "brg",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "frontier-economics",
+   "ok": true,
+   "items": 23
+  },
+  {
+   "source": "oxera",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "source": "accuracy",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "source": "aon",
+   "ok": true,
+   "items": 19
+  },
+  {
+   "source": "marsh",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "wtw",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "source": "lloyds-of-london",
+   "ok": true,
+   "items": 14
+  },
+  {
+   "source": "lseg",
+   "ok": true,
+   "items": 200
+  },
+  {
+   "source": "amex",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "source": "revolut",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "wise",
+   "ok": true,
+   "items": 12
+  }
+ ]
+}
