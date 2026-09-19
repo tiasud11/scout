@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-19 04:15 UK
+# Scout feed, last run 2026-09-19 09:29 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -38,7 +38,18 @@
 | P3 | Apollo | New Heights for Air France-KLM How Apollo’s long-duration capital and aviation expertise h | unknown | ? |  | check | 2026-09-19 | [open](https://www.apollo.com/insights-news/insights/2025/04/air-france-klm--soaring-to-new-heights) |
 | P3 | Apollo | Watch the Replay of Investor Day Featuring senior leaders from across the business providi | unknown | ? |  | check | 2026-09-19 | [open](https://ir.apollo.com/news-events/investor-day-2024) |
 | P3 | Apollo | Insights & News | unknown | ? |  | check | 2026-09-19 | [open](https://www.apollo.com/insights-news) |
+| P3 | Baillie Gifford | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.bailliegifford.com/en/global/all-users/insights/) |
+| P3 | CVC Capital Partners | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cvc.com/cvc-private-wealth/insights/) |
+| P3 | CVC Capital Partners | Analyst Consensus | unknown | ? |  | check | 2026-09-19 | [open](https://www.cvc.com/shareholders/analyst-consensus/) |
+| P3 | CVC Capital Partners | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cvc.com/media/insights/) |
 | P3 | Canaccord Genuity | Students | unknown | ? |  | check | 2026-09-19 | [open](https://www.canaccordgenuity.com/global-careers/students/) |
+| P3 | Carlyle | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.carlyle.com/careers/students#main-content) |
+| P3 | Carlyle | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.carlyle.com/global-insights) |
+| P3 | Carlyle | Insights & Indicators | unknown | ? |  | check | 2026-09-19 | [open](https://www.carlyle.com/insights-and-indicators) |
+| P3 | Carlyle | Insights From the PM's Desk | unknown | ? |  | check | 2026-09-19 | [open](https://www.carlyle.com/insights-from-the-pms-desk) |
+| P3 | Carlyle | Insights & Indicators | unknown | ? |  | check | 2026-09-19 | [open](https://insights-and-indicators.castos.com/) |
+| P3 | Cinven | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cinven.com/news-insights/) |
+| P3 | Cinven | Read more → | unknown | ? |  | check | 2026-09-19 | [open](https://www.cinven.com/news-insights/cinven-closes-second-strategic-fund/) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -57,13 +68,72 @@
 | P3 | KKR | FEATURED INSIGHT The Total Portfolio Approach: The Dog Has Caught the Bus | unknown | ? |  | check | 2026-09-19 | [open](https://www.kkr.com/insights/total-portfolio-approach-faq) |
 | P3 | KKR | Skip to Menu Toggle Button | unknown | ? |  | check | 2026-09-19 | [open](https://www.kkr.com/careers/students#cmp-header__hamburgerBtn) |
 | P3 | KKR | Student Careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.kkr.com/careers/student-careers) |
+| P3 | Legal & General | Equity investors and analyst centre | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/) |
+| P3 | Legal & General | Analysts | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/analysts/) |
+| P3 | Legal & General | Consensus | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/consensus/) |
+| P3 | Legal & General | RNS announcements | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/rns-announcements/) |
+| P3 | Legal & General | Share buyback | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/share-buyback/) |
+| P3 | Legal & General | Decades Ahead Read our recent reports on boosting UK pensions adequacy and economic growth | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/decades-ahead/) |
 | P3 | Liberum | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.liberum.com/news/?type=insights) |
 | P3 | Liberum | International Trading | unknown | ? |  | check | 2026-09-19 | [open](https://www.liberum.com/execution#international-trading) |
 | P3 | Liberum | All News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.liberum.com/news/) |
 | P3 | M&G | Link to Share buyback programme page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/investors/results-and-announcements/share-buyback-programme) |
 | P3 | M&G | Link to Equity analysts and consensus page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/investors/equity-analysts-coverage) |
 | P3 | M&G | Link to News & insights page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights) |
+| P3 | M&G | Link to Press releases page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases) |
+| P3 | M&G | Link to Reframing retirement page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/reframing-retirement) |
+| P3 | M&G | Link to M&G Stands For page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/standsfor) |
+| P3 | M&G | Link to Views and insights page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights) |
+| P3 | M&G | Link to Group media contacts page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/group-media-contacts) |
+| P3 | M&G | Link to Press release archive page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-release-archive) |
+| P3 | M&G | Link to Early careers page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/careers/routes-into-mandg/early-careers) |
+| P3 | M&G | Link to Graduate opportunities page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/careers/routes-into-mandg/graduate-opportunities) |
+| P3 | M&G | Link to Internships page | summer_likely | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/careers/routes-into-mandg/internships) |
+| P3 | M&G | View page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/03-09-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/mg-half-year-results-2026-five-key-questions) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/17-09-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/15-09-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/14-09-2026-am) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/10-09-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/08-09-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/08-09-2026-am) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/07-09-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/broadcast-interviews-put-m-and-g-s-momentum-and-growth-in-the-spotlight) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/01-09-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-08-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/the-ribbon-transforming-oxford-street-through-long-term-investment) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/25m-pounds-invested-in-grid-decarbonisation-technology) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/23-07-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2025/09-12-2025) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/03-07-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/17-06-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/investing-in-regenerative-agriculture) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/239-million-investment-into-the-living-sector-in-spain) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/19-05-2026-am) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/13-07-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2022/700m-investment-in-japans-office-market) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/28-04-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/05-01-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2025/global-ai-driven-infrastructure) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/50m-investment-to-improve-digital-banking-access-in-asia) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/573-senior-living-homes) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/75m-investment-into-green-agriculture) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2022/273000-people-with-improved-access-to-healthy-fruits) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2022/200m-pounds-plus-backing-solar-power-for-millions-of-people) |
+| P3 | M&G | Link to 400+ serviced apartments, Our €73.5m investment adds 404 serviced apartments in Be | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/09-07-2026) |
+| P3 | M&G | Link to 667 new homes, Our investment of more than €250m adds 667 energy-efficient homes i | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/25-06-2026) |
+| P3 | M&G | Link to 250 hotel rooms, We acquired the 250-room Travelodge Poblenou Hotel in Barcelona f | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/23-04-2026) |
+| P3 | M&G | Link to 74,000 sqm of logistics space, Our €100m investment adds modern logistics faciliti | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2025/18-12-2025-b) |
+| P3 | M&G | Link to 206 new homes, Delivered through our investment, MORE5 provides 206 new homes in L | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2025/30-10-2025) |
+| P3 | M&G | Link to M&G invested $300m in Seeker Music, managing 17,000 copyrights and 38 Spotify Bill | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2025/17000-songs-in-our-music-catalogue) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2020/150m-invested-in-green-infrastructure) |
+| P3 | Man Group | Insights hub | unknown | ? |  | check | 2026-09-19 | [open](https://www.man.com/insights) |
 | P3 | Natixis | About us | unknown | ? |  | check | 2026-09-19 | [open](https://www.natixis.com/en/careers/students-graduates) |
+| P3 | Peel Hunt | International access | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/about-us/international-access/) |
+| P3 | Peel Hunt | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/news-insights/) |
+| P3 | Peel Hunt | Internships | summer_likely | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/careers/internships/) |
+| P3 | Permira | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights) |
+| P3 | Permira | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights/insights) |
 | P3 | Stifel | Skip to Main Content | unknown | ? |  | check | 2026-09-19 | [open](https://www.stifel.com/careers/students-graduates#main-content) |
 | P3 | Stifel | Investment Strategy Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.stifelinsights.com/) |
 | P3 | TD Securities | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/en-CA/students-graduates/#content) |
