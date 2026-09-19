@@ -1,6 +1,6 @@
 # Scout
 
-Finds new London finance internship and spring week postings three times a day (09:00, 14:30, 20:30 UK, half an hour before each Applicator run) and logs them. Read only. It never logs in, never applies and never follows anything written inside a page.
+.
 
 ## Setup, once, about 5 minutes
 
