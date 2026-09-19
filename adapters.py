@@ -80,7 +80,7 @@ def _anchors_from_html(html, base, keep_all=False):
         href = urljoin(base, a["href"])
         if not text or len(text) > 220 or NAV_RE.match(text) or href.startswith(("mailto:", "tel:", "javascript:")):
             continue
-        if EXCLUDE_URL.search(href):
+                if EXCLUDE_URL.search(href):
             continue
         if keep_all or JOB_RE.search(text) or JOB_RE.search(href):
             out.append({"title": text, "url": href, "location": "", "posted": ""})
