@@ -1,168 +1,90 @@
 {
- "run": "2026-09-19 00:26",
+ "run": "2026-09-19 04:15",
  "haiku": false,
  "opened": 80,
- "new": 60,
+ "new": 53,
  "sources": [
-  {
-   "source": "trackr-summer",
-   "ok": true,
-   "items": 1322
-  },
-  {
-   "source": "trackr-spring",
-   "ok": true,
-   "items": 376
-  },
-  {
-   "source": "brightnetwork-finance",
-   "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
-  },
-  {
-   "source": "goldman-sachs",
-   "ok": true,
-   "items": 26
-  },
-  {
-   "source": "jpmorgan",
-   "ok": true,
-   "items": 94
-  },
-  {
-   "source": "morgan-stanley",
-   "ok": true,
-   "items": 59
-  },
-  {
-   "source": "bank-of-america",
-   "ok": true,
-   "items": 17
-  },
-  {
-   "source": "citi",
-   "ok": true,
-   "items": 118
-  },
-  {
-   "source": "barclays",
-   "ok": true,
-   "items": 27
-  },
   {
    "source": "hsbc",
    "ok": true,
    "items": 109
   },
   {
-   "source": "ubs",
-   "ok": true,
-   "items": 3
-  },
-  {
-   "source": "deutsche-bank",
-   "ok": true,
-   "items": 48
-  },
-  {
-   "source": "bnp-paribas",
+   "source": "mufg",
    "ok": true,
    "items": 0,
    "warn": "zero items, selector or URL may have changed"
   },
   {
-   "source": "societe-generale",
-   "ok": true,
-   "items": 11
-  },
-  {
-   "source": "nomura",
-   "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
-  },
-  {
-   "source": "rbc",
-   "ok": true,
-   "items": 3
-  },
-  {
-   "source": "jefferies",
-   "ok": true,
-   "items": 33
-  },
-  {
-   "source": "macquarie",
-   "ok": true,
-   "items": 19
-  },
-  {
-   "source": "standard-chartered",
+   "source": "ing",
    "ok": true,
    "items": 18
   },
   {
-   "source": "smbc",
+   "source": "natixis",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "source": "credit-agricole-cib",
    "ok": true,
    "items": 0,
    "warn": "zero items, selector or URL may have changed"
   },
   {
-   "source": "rothschild",
-   "ok": true,
-   "items": 18
-  },
-  {
-   "source": "lazard",
-   "ok": true,
-   "items": 32
-  },
-  {
-   "source": "evercore",
-   "ok": true,
-   "items": 17
-  },
-  {
-   "source": "pjt",
-   "ok": true,
-   "items": 18
-  },
-  {
-   "source": "moelis",
-   "ok": true,
-   "items": 3
-  },
-  {
-   "source": "centerview",
+   "source": "santander-cib",
    "ok": true,
    "items": 0,
    "warn": "zero items, selector or URL may have changed"
   },
   {
-   "source": "houlihan-lokey",
+   "source": "td-securities",
    "ok": true,
-   "items": 11
+   "items": 29
   },
   {
-   "source": "perella",
+   "source": "unicredit",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "raine",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "source": "liontree",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "peel-hunt",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "investec",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "liberum",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "canaccord",
    "ok": true,
    "items": 1
   },
   {
-   "source": "howden",
+   "source": "stifel",
    "ok": true,
-   "items": 3
-  },
-  {
-   "source": "blackstone",
-   "ok": true,
-   "items": 18
-  },
-  {
-   "source": "blackrock",
-   "ok": true,
-   "items": 8
+   "items": 2
   },
   {
    "source": "kkr",
@@ -177,22 +99,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
-  },
-  {
-   "source": "ares",
-   "ok": true,
-   "items": 21
-  },
-  {
-   "source": "schroders",
-   "ok": true,
-   "items": 15
-  },
-  {
-   "source": "fidelity-intl",
-   "ok": true,
-   "items": 59
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -215,25 +123,149 @@
    "items": 3
   },
   {
-   "source": "point72",
-   "ok": true,
-   "items": 233
-  },
-  {
-   "source": "millennium",
+   "source": "cinven",
    "ok": true,
    "items": 5
   },
   {
-   "source": "citadel",
+   "source": "cvc",
    "ok": true,
-   "items": 67
+   "items": 3
   },
   {
-   "source": "gic",
+   "source": "permira",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "source": "warburg-pincus",
    "ok": true,
    "items": 0,
    "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "tpg",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "source": "eqt",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "ardian",
+   "ok": true,
+   "items": 16
+  },
+  {
+   "source": "brookfield",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "source": "partners-group",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "source": "hg-capital",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "source": "bain-capital",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "oaktree",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "source": "silver-lake",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "vista-equity",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "marshall-wace",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "balyasny",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "exoduspoint",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "abrdn",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "source": "invesco",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "source": "amundi",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "t-rowe-price",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "pictet",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "northern-trust",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "state-street",
+   "ok": true,
+   "items": 49
+  },
+  {
+   "source": "insight-investment",
+   "ok": true,
+   "items": 52
+  },
+  {
+   "source": "aviva-investors",
+   "ok": true,
+   "items": 22
+  },
+  {
+   "source": "janus-henderson",
+   "ok": true,
+   "items": 1
   },
   {
    "source": "deloitte",
@@ -243,7 +275,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 53
+   "items": 165
   },
   {
    "source": "ey",
@@ -254,12 +286,6 @@
    "source": "kpmg",
    "ok": true,
    "items": 41
-  },
-  {
-   "source": "mckinsey",
-   "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "bcg",
@@ -279,12 +305,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
-  },
-  {
-   "source": "brg",
-   "ok": true,
-   "items": 6
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -297,11 +318,6 @@
    "items": 9
   },
   {
-   "source": "accuracy",
-   "ok": true,
-   "items": 7
-  },
-  {
    "source": "aon",
    "ok": true,
    "items": 19
@@ -312,33 +328,96 @@
    "items": 1
   },
   {
-   "source": "wtw",
-   "ok": true,
-   "items": 4
-  },
-  {
    "source": "lloyds-of-london",
    "ok": true,
    "items": 14
   },
   {
-   "source": "lseg",
+   "source": "wise",
    "ok": true,
-   "items": 200
+   "items": 12
   },
   {
-   "source": "amex",
-   "ok": true,
-   "items": 9
-  },
-  {
-   "source": "revolut",
+   "source": "beazley",
    "ok": true,
    "items": 0,
    "warn": "zero items, selector or URL may have changed"
   },
   {
-   "source": "wise",
+   "source": "aviva",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "admiral",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "gallagher",
+   "ok": true,
+   "items": 14
+  },
+  {
+   "source": "monzo",
+   "ok": true,
+   "items": 73
+  },
+  {
+   "source": "starling",
+   "ok": false,
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/starlingbank/jobs"
+  },
+  {
+   "source": "klarna",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "source": "checkout",
+   "ok": false,
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/checkoutcom/jobs"
+  },
+  {
+   "source": "gocardless",
+   "ok": true,
+   "items": 25
+  },
+  {
+   "source": "trackr-summer",
+   "ok": true,
+   "items": 339
+  },
+  {
+   "source": "trackr-spring",
+   "ok": true,
+   "items": 56
+  },
+  {
+   "source": "brightnetwork-finance",
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
+  },
+  {
+   "source": "efinancialcareers",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "source": "ratemyplacement",
+   "ok": true,
+   "items": 409
+  },
+  {
+   "source": "targetjobs",
+   "ok": true,
+   "items": 54
+  },
+  {
+   "source": "jointheintake",
    "ok": true,
    "items": 12
   }
