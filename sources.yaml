@@ -17,12 +17,6 @@
 
 sources:
   # ---------- aggregators (safety net, direct pages below are what gets her in early) ----------
-  - {id: trackr-summer, type: rendered, aggregator: true, keep_all: true, scrolls: 12,
-     url: "https://app.the-trackr.com/uk-finance/summer-internships"}
-  - {id: trackr-spring, type: rendered, aggregator: true, keep_all: true, scrolls: 12,
-     url: "https://app.the-trackr.com/uk-finance/spring-weeks"}
-  - {id: brightnetwork-finance, type: rendered, aggregator: true, scrolls: 8,
-     url: "https://www.brightnetwork.co.uk/search/?content_types=jobs&career_path_sectors=banking-finance&job_types=internship&locations=london"}
 
   # ---------- investment banks ----------
   - {id: goldman-sachs, firm: Goldman Sachs, type: rendered, url: "https://higher.gs.com/campus?LOCATION=London"}
@@ -100,3 +94,10 @@ sources:
   - {id: amex, firm: American Express, type: rendered, url: "https://www.americanexpress.com/en-gb/careers/students/"}
   - {id: revolut, firm: Revolut, type: rendered, url: "https://www.revolut.com/careers/?team=Rev-celerator"}
   - {id: wise, firm: Wise, type: rendered, url: "https://wise.jobs/early-careers"}
+
+  - {id: trackr-summer, type: rendered, aggregator: true, keep_all: true, scrolls: 12,
+     url: "https://app.the-trackr.com/uk-finance/summer-internships"}
+  - {id: trackr-spring, type: rendered, aggregator: true, keep_all: true, scrolls: 12,
+     url: "https://app.the-trackr.com/uk-finance/spring-weeks"}
+  - {id: brightnetwork-finance, type: rendered, aggregator: true, scrolls: 8,
+     url: "https://www.brightnetwork.co.uk/search/?content_types=jobs&career_path_sectors=banking-finance&job_types=internship&locations=london"}
