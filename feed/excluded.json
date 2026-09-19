@@ -1340,5 +1340,93 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "acc1247391d18775",
+  "firm": "PwC",
+  "role_title": "Diversity Programmes",
+  "division": "",
+  "location": "",
+  "url": "https://www.pwc.co.uk/careers/early-careers/undergraduate/diversity-programmes.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities",
+  "source": "pwc",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "bc3d10626f946e1e",
+  "firm": "PwC",
+  "role_title": "Inclusion",
+  "division": "",
+  "location": "",
+  "url": "https://www.pwc.co.uk/careers/working-at-pwc/inclusion.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities",
+  "source": "pwc",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2025, 2025), (2025, 2025)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "930e5117a0e9a947",
+  "firm": "EY",
+  "role_title": "Sustainability in Financial Services",
+  "division": "",
+  "location": "",
+  "url": "https://www.ey.com/en_gl/insights/sustainability-financial-services",
+  "source": "ey",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "standalone sustainable finance role (title)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "e64cff6765bb7b89",
+  "firm": "EY",
+  "role_title": "How data readiness can enhance private equity exit value Data readiness is now critical to exit value, speed and confidence. Discover why it matters and how to be proactive. 05 Mar 2026 Private Equity",
+  "division": "",
+  "location": "",
+  "url": "https://www.ey.com/en_uk/insights/private-equity/how-data-readiness-can-enhance-private-equity-exit-value",
+  "source": "ey",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
