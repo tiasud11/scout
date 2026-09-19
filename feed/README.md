@@ -1,7 +1,8 @@
-# Scout feed, last run 2026-09-19 09:29 UK
+# Scout feed, last run 2026-09-19 11:30 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
+| P1 | Hg Capital | Insights | unknown | 2023-12-22 |  | check | 2026-09-19 | [open](https://hgcapital.com/insights) |
 | P1 | trackr-summer | Raine Group | unknown | 2026-01-04 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/raine-group) |
 | P1 | trackr-summer | Piper Sandler | unknown | 2026-06-09 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/piper-sandler) |
 | P1 | trackr-summer | D.E. Shaw | unknown | 2026-07-10 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/d-e-shaw) |
@@ -38,7 +39,20 @@
 | P3 | Apollo | New Heights for Air France-KLM How Apollo’s long-duration capital and aviation expertise h | unknown | ? |  | check | 2026-09-19 | [open](https://www.apollo.com/insights-news/insights/2025/04/air-france-klm--soaring-to-new-heights) |
 | P3 | Apollo | Watch the Replay of Investor Day Featuring senior leaders from across the business providi | unknown | ? |  | check | 2026-09-19 | [open](https://ir.apollo.com/news-events/investor-day-2024) |
 | P3 | Apollo | Insights & News | unknown | ? |  | check | 2026-09-19 | [open](https://www.apollo.com/insights-news) |
+| P3 | Ardian | Follow Ardian on Jobs on LinkedIn | unknown | ? |  | check | 2026-09-19 | [open](https://www.linkedin.com/showcase/jobs-&-internships/ ) |
+| P3 | Ardian | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights) |
+| P3 | Ardian | ARTICLES | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/articles) |
+| P3 | Ardian | VIDEOS | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/videos) |
+| P3 | Ardian | PODCASTS | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/podcasts-all) |
+| P3 | Ardian | CASE STUDIES | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/case-studies) |
+| P3 | Ardian | PUBLICATIONS | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/publications) |
+| P3 | Ardian | EVENTS | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/conferences) |
+| P3 | Ardian | Press Releases | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/press-releases) |
+| P3 | Aviva Investors | Skip to content | unknown | ? |  | check | 2026-09-19 | [open](https://www.avivainvestors.com/en-gb/careers/students-and-graduates/#main) |
 | P3 | Baillie Gifford | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.bailliegifford.com/en/global/all-users/insights/) |
+| P3 | Brookfield | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/careers/students-and-graduates#main-content) |
+| P3 | Brookfield | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/views-news/insights) |
+| P3 | Brookfield | Student Programs | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/careers/student-programs) |
 | P3 | CVC Capital Partners | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cvc.com/cvc-private-wealth/insights/) |
 | P3 | CVC Capital Partners | Analyst Consensus | unknown | ? |  | check | 2026-09-19 | [open](https://www.cvc.com/shareholders/analyst-consensus/) |
 | P3 | CVC Capital Partners | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cvc.com/media/insights/) |
@@ -50,6 +64,7 @@
 | P3 | Carlyle | Insights & Indicators | unknown | ? |  | check | 2026-09-19 | [open](https://insights-and-indicators.castos.com/) |
 | P3 | Cinven | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cinven.com/news-insights/) |
 | P3 | Cinven | Read more → | unknown | ? |  | check | 2026-09-19 | [open](https://www.cinven.com/news-insights/cinven-closes-second-strategic-fund/) |
+| P3 | EQT | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://eqtgroup.com/thinq) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -63,6 +78,38 @@
 | P3 | HSBC | Share on WhatsApp Open in new window | unknown | ? |  | check | 2026-09-19 | [open](whatsapp://send?text=https%3a%2f%2fwww.hsbc.com%2fcareers%2fstudents-and-graduates%2ffind-a-programme) |
 | P3 | ING | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.ing.jobs/global/careers/students.htm#content) |
 | P3 | ING | Early careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.ing.jobs/en/early-careers) |
+| P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
+| P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
+| P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
+| P3 | Insight Investment | United States | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/united-states/) |
+| P3 | Insight Investment | Australia | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/australia/) |
+| P3 | Insight Investment | Belgium | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/belgium/) |
+| P3 | Insight Investment | Canada | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/canada/) |
+| P3 | Insight Investment | Deutschland | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/deutschland/) |
+| P3 | Insight Investment | Denmark | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/denmark/) |
+| P3 | Insight Investment | España | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/espana/) |
+| P3 | Insight Investment | Finland | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/finland/) |
+| P3 | Insight Investment | France | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/france/) |
+| P3 | Insight Investment | Ireland | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/ireland/) |
+| P3 | Insight Investment | Italia | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/italia/) |
+| P3 | Insight Investment | Luxembourg | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/luxembourg/) |
+| P3 | Insight Investment | Netherlands | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/netherlands/) |
+| P3 | Insight Investment | Norway | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/norway/) |
+| P3 | Insight Investment | Österreich | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/osterreich/) |
+| P3 | Insight Investment | Portugal | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/portugal/) |
+| P3 | Insight Investment | Sweden | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/sweden/) |
+| P3 | Insight Investment | Switzerland | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/switzerland/) |
+| P3 | Insight Investment | Insight Investment logo | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/) |
+| P3 | Insight Investment | Terms and conditions | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/terms-and-conditions/) |
+| P3 | Insight Investment | Privacy notice | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/privacy-notice/) |
+| P3 | Insight Investment | Cookie notice | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/cookie-notice/) |
+| P3 | Insight Investment | Sitemap | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/sitemap/) |
+| P3 | Insight Investment | Cookie Policy | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/cookie-policy/) |
+| P3 | Invesco | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.invesco.com/corporate/en/about-us/careers/students-graduates.html#inv-main-content) |
+| P3 | Invesco | Press Releases | unknown | ? |  | check | 2026-09-19 | [open](https://www.invesco.com/corporate/en/news-and-insights/press-releases.html) |
+| P3 | Invesco | CEO Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.invesco.com/corporate/en/news-and-insights/ceo-insights.html) |
+| P3 | Invesco | Global Thought Leadership | unknown | ? |  | check | 2026-09-19 | [open](https://www.invesco.com/corporate/en/news-and-insights/thought-leadership.html) |
+| P3 | Janus Henderson | Skip to content | unknown | ? |  | check | 2026-09-19 | [open](https://www.janushenderson.com/en-gb/careers/students-and-graduates/#content) |
 | P3 | KKR | KKR Global Learn about KKR's approach, solutions, and insights. This site is for clients,  | unknown | ? |  | check | 2026-09-19 | [open](https://www.kkr.com/) |
 | P3 | KKR | Learn more | unknown | ? |  | check | 2026-09-19 | [open](https://www.kkr.com/insights) |
 | P3 | KKR | FEATURED INSIGHT The Total Portfolio Approach: The Dog Has Caught the Bus | unknown | ? |  | check | 2026-09-19 | [open](https://www.kkr.com/insights/total-portfolio-approach-faq) |
@@ -129,11 +176,24 @@
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2020/150m-invested-in-green-infrastructure) |
 | P3 | Man Group | Insights hub | unknown | ? |  | check | 2026-09-19 | [open](https://www.man.com/insights) |
 | P3 | Natixis | About us | unknown | ? |  | check | 2026-09-19 | [open](https://www.natixis.com/en/careers/students-graduates) |
+| P3 | Oaktree Capital | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/insights) |
+| P3 | Oaktree Capital | Oaktree's Our Communities Matter program | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/responsibility/philanthropy) |
+| P3 | Partners Group | Analyst Coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.partnersgroup.com/shareholders/share-information#analyst-coverage) |
 | P3 | Peel Hunt | International access | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/about-us/international-access/) |
 | P3 | Peel Hunt | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/news-insights/) |
 | P3 | Peel Hunt | Internships | summer_likely | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/careers/internships/) |
 | P3 | Permira | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights) |
 | P3 | Permira | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights/insights) |
+| P3 | Permira | Announcements | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights/announcements) |
+| P3 | Permira | In the News | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights/in-the-news) |
+| P3 | State Street | Company websites | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/careers/students-and-graduates.html) |
+| P3 | State Street | International (Country Not Listed ) | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/inl/en) |
+| P3 | State Street | Digital and Technology | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights#f-stt_insights_section=Digital%20and%20Technology&f-stt_sitesection=Insights) |
+| P3 | State Street | Street Signals Podcast | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/street-signals-podcast) |
+| P3 | State Street | Future State Podcast | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/future-state-podcast) |
+| P3 | State Street | Learn more | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/sibos-2026) |
+| P3 | State Street | State Street PriceStats: Inflation downshift stalls The State Street PriceStats US index r | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/us-inflation-pricestats-july) |
+| P3 | State Street | Private credit under stress: Idiosyncratic episodes or systemic risk? Our analysis explore | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/private-credit-stress) |
 | P3 | Stifel | Skip to Main Content | unknown | ? |  | check | 2026-09-19 | [open](https://www.stifel.com/careers/students-graduates#main-content) |
 | P3 | Stifel | Investment Strategy Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.stifelinsights.com/) |
 | P3 | TD Securities | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/en-CA/students-graduates/#content) |
@@ -142,6 +202,22 @@
 | P3 | TD Securities | Programs in USA | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/student-new-grads/career-development-programs/#usa) |
 | P3 | TD Securities | Graduate Leadership Programs | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/graduate-leadership-programs/) |
 | P3 | TD Securities | Internship/Co-op | Undergraduate/Graduate | summer_likely | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/finding-a-team/job-categories/#internship) |
+| P3 | TPG | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights) |
+| P3 | TPG | View All Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/insights) |
+| P3 | TPG | The Expanding Content Economy | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/the-expanding-content-economy) |
+| P3 | TPG | Investing Perspectives Shaping the Future of Healthcare Technology | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/investing-perspectives-shaping-the-future-of-healthcare-technology) |
+| P3 | TPG | Investment Insights: A Local Approach to Asia Real Estate | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/investment-insights-a-local-approach-to-asia-real-estate) |
+| P3 | TPG | IDMC (Internet, Digital Media & Communications) | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/approach/internet-digital-media) |
+| P3 | TPG | Press Releases | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/news) |
+| P3 | Vista Equity Partners | White Paper Investing in Enterprise Software Learn from Robert F. Smith why enterprise sof | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/investing-in-enterprise-software/) |
+| P3 | Vista Equity Partners | White Paper Demystifying Generative AI Explore how Gen AI is redefining industries. | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/generative-ai-investment-insights/) |
+| P3 | Vista Equity Partners | News + Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/careers/) |
+| P3 | Vista Equity Partners | Insights by Vista Forefront | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/) |
+| P3 | Vista Equity Partners | Outlook Software’s Transition to Agentic Enterprise AI Learn more on how Vista is measurin | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/ai-impact-vista-portfolio-2026-mid-year-report/) |
+| P3 | Vista Equity Partners | Video Software’s Next Chapter: Robert F. Smith on The Next Era of Enterprise Platforms Wat | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/softwares-next-chapter-robert-f-smith-on-the-next-era-of-enterprise-platforms/) |
+| P3 | Vista Equity Partners | AI In Practice The State of Wealth Management AI Adoption Learn how wealth management firm | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/the-state-of-wealth-management-ai-adoption/) |
+| P3 | Vista Equity Partners | Insights by Vista Forefront | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/?topic=education-insights) |
+| P3 | abrdn | Risk Warning | unknown | ? |  | check | 2026-09-19 | [open](https://www.abrdn.com/en/data/risk-warning-folder/risk-warning) |
 | P3 | trackr-summer | Academy | unknown | ? |  | check | 2026-09-19 | [open](https://academy.the-trackr.com) |
 | P3 | trackr-summer | Employers | unknown | ? |  | check | 2026-09-19 | [open](https://partners.the-trackr.com) |
 | P3 | trackr-summer | Account | unknown | ? |  | check | 2026-09-19 | [open](https://app.the-trackr.com/account/login) |

@@ -1252,5 +1252,93 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "8b3714f348887f14",
+  "firm": "Brookfield",
+  "role_title": "White Paper Sep 2026 Private markets: Building what’s next",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/private-markets-building-whats-next",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "c7352fcdc2d6b7be",
+  "firm": "Brookfield",
+  "role_title": "Commentary Robert O’Leary, Armen Panossian Sep 2026 Podcast: Credit Crossroads with Bob O’Leary and Armen Panossian",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/podcast-credit-crossroads-bob-oleary-and-armen-panossian",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "a357ee1288b431b9",
+  "firm": "Partners Group",
+  "role_title": "Financial Analyst Program",
+  "division": "",
+  "location": "",
+  "url": "https://www.partnersgroup.com/en/careers/financial-analyst-program",
+  "source": "partners-group",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": "2026-07-31",
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2026, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "662eeeddc73f8be6",
+  "firm": "State Street",
+  "role_title": "Private Markets Study 2026: Resilience meets opportunity",
+  "division": "",
+  "location": "",
+  "url": "https://www.statestreet.com/content/statestreet/us/en/insights/private-markets-study-2026",
+  "source": "state-street",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

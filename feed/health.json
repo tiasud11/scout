@@ -1,8 +1,8 @@
 {
- "run": "2026-09-19 09:29",
+ "run": "2026-09-19 11:30",
  "haiku": false,
  "opened": 80,
- "new": 70,
+ "new": 76,
  "sources": [
   {
    "source": "hsbc",
@@ -62,7 +62,8 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 10
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "investec",
