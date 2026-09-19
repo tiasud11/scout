@@ -80,7 +80,7 @@ def _anchors_from_html(html, base, keep_all=False):
         href = urljoin(base, a["href"])
         if not text or len(text) > 220 or NAV_RE.match(text) or href.startswith(("mailto:", "tel:", "javascript:")):
             continue
-                    if EXCLUDE_URL.search(href):
+        if EXCLUDE_URL.search(href):
             continue
         if keep_all or JOB_RE.search(text) or JOB_RE.search(href):
             out.append({"title": text, "url": href, "location": "", "posted": ""})
@@ -105,7 +105,7 @@ def _harvest_json(obj, base, out, depth=0):
                      if isinstance(obj.get(k), str) and 3 < len(obj[k]) < 200), None)
         ukey = next((k for k in ("url", "link", "applyUrl", "applicationUrl", "href", "absolute_url")
                      if isinstance(obj.get(k), str) and obj[k].startswith(("http", "/"))), None)
-            if tkey and ukey and not EXCLUDE_URL.search(urljoin(base, obj[ukey])):
+        if tkey and ukey and not EXCLUDE_URL.search(urljoin(base, obj[ukey])):
             firm = ""
             for k in ("company", "companyName", "firm", "employer"):
                 v = obj.get(k)
