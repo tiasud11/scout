@@ -1,8 +1,8 @@
 {
- "run": "2026-09-19 14:50",
+ "run": "2026-09-19 20:54",
  "haiku": false,
  "opened": 80,
- "new": 76,
+ "new": 73,
  "sources": [
   {
    "source": "hsbc",
@@ -62,8 +62,7 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 10
   },
   {
    "source": "investec",
@@ -254,7 +253,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -304,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",

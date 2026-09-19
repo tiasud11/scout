@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-19 14:50 UK
+# Scout feed, last run 2026-09-19 20:54 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -52,7 +52,27 @@
 | P3 | Ardian | EVENTS | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/conferences) |
 | P3 | Ardian | Press Releases | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/press-releases) |
 | P3 | Aviva Investors | Skip to content | unknown | ? |  | check | 2026-09-19 | [open](https://www.avivainvestors.com/en-gb/careers/students-and-graduates/#main) |
+| P3 | BCG | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/students#skipToMainContent) |
+| P3 | BCG | Early Careers | unknown | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/early-careers) |
+| P3 | BCG | Internship Opportunities | summer_likely | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/internship-opportunities) |
+| P3 | BCG | Students & Campus Programs | unknown | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/on-campus) |
+| P3 | BCG | Expertise and Insights | unknown | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/teams/expertise-insights) |
 | P3 | Baillie Gifford | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.bailliegifford.com/en/global/all-users/insights/) |
+| P3 | Bain & Company | Skip to Content | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/careers/work-with-us/students/#maincontent) |
+| P3 | Bain & Company | Brazil (Português) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/pt-br/careers/work-with-us/students/) |
+| P3 | Bain & Company | Argentina (Español) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/es-ar/careers/work-with-us/students/) |
+| P3 | Bain & Company | Canada (Français) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/fr-ca/careers/work-with-us/students/) |
+| P3 | Bain & Company | Chile (Español) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/es-cl/careers/work-with-us/students/) |
+| P3 | Bain & Company | Colombia (Español) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/es-co/careers/work-with-us/students/) |
+| P3 | Bain & Company | France (Français) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/fr/careers/work-with-us/students/) |
+| P3 | Bain & Company | DACH Region (Deutsch) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/de/careers/work-with-us/students/) |
+| P3 | Bain & Company | Italy (Italiano) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/it/careers/work-with-us/students/) |
+| P3 | Bain & Company | Spain (Español) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/es-es/careers/work-with-us/students/) |
+| P3 | Bain & Company | Greece (Elliniká) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/el/careers/work-with-us/students/) |
+| P3 | Bain & Company | Korea (한국어) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/ko/careers/work-with-us/students/) |
+| P3 | Bain & Company | Japan (日本語) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/ja/careers/work-with-us/students/) |
+| P3 | Bain & Company | Explore Bain Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/insights/) |
+| P3 | Bain & Company | Internships & Programs | summer_likely | ? |  | check | 2026-09-19 | [open](https://www.bain.com/careers/work-with-us/internships-programs/) |
 | P3 | Brookfield | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/careers/students-and-graduates#main-content) |
 | P3 | Brookfield | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/views-news/insights) |
 | P3 | Brookfield | Student Programs | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/careers/student-programs) |
@@ -129,6 +149,22 @@
 | P3 | KKR | FEATURED INSIGHT The Total Portfolio Approach: The Dog Has Caught the Bus | unknown | ? |  | check | 2026-09-19 | [open](https://www.kkr.com/insights/total-portfolio-approach-faq) |
 | P3 | KKR | Skip to Menu Toggle Button | unknown | ? |  | check | 2026-09-19 | [open](https://www.kkr.com/careers/students#cmp-header__hamburgerBtn) |
 | P3 | KKR | Student Careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.kkr.com/careers/student-careers) |
+| P3 | KPMG | Abilities Talent Insight | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/undergraduate/abilities-talent-insight/) |
+| P3 | KPMG | Black Heritage Talent Insight | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/undergraduate/black-heritage-talent-insight/) |
+| P3 | KPMG | Social Mobility Talent Insight | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/undergraduate/social-mobility-talent-insight/) |
+| P3 | KPMG | Vacation programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/undergraduate/vacation-programmes/) |
+| P3 | KPMG | One Year Business Placement | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/undergraduate/one-year-business-placement/) |
+| P3 | KPMG | Applying to KPMG | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/undergraduate/applying-to-kpmg/) |
+| P3 | KPMG | Audit | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/graduate/audit/) |
+| P3 | KPMG | Consulting | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/graduate/consulting/) |
+| P3 | KPMG | Tax & Law | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/graduate/tax-law/) |
+| P3 | KPMG | Technology & Engineering | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/graduate/technology-engineering/) |
+| P3 | KPMG | Applying to KPMG | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/graduate/applying-to-kpmg/) |
+| P3 | KPMG | Search and apply | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/search/vacancies/?searchText=Undergraduate&intakeType=Student) |
+| P3 | KPMG | Sign up now | unknown | ? |  | check | 2026-09-19 | [open](https://student.kpmgcareers.co.uk/talentcommunity) |
+| P3 | KPMG | Search and apply | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/search/vacancies/?experienceLevels[0]=Vacation&experienceLevels[1]=Insight%20Penultimate%20Year&experienceLevels[2]=Insight%20Graduate&experienceLevels[3]=Work%20Experience&intakeType=Student) |
+| P3 | KPMG | #Graduate | unknown | ? |  | check | 2026-09-19 | [open](https://www.instagram.com/explore/tags/Graduate/) |
+| P3 | KPMG | #StudentTalentCommunity | unknown | ? |  | check | 2026-09-19 | [open](https://www.instagram.com/explore/tags/StudentTalentCommunity/) |
 | P3 | Legal & General | Equity investors and analyst centre | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/) |
 | P3 | Legal & General | Analysts | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/analysts/) |
 | P3 | Legal & General | Consensus | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/consensus/) |
@@ -192,6 +228,43 @@
 | P3 | Natixis | About us | unknown | ? |  | check | 2026-09-19 | [open](https://www.natixis.com/en/careers/students-graduates) |
 | P3 | Oaktree Capital | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/insights) |
 | P3 | Oaktree Capital | Oaktree's Our Communities Matter program | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/responsibility/philanthropy) |
+| P3 | Oliver Wyman | Our Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/insights.html) |
+| P3 | Oliver Wyman | Financial Services' Future In The AI Age — Known Unknown Debates | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/insights/2026/jan/key-debates-future-of-financial-institutions-in-age-of-ai) |
+| P3 | Oliver Wyman | Our Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/careers/entry-level.html) |
+| P3 | Oliver Wyman | Oliver Wyman 'Shadow Boards' Allow Collaborative Advisory Throughout The Firm Read about O | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/media-center/2023/mar/insider-oliver-wymans-shadow-boards-allow-collaborative-advisory-throughout-the-firm.html) |
+| P3 | Oliver Wyman | Our Expertise | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise.html) |
+| P3 | Oliver Wyman | Industries | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries.html) |
+| P3 | Oliver Wyman | Automotive | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/automotive.html) |
+| P3 | Oliver Wyman | Communications, Media, And Technology | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/communications-media-and-technology.html) |
+| P3 | Oliver Wyman | Education | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/education.html) |
+| P3 | Oliver Wyman | Energy And Natural Resources | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/energy-natural-resources.html) |
+| P3 | Oliver Wyman | Financial Services | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/financial-services.html) |
+| P3 | Oliver Wyman | Government And Public Institutions | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/government-and-public-institutions.html) |
+| P3 | Oliver Wyman | Health And Life Sciences | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/health-life-sciences.html) |
+| P3 | Oliver Wyman | Industrial Products | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/industrial-products.html) |
+| P3 | Oliver Wyman | Private Equity And Principal Investors | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/private-equity-and-principal-investors.html) |
+| P3 | Oliver Wyman | Retail And Consumer Goods | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/retail-and-consumer-goods.html) |
+| P3 | Oliver Wyman | Transportation And Services | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/transportation.html) |
+| P3 | Oliver Wyman | Capabilities | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities.html) |
+| P3 | Oliver Wyman | Actuarial Consulting | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/actuarial.html) |
+| P3 | Oliver Wyman | AI Transformation | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/digital/ai-consulting-quotient.html) |
+| P3 | Oliver Wyman | Customer Innovation And Growth | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/customer-innovation-growth.html) |
+| P3 | Oliver Wyman | Finance, Risk, And Restructuring | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/finance-risk-restructuring.html) |
+| P3 | Oliver Wyman | Mergers And Acquisitions | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/mergers-and-acquisitions.html) |
+| P3 | Oliver Wyman | Performance Transformation | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/performance-transformation.html) |
+| P3 | Oliver Wyman | Harnessing Risk And Economic Disruption   | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/hubs/harnessing-risk.html) |
+| P3 | Oliver Wyman | Leading In The Age Of Acceleration  | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/hubs/industry-transformation.html) |
+| P3 | Oliver Wyman | Hubs | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/hubs.html) |
+| P3 | Oliver Wyman | Events | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/events.html) |
+| P3 | Oliver Wyman | Oliver Wyman Forum | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwymanforum.com/index.html) |
+| P3 | Oliver Wyman | Oliver Wyman Health | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/perspectives/health.html) |
+| P3 | Oliver Wyman | Our Culture | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture.html) |
+| P3 | Oliver Wyman | Our People | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/our-people.html) |
+| P3 | Oliver Wyman | Our Brand | unknown | ? |  | check | 2026-09-19 | [open](https://www.marshmclennan.com/about/our-brand.html) |
+| P3 | Oliver Wyman | Our Values | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/our-values.html) |
+| P3 | Oliver Wyman | Oliver Wyman For Society | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/society.html) |
+| P3 | Oliver Wyman | The Alumni Network | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/alumni.html) |
+| P3 | Oliver Wyman | Careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/careers.html) |
 | P3 | Partners Group | Analyst Coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.partnersgroup.com/shareholders/share-information#analyst-coverage) |
 | P3 | Peel Hunt | International access | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/about-us/international-access/) |
 | P3 | Peel Hunt | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/news-insights/) |

@@ -1428,5 +1428,159 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "533b8d3c88ef893f",
+  "firm": "KPMG",
+  "role_title": "Skip to main content",
+  "division": "",
+  "location": "London",
+  "url": "https://www.kpmgcareers.co.uk/undergraduate/#bypass-block-anchor",
+  "source": "kpmg",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2024, 2024)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "08e73b9cf0e3a19a",
+  "firm": "KPMG",
+  "role_title": "Graduate",
+  "division": "",
+  "location": "",
+  "url": "https://www.kpmgcareers.co.uk/graduate/",
+  "source": "kpmg",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2024, 2024)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "d2e7eaeaa547cd37",
+  "firm": "Oliver Wyman",
+  "role_title": "Climate And Sustainability",
+  "division": "",
+  "location": "",
+  "url": "https://www.oliverwyman.com/our-expertise/capabilities/climate-sustainability.html",
+  "source": "oliver-wyman",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "standalone sustainable finance role (title)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "e6677bc911245e21",
+  "firm": "Oliver Wyman",
+  "role_title": "Turning Climate Intent Into Action",
+  "division": "",
+  "location": "",
+  "url": "https://www.oliverwyman.com/our-expertise/hubs/turning-climate-intent-into-action.html",
+  "source": "oliver-wyman",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "standalone sustainable finance role (title)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "e91b2c0cc7deac1b",
+  "firm": "Oliver Wyman",
+  "role_title": "Our Sustainability Commitments And Action",
+  "division": "",
+  "location": "",
+  "url": "https://www.oliverwyman.com/our-culture/sustainability.html",
+  "source": "oliver-wyman",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "standalone sustainable finance role (title)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "e386ee8681d26b37",
+  "firm": "Oliver Wyman",
+  "role_title": "Inclusion and culture ",
+  "division": "",
+  "location": "",
+  "url": "https://www.oliverwyman.com/our-culture/inclusion.html",
+  "source": "oliver-wyman",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2025, 2025)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "7ada101b288ee777",
+  "firm": "Oliver Wyman",
+  "role_title": "Awards",
+  "division": "",
+  "location": "",
+  "url": "https://www.oliverwyman.com/our-culture/our-impact/awards.html",
+  "source": "oliver-wyman",
+  "date_posted": null,
+  "date_found": "2026-09-19",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2024, 2024)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
