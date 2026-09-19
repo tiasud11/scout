@@ -16,6 +16,11 @@ JOB_RE = re.compile(
     r"trainee|vacation scheme|discovery|early careers?)", re.I)
 NAV_RE = re.compile(r"^(home|about|contact|privacy|cookies?|login|log in|sign in|register|search|menu|"
                     r"faq|faqs|terms|accessibility|our people|locations?)$", re.I)
+# Aggregator site chrome: account pages, upsells, blog, prep-test partners. Never a real posting.
+EXCLUDE_URL = re.compile(
+    r"(the-trackr\.com/(blog|about|team|contact|premium|group-chats|trackers/?$|cv-review)|"
+    r"app\.the-trackr\.com/(account|premium|ai-cv-review|company/)|"
+    r"jobtestprep\.co\.uk)", re.I)
 
 
 def clean_url(u):
@@ -75,6 +80,8 @@ def _anchors_from_html(html, base, keep_all=False):
         href = urljoin(base, a["href"])
         if not text or len(text) > 220 or NAV_RE.match(text) or href.startswith(("mailto:", "tel:", "javascript:")):
             continue
+                    if EXCLUDE_URL.search(href):
+            continue
         if keep_all or JOB_RE.search(text) or JOB_RE.search(href):
             out.append({"title": text, "url": href, "location": "", "posted": ""})
     return out
@@ -98,7 +105,7 @@ def _harvest_json(obj, base, out, depth=0):
                      if isinstance(obj.get(k), str) and 3 < len(obj[k]) < 200), None)
         ukey = next((k for k in ("url", "link", "applyUrl", "applicationUrl", "href", "absolute_url")
                      if isinstance(obj.get(k), str) and obj[k].startswith(("http", "/"))), None)
-        if tkey and ukey:
+            if tkey and ukey and not EXCLUDE_URL.search(urljoin(base, obj[ukey])):
             firm = ""
             for k in ("company", "companyName", "firm", "employer"):
                 v = obj.get(k)
