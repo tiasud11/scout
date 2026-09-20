@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-20 09:25 UK
+# Scout feed, last run 2026-09-20 14:51 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -10,6 +10,8 @@
 | P1 | trackr-summer | Greenhill | unknown | 2026-07-29 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/greenhill) |
 | P1 | trackr-summer | Centerview Partners | unknown | 2026-08-02 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/centerview-partners) |
 | P1 | trackr-summer | EDF Trading | unknown | 2026-08-17 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/edf-trading) |
+| P1 | Monzo | Senior Lead - Operational Performance & Excellence | unknown | 2026-09-23 |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8161068) |
+| P1 | Monzo | Payments Control Partner  | unknown | 2026-09-25 |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8161520) |
 | P1 | trackr-summer | Moelis & Co | unknown | 2026-09-25 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/moelis-co) |
 | P1 | trackr-summer | 2027 Summer Analyst Programme | summer | 2026-09-27 |  | check | 2026-09-19 | [open](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-d1e4b70a3b97/candidate/jobboard/vacancy/2/adv/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&f_Item_Opportunity_78763_lk=523763&f_Item_Opportunity_132775_lk=519868&f_Item_Opportunity_60426_lk=520148) |
 | P1 | trackr-summer | Assessed Internship Programme 2027 | summer_likely | 2027-01-31 | yes | check | 2026-09-19 | [open](https://shell.wd3.myworkdayjobs.com/en-GB/ShellCareers/job/London---Shell-Centre/Shell-Assessed-Internship-Programme-2027---United-Kingdom_R205154?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=APPLICANT_SOURCE_NewChannel) |
@@ -131,6 +133,10 @@
 | P3 | Gallagher | Learn More | unknown | ? |  | check | 2026-09-20 | [open](https://jobs.ajg.com/ajg-students) |
 | P3 | Gallagher | Internet Crime Complaint Center | unknown | ? |  | check | 2026-09-20 | [open](https://www.ic3.gov/) |
 | P3 | Gallagher | Recent Graduates | unknown | ? |  | check | 2026-09-20 | [open](https://jobs.ajg.com/ajg-programs) |
+| P3 | GoCardless | Account Executive, Emerging, UK&I | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8141651) |
+| P3 | GoCardless | Customer Success Manager II, UK & ireland | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8191369) |
+| P3 | GoCardless | Customer Success Manager I, UK & ireland | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8191347) |
+| P3 | GoCardless | Legal Counsel, Spanish - speaking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8188573) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -197,6 +203,10 @@
 | P3 | KPMG | Search and apply | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/search/vacancies/?experienceLevels[0]=Vacation&experienceLevels[1]=Insight%20Penultimate%20Year&experienceLevels[2]=Insight%20Graduate&experienceLevels[3]=Work%20Experience&intakeType=Student) |
 | P3 | KPMG | #Graduate | unknown | ? |  | check | 2026-09-19 | [open](https://www.instagram.com/explore/tags/Graduate/) |
 | P3 | KPMG | #StudentTalentCommunity | unknown | ? |  | check | 2026-09-19 | [open](https://www.instagram.com/explore/tags/StudentTalentCommunity/) |
+| P3 | Klarna | For business | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/) |
+| P3 | Klarna | Press | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/press/) |
+| P3 | Klarna | Merchant support | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/merchant-support/) |
+| P3 | Klarna | Platforms and plugins | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/platforms-and-partners/) |
 | P3 | Legal & General | Equity investors and analyst centre | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/) |
 | P3 | Legal & General | Analysts | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/analysts/) |
 | P3 | Legal & General | Consensus | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/consensus/) |
@@ -277,6 +287,55 @@
 | P3 | Monzo | Credit Model Validation Manager (Machine Learning & NPV Models) | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8023162) |
 | P3 | Monzo | Credit Risk Manager, Portfolio Management | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7991227) |
 | P3 | Monzo | Data Science Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7194922) |
+| P3 | Monzo | Data Science Manager,  Financial Crime  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/5758065) |
+| P3 | Monzo | Director of Data, Payments | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8146871) |
+| P3 | Monzo | Director of Investments and Pensions | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8163979) |
+| P3 | Monzo | Director of Product Design | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7825424) |
+| P3 | Monzo | Engineering Director, EU | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8025854) |
+| P3 | Monzo | Engineering Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/5018066) |
+| P3 | Monzo | Financial Promotions Manager  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8170780) |
+| P3 | Monzo | FP&A Data & Analytics Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8156063) |
+| P3 | Monzo | Fraud Compliance Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8179466) |
+| P3 | Monzo | Fraud Team Manager, Out of Hours | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8203579) |
+| P3 | Monzo | Lead Data Scientist | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6369658) |
+| P3 | Monzo | Lead Machine Learning Scientist, Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8121191) |
+| P3 | Monzo | Lead Machine Learning Scientist, Customer Operations | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8103509) |
+| P3 | Monzo | Lead Machine Learning Scientist, FinCrime | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8050756) |
+| P3 | Monzo | Lead Machine Learning Scientist, Search | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8041029) |
+| P3 | Monzo | Lead Product Designer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6758088) |
+| P3 | Monzo | Lead Product Designer, Growth | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8185694) |
+| P3 | Monzo | Lead Product Manager, Payments | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8156058) |
+| P3 | Monzo | Machine Learning, Tech Lead | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8043988) |
+| P3 | Monzo | Martech Specialist, AI Deployment | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195225) |
+| P3 | Monzo | Operational Tax, Senior Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8200681) |
+| P3 | Monzo | Operations Strategy & Commercial Lead | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8173669) |
+| P3 | Monzo | Product Marketing Lead | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7966820) |
+| P3 | Monzo | Sales Account Executive, Fixed Term Contract | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8105783) |
+| P3 | Monzo | Senior Analytics Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6076740) |
+| P3 | Monzo | Senior Backend Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6635837) |
+| P3 | Monzo | Senior Brand Designer, Fixed Term Contract  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8180014) |
+| P3 | Monzo | Senior Credit Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8098960) |
+| P3 | Monzo | Senior Credit Risk Manager, Credit Platform  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8092745) |
+| P3 | Monzo | Senior Director of People Operations | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195476) |
+| P3 | Monzo | Senior Engineering Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6394676) |
+| P3 | Monzo | Senior Finance Business Partner | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8132044) |
+| P3 | Monzo | Senior Financial Crime Investigator  - EU, Spanish & English  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8207682) |
+| P3 | Monzo | Senior Legal Counsel, Digital Assets and Payments  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7621662) |
+| P3 | Monzo | Senior Machine Learning Manager, Borrowing | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7996955) |
+| P3 | Monzo | Senior Marketing Manager, EU Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8121259) |
+| P3 | Monzo | Senior Motion Designer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8179750) |
+| P3 | Monzo | Senior Product Director, Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7732437) |
+| P3 | Monzo | Senior Product Marketing Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7861991) |
+| P3 | Monzo | Senior Product Marketing Manager, Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8121253) |
+| P3 | Monzo | Senior Regulatory Reporting Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8053177) |
+| P3 | Monzo | Senior Security Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8204229) |
+| P3 | Monzo | Senior Staff Backend Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6036797) |
+| P3 | Monzo | Senior Technical Program Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8083280) |
+| P3 | Monzo | Senior User Research Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8015240) |
+| P3 | Monzo | Staff Analytics Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8013699) |
+| P3 | Monzo | Staff Backend Engineer  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6636147) |
+| P3 | Monzo | Staff Product Designer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6994700) |
+| P3 | Monzo | Technical Recruiter | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195485) |
 | P3 | Natixis | About us | unknown | ? |  | check | 2026-09-19 | [open](https://www.natixis.com/en/careers/students-graduates) |
 | P3 | Oaktree Capital | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/insights) |
 | P3 | Oaktree Capital | Oaktree's Our Communities Matter program | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/responsibility/philanthropy) |

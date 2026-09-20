@@ -1,8 +1,8 @@
 {
- "run": "2026-09-20 09:25",
+ "run": "2026-09-20 14:51",
  "haiku": false,
  "opened": 80,
- "new": 71,
+ "new": 59,
  "sources": [
   {
    "source": "hsbc",
@@ -304,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -387,12 +387,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 341
+   "items": 342
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 56
+   "items": 57
   },
   {
    "source": "brightnetwork-finance",
