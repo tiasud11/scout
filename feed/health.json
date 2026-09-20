@@ -1,8 +1,8 @@
 {
- "run": "2026-09-20 14:51",
+ "run": "2026-09-20 20:57",
  "haiku": false,
  "opened": 80,
- "new": 59,
+ "new": 62,
  "sources": [
   {
    "source": "hsbc",
@@ -274,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 53
+   "items": 165
   },
   {
    "source": "ey",
