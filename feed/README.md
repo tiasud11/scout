@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-19 20:54 UK
+# Scout feed, last run 2026-09-20 09:25 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -13,6 +13,8 @@
 | P1 | trackr-summer | Moelis & Co | unknown | 2026-09-25 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/moelis-co) |
 | P1 | trackr-summer | 2027 Summer Analyst Programme | summer | 2026-09-27 |  | check | 2026-09-19 | [open](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-d1e4b70a3b97/candidate/jobboard/vacancy/2/adv/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&f_Item_Opportunity_78763_lk=523763&f_Item_Opportunity_132775_lk=519868&f_Item_Opportunity_60426_lk=520148) |
 | P1 | trackr-summer | Assessed Internship Programme 2027 | summer_likely | 2027-01-31 | yes | check | 2026-09-19 | [open](https://shell.wd3.myworkdayjobs.com/en-GB/ShellCareers/job/London---Shell-Centre/Shell-Assessed-Internship-Programme-2027---United-Kingdom_R205154?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=APPLICANT_SOURCE_NewChannel) |
+| P1 | Aon | Find out more | unknown | ? | yes | check | 2026-09-20 | [open](https://www.aon.com/careers/early-careers/uk/graduates) |
+| P1 | Aon | Find out more | unknown | ? | yes | check | 2026-09-20 | [open](https://www.aon.com/careers/early-careers/uk/internships) |
 | P1 | HSBC | Application guide | unknown | ? | yes | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/application-guide) |
 | P1 | HSBC | Business Analyst - International Wealth and Premier Banking - Internship (opens in new win | summer_likely | ? | yes | check | 2026-09-19 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Taipei-Business-Analyst-International-Wealth-and-Premier-Banking-Internship-Taip-11561/1371304657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
 | P1 | HSBC | Relationship Management - Private Bank - Internship (opens in new window) | summer_likely | ? | yes | check | 2026-09-19 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
@@ -32,6 +34,9 @@
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
 | P3 | trackr-summer | Shell | unknown | 2027-01-31 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/shell) |
 | P3 | PwC | Flying Start degree programmes | unknown | 2027-03-12 |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
+| P3 | Aon | Early Careers | unknown | ? |  | check | 2026-09-20 | [open](https://www.aon.com/careers/early-careers) |
+| P3 | Aon | Find out more | unknown | ? |  | check | 2026-09-20 | [open](https://www.aon.com/careers/early-careers/uk/workinsight) |
+| P3 | Aon | Learn more about MyPlus Students' Club External site | unknown | ? |  | check | 2026-09-20 | [open](https://myplusstudentsclub.com/) |
 | P3 | Apollo | Financing The Global Industrial Renaissance Apollo stands as a key financing partner for s | unknown | ? |  | check | 2026-09-19 | [open](https://www.apollo.com/insights-news/gir) |
 | P3 | Apollo | The Only Constant is Change As markets change, Apollo transforms by creating innovative an | unknown | ? |  | check | 2026-09-19 | [open](https://www.apollo.com/insights-news/think-it-new) |
 | P3 | Apollo | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.apollo.com/insights-news/insights) |
@@ -99,6 +104,33 @@
 | P3 | EY | Future mobility | unknown | ? |  | check | 2026-09-19 | [open](https://www.ey.com/en_uk/insights/emobility) |
 | P3 | EY | Early Careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.ey.com/en_uk/careers/students) |
 | P3 | EY | Experienced professionals | unknown | ? |  | check | 2026-09-19 | [open](https://www.ey.com/en_uk/careers/what-you-can-do-here/experienced-programmes) |
+| P3 | FTI Consulting | Insights | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/insights) |
+| P3 | FTI Consulting | Dispute & Arbitration | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/services/dispute-advisory-and-international-arbitration) |
+| P3 | FTI Consulting | E-Discovery & Legal Analytics | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/services/e-discovery-and-managed-review) |
+| P3 | FTI Consulting | Enterprise insights for corporate directors Steer the enterprise | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/roles/board-of-directors) |
+| P3 | FTI Consulting | AI | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/insights/search-results#sort=@insightsz95xpublicationz95xdate descending&f:insights-publication-type=[Article,Case Study,Success Story,Report,Whitepaper]&f:insight-service=[AI]) |
+| P3 | FTI Consulting | ARTICLE Global Aviation Themes: Key Trends Shaping the Industry's Next Phase | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/insights/articles/global-aviation-themes-2026-key-trends) |
+| P3 | FTI Consulting | ARTICLE Hybrid Energy Strategies for Data Centers Expose Complex Constraints | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/insights/articles/hybrid-energy-strategies-data-centers-expose-complex-constraints) |
+| P3 | FTI Consulting | ARTICLE When ‘Let’s Make a Deal’ Turns Into ‘Game of Thrones’ | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/insights/articles/when-lets-make-deal-turns-into-game-thrones) |
+| P3 | FTI Consulting | SUCCESS STORY Value Protected Inside the American Apparel Investigation | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/insights/success-stories/inside-american-apparel-investigation) |
+| P3 | FTI Consulting | Contact Us | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/careers/students#contact-modal) |
+| P3 | Frontier Economics | Interns | summer_likely | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/careers/interns/) |
+| P3 | Frontier Economics | International Trade | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/expertise/international-trade/) |
+| P3 | Frontier Economics | Read now | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/news-and-insights/news/news-article-i22352-frontier-responds-to-cma-consultations-on-a-range-of-reforms-to-the-uk-competition-regime/) |
+| P3 | Frontier Economics | Articles | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/news-and-insights/articles/) |
+| P3 | Frontier Economics | News | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/news-and-insights/news/) |
+| P3 | Frontier Economics | Events | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/news-and-insights/events/) |
+| P3 | Frontier Economics | Case Studies | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/news-and-insights/case-studies/) |
+| P3 | Frontier Economics | Frontier Focus | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/news-and-insights/frontier-focus/) |
+| P3 | Frontier Economics | Economic Advisory Council | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/news-and-insights/economic-advisory-council/) |
+| P3 | Frontier Economics | Read now | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/news-and-insights/news/news-article-i22030-uk-carbon-capture-strengths-revealed-in-new-frontier-clarivate-analysis/) |
+| P3 | Frontier Economics | Read now | unknown | ? |  | check | 2026-09-20 | [open](https://www.frontier-economics.com/uk/en/news-and-insights/news/news-article-i21864-advisory-council-economists-and-business-leaders-working-with-frontier/) |
+| P3 | Gallagher | Internships | summer_likely | ? |  | check | 2026-09-20 | [open](https://careers.ajg.com/ajg-students) |
+| P3 | Gallagher | Recent Graduates | unknown | ? |  | check | 2026-09-20 | [open](https://careers.ajg.com/ajg-programs) |
+| P3 | Gallagher | English (US) | unknown | ? |  | check | 2026-09-20 | [open](https://careers.ajg.com/global/en/students) |
+| P3 | Gallagher | Learn More | unknown | ? |  | check | 2026-09-20 | [open](https://jobs.ajg.com/ajg-students) |
+| P3 | Gallagher | Internet Crime Complaint Center | unknown | ? |  | check | 2026-09-20 | [open](https://www.ic3.gov/) |
+| P3 | Gallagher | Recent Graduates | unknown | ? |  | check | 2026-09-20 | [open](https://jobs.ajg.com/ajg-programs) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -174,6 +206,18 @@
 | P3 | Liberum | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.liberum.com/news/?type=insights) |
 | P3 | Liberum | International Trading | unknown | ? |  | check | 2026-09-19 | [open](https://www.liberum.com/execution#international-trading) |
 | P3 | Liberum | All News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.liberum.com/news/) |
+| P3 | Lloyd's | Join the Lloyd’s market Join the best minds in the industry. Access the expertise, knowled | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/about-lloyds/join-lloyds-market) |
+| P3 | Lloyd's | Insights Hub | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/market-resources/tools/insights-hub) |
+| P3 | Lloyd's | View all insights | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/insights) |
+| P3 | Lloyd's | Lloyd's Lab - the heart of innovation for insurance An award winning space dedicated to ac | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/insights/lloyds-lab) |
+| P3 | Lloyd's | News | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/insights/news) |
+| P3 | Lloyd's | Events | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/insights/events) |
+| P3 | Lloyd's | Media centre | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/insights/media-centre) |
+| P3 | Lloyd's | Risk reports | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/insights/risk-reports) |
+| P3 | Lloyd's | Lloyd's Academy | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/insights/lloyds-academy) |
+| P3 | Lloyd's | Our programmes | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/about-lloyds/careers/early-careers#programmes) |
+| P3 | Lloyd's | Find out more | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/about-lloyds/careers/early-careers/schemes-insight-week) |
+| P3 | Lloyd's | Find out more | unknown | ? |  | check | 2026-09-20 | [open](https://www.lloyds.com/about-lloyds/careers/early-careers/looking-after-our-trainees) |
 | P3 | M&G | Link to Share buyback programme page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/investors/results-and-announcements/share-buyback-programme) |
 | P3 | M&G | Link to Equity analysts and consensus page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/investors/equity-analysts-coverage) |
 | P3 | M&G | Link to News & insights page | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights) |
@@ -225,6 +269,14 @@
 | P3 | M&G | Link to M&G invested $300m in Seeker Music, managing 17,000 copyrights and 38 Spotify Bill | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2025/17000-songs-in-our-music-catalogue) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2020/150m-invested-in-green-infrastructure) |
 | P3 | Man Group | Insights hub | unknown | ? |  | check | 2026-09-19 | [open](https://www.man.com/insights) |
+| P3 | Marsh McLennan | Students/Graduates | unknown | ? |  | check | 2026-09-20 | [open](https://careers.marsh.com/global/en/student-opportunities) |
+| P3 | Monzo | Anaplan Support Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8143930) |
+| P3 | Monzo | Android Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7115379) |
+| P3 | Monzo | Backend Engineer III  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6635595) |
+| P3 | Monzo | Credit Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8098919) |
+| P3 | Monzo | Credit Model Validation Manager (Machine Learning & NPV Models) | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8023162) |
+| P3 | Monzo | Credit Risk Manager, Portfolio Management | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7991227) |
+| P3 | Monzo | Data Science Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7194922) |
 | P3 | Natixis | About us | unknown | ? |  | check | 2026-09-19 | [open](https://www.natixis.com/en/careers/students-graduates) |
 | P3 | Oaktree Capital | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/insights) |
 | P3 | Oaktree Capital | Oaktree's Our Communities Matter program | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/responsibility/philanthropy) |
@@ -265,6 +317,19 @@
 | P3 | Oliver Wyman | Oliver Wyman For Society | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/society.html) |
 | P3 | Oliver Wyman | The Alumni Network | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/alumni.html) |
 | P3 | Oliver Wyman | Careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/careers.html) |
+| P3 | Oliver Wyman | Roles At Oliver Wyman | unknown | ? |  | check | 2026-09-20 | [open](https://www.oliverwyman.com/careers/roles.html) |
+| P3 | Oliver Wyman | Apply Now | unknown | ? |  | check | 2026-09-20 | [open](https://careers.marshmclennan.com/global/en/oliver-wyman-search) |
+| P3 | Oliver Wyman | Media Center | unknown | ? |  | check | 2026-09-20 | [open](https://www.oliverwyman.com/media-center.html) |
+| P3 | Oliver Wyman | Global Locations | unknown | ? |  | check | 2026-09-20 | [open](https://www.oliverwyman.com/our-expertise/global-locations.html) |
+| P3 | Oliver Wyman | Contact Us | unknown | ? |  | check | 2026-09-20 | [open](https://www.oliverwyman.com/contact-us.html) |
+| P3 | Oxera | Insights | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights) |
+| P3 | Oxera | Agenda | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/agenda/) |
+| P3 | Oxera | Reports | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/reports/) |
+| P3 | Oxera | Courses | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/courses/) |
+| P3 | Oxera | Events | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/events/) |
+| P3 | Oxera | Commercial Litigation and International Arbitration | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/expertise/commercial-litigation-international-arbitration/) |
+| P3 | Oxera | Early Careers | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/careers/early-careers/) |
+| P3 | Oxera | Discover more about our commitment to our purpose and how we’re helping others make better | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/agenda/topics/beyond-the-bottom-line/) |
 | P3 | Partners Group | Analyst Coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.partnersgroup.com/shareholders/share-information#analyst-coverage) |
 | P3 | Peel Hunt | International access | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/about-us/international-access/) |
 | P3 | Peel Hunt | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/news-insights/) |
@@ -366,6 +431,12 @@
 | P3 | Vista Equity Partners | Video Software’s Next Chapter: Robert F. Smith on The Next Era of Enterprise Platforms Wat | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/softwares-next-chapter-robert-f-smith-on-the-next-era-of-enterprise-platforms/) |
 | P3 | Vista Equity Partners | AI In Practice The State of Wealth Management AI Adoption Learn how wealth management firm | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/the-state-of-wealth-management-ai-adoption/) |
 | P3 | Vista Equity Partners | Insights by Vista Forefront | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/?topic=education-insights) |
+| P3 | Wise | Programs and applications | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/wisestart-programs) |
+| P3 | Wise | Programa de Aprendizagem WiseStart | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/programa-de-aprendizagem-wisestart) |
+| P3 | Wise | Scaling Internal Audit at Wise | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/blog/2026-8/scaling-internal-audit-at-wise) |
+| P3 | Wise | Internal Audit | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/posts/tags/internal-audit) |
+| P3 | Wise | Early careers overview | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/early-careers) |
+| P3 | Wise | Programs & applications | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/early-careers-programs) |
 | P3 | abrdn | Risk Warning | unknown | ? |  | check | 2026-09-19 | [open](https://www.abrdn.com/en/data/risk-warning-folder/risk-warning) |
 | P3 | trackr-summer | Academy | unknown | ? |  | check | 2026-09-19 | [open](https://academy.the-trackr.com) |
 | P3 | trackr-summer | Employers | unknown | ? |  | check | 2026-09-19 | [open](https://partners.the-trackr.com) |

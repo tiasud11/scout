@@ -1582,5 +1582,203 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "61bf1bdec6d254b7",
+  "firm": "FTI Consulting",
+  "role_title": "REPORT 2026 Private Equity AI Radar",
+  "division": "",
+  "location": "",
+  "url": "https://www.fticonsulting.com/insights/reports/2026-private-equity-ai-radar",
+  "source": "fti",
+  "date_posted": null,
+  "date_found": "2026-09-20",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "ed9a1f6b6646ca75",
+  "firm": "Frontier Economics",
+  "role_title": "Analysts & Apprentice Analysts",
+  "division": "",
+  "location": "",
+  "url": "https://www.frontier-economics.com/uk/en/careers/analysts-apprentice-analysts/",
+  "source": "frontier-economics",
+  "date_posted": null,
+  "date_found": "2026-09-20",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "b199f3c69d189519",
+  "firm": "Aon",
+  "role_title": "Graduate Programme",
+  "division": "",
+  "location": "",
+  "url": "https://www.aon.com/careers/early-careers/uk",
+  "source": "aon",
+  "date_posted": null,
+  "date_found": "2026-09-20",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "fb023045970a4e95",
+  "firm": "Lloyd's",
+  "role_title": "Find out more",
+  "division": "",
+  "location": "",
+  "url": "https://www.lloyds.com/about-lloyds/careers/early-careers/graduates",
+  "source": "lloyds-of-london",
+  "date_posted": null,
+  "date_found": "2026-09-20",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2026, 2026)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "ff8277bbdcf878ba",
+  "firm": "Wise",
+  "role_title": "Backend Pair Programming Interviews",
+  "division": "",
+  "location": "",
+  "url": "https://wise.jobs/backend-pair-programming-interviews",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-20",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2024, 2024)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "1c38c46e77b52789",
+  "firm": "Wise",
+  "role_title": "Front End Pair Programming Interviews",
+  "division": "",
+  "location": "London",
+  "url": "https://wise.jobs/front-end-pair-programming",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-20",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2024, 2024)] does not include 2028"
+  ],
+  "ai_policy": "Please note we do not allow the use of AI to support you during this stage of our interview process. As previously mentioned we do not allow the use of AI to support you during this stage of our interview process.",
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "10f3d7a87d471e45",
+  "firm": "Wise",
+  "role_title": "Apprenticeships",
+  "division": "",
+  "location": "",
+  "url": "https://wise.jobs/wisestart-apprenticeship-program",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-20",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "f1bac8243ac32ec3",
+  "firm": "Wise",
+  "role_title": "Early Careers",
+  "division": "",
+  "location": "London",
+  "url": "https://wise.jobs/posts/tags/early-careers",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-20",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2024, 2024), (2022, 2022)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "dfcce72e5e21bd0f",
+  "firm": "Monzo",
+  "role_title": "Android Engineer",
+  "division": "",
+  "location": "Barcelona",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/7343996",
+  "source": "monzo",
+  "date_posted": "2026-09-14",
+  "date_found": "2026-09-20",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Barcelona' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

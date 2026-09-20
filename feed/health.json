@@ -1,8 +1,8 @@
 {
- "run": "2026-09-19 20:54",
+ "run": "2026-09-20 09:25",
  "haiku": false,
  "opened": 80,
- "new": 73,
+ "new": 71,
  "sources": [
   {
    "source": "hsbc",
@@ -62,7 +62,8 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 10
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "investec",
@@ -253,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -273,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 165
+   "items": 53
   },
   {
    "source": "ey",
@@ -412,7 +413,7 @@
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 54
+   "items": 51
   },
   {
    "source": "jointheintake",
