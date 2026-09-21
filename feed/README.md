@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-21 14:57 UK
+# Scout feed, last run 2026-09-21 20:58 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | P3 | KPMG | Search and apply | unknown | ? |  | check | 2026-09-19 | [open](https://www.kpmgcareers.co.uk/search/vacancies/?experienceLevels[0]=Vacation&experienceLevels[1]=Insight%20Penultimate%20Year&experienceLevels[2]=Insight%20Graduate&experienceLevels[3]=Work%20Experience&intakeType=Student) |
 | P3 | KPMG | #Graduate | unknown | ? |  | check | 2026-09-19 | [open](https://www.instagram.com/explore/tags/Graduate/) |
 | P3 | KPMG | #StudentTalentCommunity | unknown | ? |  | check | 2026-09-19 | [open](https://www.instagram.com/explore/tags/StudentTalentCommunity/) |
+| P3 | KPMG | #GraduateCareers | unknown | ? |  | check | 2026-09-21 | [open](https://www.instagram.com/explore/tags/GraduateCareers/) |
 | P3 | Klarna | For business | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/) |
 | P3 | Klarna | Press | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/press/) |
 | P3 | Klarna | Merchant support | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/merchant-support/) |
@@ -571,6 +572,7 @@
 | P3 | TPG | Investment Insights: A Local Approach to Asia Real Estate | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/investment-insights-a-local-approach-to-asia-real-estate) |
 | P3 | TPG | IDMC (Internet, Digital Media & Communications) | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/approach/internet-digital-media) |
 | P3 | TPG | Press Releases | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/news) |
+| P3 | TPG | Investment Insights: Transition Infrastructure in Focus | unknown | ? |  | check | 2026-09-21 | [open](https://www.tpg.com/news-and-insights/investment-insights-transition-infrastructure-in-focus) |
 | P3 | Vista Equity Partners | White Paper Investing in Enterprise Software Learn from Robert F. Smith why enterprise sof | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/investing-in-enterprise-software/) |
 | P3 | Vista Equity Partners | White Paper Demystifying Generative AI Explore how Gen AI is redefining industries. | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/generative-ai-investment-insights/) |
 | P3 | Vista Equity Partners | News + Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/careers/) |
@@ -589,6 +591,7 @@
 | P3 | Wise | Early careers overview | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/early-careers) |
 | P3 | Wise | Programs & applications | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/early-careers-programs) |
 | P3 | Wise | Finance Programme Lead | unknown | ? |  | check | 2026-09-21 | [open](https://wise.jobs/job/finance-programme-lead-in-london-jid-4186) |
+| P3 | Wise | Internal Audit Senior Manager | unknown | ? |  | check | 2026-09-21 | [open](https://wise.jobs/job/internal-audit-senior-manager-in-london-jid-4189) |
 | P3 | abrdn | Risk Warning | unknown | ? |  | check | 2026-09-19 | [open](https://www.abrdn.com/en/data/risk-warning-folder/risk-warning) |
 | P3 | efinancialcareers | Candidate Sign In | unknown | ? |  | check | 2026-09-21 | [open](https://www.efinancialcareers.co.uk/login?redirectUrl=https%3A//www.efinancialcareers.co.uk/404?Keywords%3Dintern%2B2027%26LocationIDs%3D136) |
 | P3 | ratemyplacement | Consent | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs?sector=investment-banking-and-finance&job_type=internship) |
@@ -599,6 +602,3 @@
 | P3 | ratemyplacement | Placements | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/placements) |
 | P3 | ratemyplacement | Graduate Jobs and Schemes | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/graduates) |
 | P3 | ratemyplacement | Insights & Vacation Schemes | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/insights) |
-| P3 | ratemyplacement | Brand Ambassadors | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/brand-ambassadors) |
-| P3 | ratemyplacement | School Leaver Programmes | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/school-leaver-programme) |
-| P3 | trackr-spring | Spring Week 2027 | spring | ? |  | check | 2026-09-21 | [open](https://talent.wellsfargojobs.com/flows/spring2027?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |

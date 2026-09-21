@@ -1,5 +1,5 @@
 {
- "run": "2026-09-21 14:57",
+ "run": "2026-09-21 20:58",
  "haiku": false,
  "opened": 80,
  "new": 60,
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 22
   },
   {
    "source": "natixis",
@@ -62,8 +62,7 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 10
   },
   {
    "source": "investec",
@@ -99,8 +98,7 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 6
   },
   {
    "source": "mandg",
@@ -255,7 +253,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -305,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -335,7 +333,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 15
+   "items": 18
   },
   {
    "source": "beazley",
@@ -409,7 +407,7 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 405
+   "items": 407
   },
   {
    "source": "targetjobs",
