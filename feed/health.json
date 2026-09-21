@@ -1,8 +1,8 @@
 {
- "run": "2026-09-20 20:57",
+ "run": "2026-09-21 09:27",
  "haiku": false,
  "opened": 80,
- "new": 62,
+ "new": 57,
  "sources": [
   {
    "source": "hsbc",
@@ -62,8 +62,7 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 10
   },
   {
    "source": "investec",
@@ -274,7 +273,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 165
+   "items": 53
   },
   {
    "source": "ey",
@@ -362,7 +361,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 73
+   "items": 71
   },
   {
    "source": "starling",
@@ -408,12 +407,12 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 409
+   "items": 405
   },
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 51
+   "items": 55
   },
   {
    "source": "jointheintake",
