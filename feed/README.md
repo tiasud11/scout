@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-22 14:56 UK
+# Scout feed, last run 2026-09-22 20:57 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | P3 | ING | Intern, Transport and Logistics | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/singapore/intern-transport-and-logistics/3121/45044228672) |
 | P3 | ING | HRBP Intern H/F/X | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/paris/hrbp-intern-h-f-x/3121/44350719360) |
 | P3 | ING | INTERNSHIP - Talent Acquisition | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/luxembourg/internship-talent-acquisition/3121/45053292032) |
+| P3 | ING | Internship ING Corporate Finance (M&A) | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/amsterdam/internship-ing-corporate-finance-m-and-a/3121/44845992192) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -421,6 +422,8 @@
 | P3 | Monzo | Technical Recruiter | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195485) |
 | P3 | Monzo | Senior Workforce Management Analyst  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8203888) |
 | P3 | Monzo | Staff Technical Program Manager, Operations | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222576) |
+| P3 | Monzo | Employee Relations Advisor | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223264) |
+| P3 | Monzo | Transfer Pricing Tax Manager  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223018) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -599,6 +602,3 @@
 | P3 | Wise | Programa de Aprendizagem WiseStart | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/programa-de-aprendizagem-wisestart) |
 | P3 | Wise | Scaling Internal Audit at Wise | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/blog/2026-8/scaling-internal-audit-at-wise) |
 | P3 | Wise | Internal Audit | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/posts/tags/internal-audit) |
-| P3 | Wise | Early careers overview | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/early-careers) |
-| P3 | Wise | Programs & applications | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/early-careers-programs) |
-| P3 | Wise | Finance Programme Lead | unknown | ? |  | check | 2026-09-21 | [open](https://wise.jobs/job/finance-programme-lead-in-london-jid-4186) |

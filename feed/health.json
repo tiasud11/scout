@@ -1,8 +1,8 @@
 {
- "run": "2026-09-22 14:56",
+ "run": "2026-09-22 20:57",
  "haiku": false,
  "opened": 80,
- "new": 78,
+ "new": 23,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 22
+   "items": 20
   },
   {
    "source": "natixis",
@@ -99,8 +99,7 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 6
   },
   {
    "source": "mandg",
@@ -254,7 +253,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -274,7 +273,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 165
+   "items": 164
   },
   {
    "source": "ey",
@@ -304,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -362,7 +361,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 66
+   "items": 68
   },
   {
    "source": "starling",
@@ -403,13 +402,12 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 409
+   "items": 410
   },
   {
    "source": "targetjobs",
