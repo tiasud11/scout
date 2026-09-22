@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-22 09:28 UK
+# Scout feed, last run 2026-09-22 14:56 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -80,6 +80,8 @@
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
 | P3 | trackr-summer | Shell | unknown | 2027-01-31 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/shell) |
 | P3 | PwC | Flying Start degree programmes | unknown | 2027-03-12 |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
+| P3 | Amundi | Our Student Experience | unknown | ? |  | check | 2026-09-22 | [open](https://www.amundi.com/our-student-experience-amundi) |
+| P3 | Amundi | Explore all our Insights | unknown | ? |  | check | 2026-09-22 | [open](https://www.amundi.com/news) |
 | P3 | Aon | Early Careers | unknown | ? |  | check | 2026-09-20 | [open](https://www.aon.com/careers/early-careers) |
 | P3 | Aon | Find out more | unknown | ? |  | check | 2026-09-20 | [open](https://www.aon.com/careers/early-careers/uk/workinsight) |
 | P3 | Aon | Learn more about MyPlus Students' Club External site | unknown | ? |  | check | 2026-09-20 | [open](https://myplusstudentsclub.com/) |
@@ -218,6 +220,8 @@
 | P3 | ING | Early careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.ing.jobs/en/early-careers) |
 | P3 | ING | Event Management – Internship | summer_likely | ? |  | check | 2026-09-21 | [open](https://www.ing.jobs/en/job/brussels/event-management-internship/3121/45010100096) |
 | P3 | ING | Intern, Transport and Logistics | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/singapore/intern-transport-and-logistics/3121/45044228672) |
+| P3 | ING | HRBP Intern H/F/X | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/paris/hrbp-intern-h-f-x/3121/44350719360) |
+| P3 | ING | INTERNSHIP - Talent Acquisition | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/luxembourg/internship-talent-acquisition/3121/45053292032) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -349,6 +353,7 @@
 | P3 | M&G | Link to 206 new homes, Delivered through our investment, MORE5 provides 206 new homes in L | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2025/30-10-2025) |
 | P3 | M&G | Link to M&G invested $300m in Seeker Music, managing 17,000 copyrights and 38 Spotify Bill | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2025/17000-songs-in-our-music-catalogue) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2020/150m-invested-in-green-infrastructure) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-22 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/22-09-2026) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -415,6 +420,7 @@
 | P3 | Monzo | Staff Product Designer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6994700) |
 | P3 | Monzo | Technical Recruiter | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195485) |
 | P3 | Monzo | Senior Workforce Management Analyst  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8203888) |
+| P3 | Monzo | Staff Technical Program Manager, Operations | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222576) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -560,6 +566,7 @@
 | P3 | State Street | Learn more | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/sibos-2026) |
 | P3 | State Street | State Street PriceStats: Inflation downshift stalls The State Street PriceStats US index r | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/us-inflation-pricestats-july) |
 | P3 | State Street | Private credit under stress: Idiosyncratic episodes or systemic risk? Our analysis explore | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/private-credit-stress) |
+| P3 | State Street | State Street PriceStats: Disinflation disrupted? US inflation accelerated in August, drive | unknown | ? |  | check | 2026-09-22 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/us-inflation-pricestats-august) |
 | P3 | Stifel | Skip to Main Content | unknown | ? |  | check | 2026-09-19 | [open](https://www.stifel.com/careers/students-graduates#main-content) |
 | P3 | Stifel | Investment Strategy Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.stifelinsights.com/) |
 | P3 | TD Securities | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/en-CA/students-graduates/#content) |
@@ -576,6 +583,7 @@
 | P3 | TPG | IDMC (Internet, Digital Media & Communications) | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/approach/internet-digital-media) |
 | P3 | TPG | Press Releases | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/news) |
 | P3 | TPG | Investment Insights: Transition Infrastructure in Focus | unknown | ? |  | check | 2026-09-21 | [open](https://www.tpg.com/news-and-insights/investment-insights-transition-infrastructure-in-focus) |
+| P3 | TPG | The Reset of the Real Economy: Investing in the Energy Transition | unknown | ? |  | check | 2026-09-22 | [open](https://www.tpg.com/news-and-insights/the-reset-of-the-real-economy-investing-in-the-energy-transition) |
 | P3 | Vista Equity Partners | White Paper Investing in Enterprise Software Learn from Robert F. Smith why enterprise sof | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/investing-in-enterprise-software/) |
 | P3 | Vista Equity Partners | White Paper Demystifying Generative AI Explore how Gen AI is redefining industries. | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/generative-ai-investment-insights/) |
 | P3 | Vista Equity Partners | News + Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/careers/) |
@@ -594,11 +602,3 @@
 | P3 | Wise | Early careers overview | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/early-careers) |
 | P3 | Wise | Programs & applications | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/early-careers-programs) |
 | P3 | Wise | Finance Programme Lead | unknown | ? |  | check | 2026-09-21 | [open](https://wise.jobs/job/finance-programme-lead-in-london-jid-4186) |
-| P3 | Wise | Internal Audit Senior Manager | unknown | ? |  | check | 2026-09-21 | [open](https://wise.jobs/job/internal-audit-senior-manager-in-london-jid-4189) |
-| P3 | abrdn | Risk Warning | unknown | ? |  | check | 2026-09-19 | [open](https://www.abrdn.com/en/data/risk-warning-folder/risk-warning) |
-| P3 | efinancialcareers | Candidate Sign In | unknown | ? |  | check | 2026-09-21 | [open](https://www.efinancialcareers.co.uk/login?redirectUrl=https%3A//www.efinancialcareers.co.uk/404?Keywords%3Dintern%2B2027%26LocationIDs%3D136) |
-| P3 | ratemyplacement | Consent | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs?sector=investment-banking-and-finance&job_type=internship) |
-| P3 | ratemyplacement | [#DSR_FORM_URL_TEXT#] | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/[#DSR_FORM_URL#]) |
-| P3 | ratemyplacement | RateMyPlacement and RateMyApprenticeship are now Higherin: Learn More | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/ratemyplacement-and-ratemyapprenticeship-have-rebranded-to-higherin) |
-| P3 | ratemyplacement | Jobs | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs) |
-| P3 | ratemyplacement | Internships | summer_likely | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/internships) |

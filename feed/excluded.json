@@ -4046,5 +4046,49 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "f9bd7e69ee99a53e",
+  "firm": "Brookfield",
+  "role_title": "Memos from Howard Marks Howard Marks Sep 2026 Shall we repeal the laws of economics (Part III)",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/howard-marks-memo-september-2026",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-09-22",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "6e08b1165e3a8944",
+  "firm": "Wise",
+  "role_title": "Graduate Software Engineer",
+  "division": "",
+  "location": "",
+  "url": "https://wise.jobs/job/graduate-software-engineer-in-austin-jid-4197",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-22",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": "Eagerness to configure and use AI development tools daily, with the ability to explain any AI-generated code you submit.",
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
