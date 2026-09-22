@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-21 20:58 UK
+# Scout feed, last run 2026-09-22 09:28 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | P3 | Brookfield | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/views-news/insights) |
 | P3 | Brookfield | Student Programs | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/careers/student-programs) |
 | P3 | CIBC | Investment Banking Summer Intern 2027 | summer | ? |  | eligible | 2026-09-21 | [open](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Investment-Banking-Summer-Intern---14-Week-Summer-Programme---June---September-2027_2619192?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
+| P3 | CIBC | Corporate Banking Summer Intern 2027 | summer | ? |  | eligible | 2026-09-22 | [open](https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Corporate-Banking-Summer-Intern---10-Week-Summer-Programme---June---September-2027_2619361-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | CVC Capital Partners | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cvc.com/cvc-private-wealth/insights/) |
 | P3 | CVC Capital Partners | Analyst Consensus | unknown | ? |  | check | 2026-09-19 | [open](https://www.cvc.com/shareholders/analyst-consensus/) |
 | P3 | CVC Capital Partners | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cvc.com/media/insights/) |
@@ -216,6 +217,7 @@
 | P3 | ING | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.ing.jobs/global/careers/students.htm#content) |
 | P3 | ING | Early careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.ing.jobs/en/early-careers) |
 | P3 | ING | Event Management – Internship | summer_likely | ? |  | check | 2026-09-21 | [open](https://www.ing.jobs/en/job/brussels/event-management-internship/3121/45010100096) |
+| P3 | ING | Intern, Transport and Logistics | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/singapore/intern-transport-and-logistics/3121/45044228672) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -412,6 +414,7 @@
 | P3 | Monzo | Staff Backend Engineer  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6636147) |
 | P3 | Monzo | Staff Product Designer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6994700) |
 | P3 | Monzo | Technical Recruiter | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195485) |
+| P3 | Monzo | Senior Workforce Management Analyst  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8203888) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -599,6 +602,3 @@
 | P3 | ratemyplacement | RateMyPlacement and RateMyApprenticeship are now Higherin: Learn More | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/ratemyplacement-and-ratemyapprenticeship-have-rebranded-to-higherin) |
 | P3 | ratemyplacement | Jobs | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs) |
 | P3 | ratemyplacement | Internships | summer_likely | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/internships) |
-| P3 | ratemyplacement | Placements | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/placements) |
-| P3 | ratemyplacement | Graduate Jobs and Schemes | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/graduates) |
-| P3 | ratemyplacement | Insights & Vacation Schemes | unknown | ? |  | check | 2026-09-21 | [open](https://www.ratemyplacement.co.uk/search-jobs/insights) |

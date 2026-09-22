@@ -1,8 +1,8 @@
 {
- "run": "2026-09-21 20:58",
+ "run": "2026-09-22 09:28",
  "haiku": false,
  "opened": 80,
- "new": 60,
+ "new": 79,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 22
+   "items": 21
   },
   {
    "source": "natixis",
@@ -62,7 +62,8 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 10
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "investec",
@@ -253,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -333,7 +334,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 18
+   "items": 15
   },
   {
    "source": "beazley",
@@ -361,7 +362,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 67
+   "items": 66
   },
   {
    "source": "starling",
@@ -386,7 +387,7 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 343
+   "items": 348
   },
   {
    "source": "trackr-spring",
@@ -407,12 +408,12 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 407
+   "items": 409
   },
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 55
+   "items": 56
   },
   {
    "source": "jointheintake",

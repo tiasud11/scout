@@ -4024,5 +4024,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "979a8a82272f301e",
+  "firm": "ING",
+  "role_title": "Mats, Trainee Business Banking \"Amsterdam or Milan: never a dull moment\" 十一月 15, 2024 Article Retail Banking Early Careers: Global Graduate Programme Early Careers: Local Opportunities Employee Stories Related Content",
+  "division": "",
+  "location": "",
+  "url": "https://www.ing.jobs/en/story-mats-van-eeuwen-trainee",
+  "source": "ing",
+  "date_posted": null,
+  "date_found": "2026-09-22",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
