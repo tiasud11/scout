@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-22 20:57 UK
+# Scout feed, last run 2026-09-23 09:28 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -63,6 +63,9 @@
 | P1 | Mizuho | 2027 Risk and Credit Risk Summer Internship | summer | ? | yes | eligible | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-risk-and-credit-risk-summer-internship-london-37883/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Mizuho | 2027 Operations Summer Internship | summer | ? | yes | eligible | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-emea-operations-summer-internship-london-37878/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | PwC | Undergraduate Work Placement | unknown | ? | yes | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/undergraduate/undergraduate-work-placement.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
+| P1 | jointheintake | Spring weeks | unknown | ? | yes | check | 2026-09-23 | [open](https://www.jointheintake.com/spring-weeks) |
+| P1 | targetjobs | Global Research 2027 Summer Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774171;455008071;k) |
+| P1 | targetjobs | Corporate Audit, Summer 2027 Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774150;454500838;o) |
 | P1 | trackr-summer | Trackr Premium Instant alerts for new roles. | unknown | ? | yes | check | 2026-09-19 | [open](https://www.the-trackr.com/premium) |
 | P1 | trackr-summer | Cappfinity | unknown | ? | yes | check | 2026-09-19 | [open](https://www.jobtestprep.co.uk/deutsche-bank#101) |
 | P1 | trackr-summer | J.P. Morgan Prep | unknown | ? | yes | check | 2026-09-19 | [open](https://www.jobtestprep.co.uk/jp-morgan-assessment-centre#101) |
@@ -223,6 +226,7 @@
 | P3 | ING | HRBP Intern H/F/X | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/paris/hrbp-intern-h-f-x/3121/44350719360) |
 | P3 | ING | INTERNSHIP - Talent Acquisition | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/luxembourg/internship-talent-acquisition/3121/45053292032) |
 | P3 | ING | Internship ING Corporate Finance (M&A) | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/amsterdam/internship-ing-corporate-finance-m-and-a/3121/44845992192) |
+| P3 | ING | Intern, FM Front Office Support | summer_likely | ? |  | check | 2026-09-23 | [open](https://www.ing.jobs/en/job/singapore/intern-fm-front-office-support/3121/45086279232) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -355,6 +359,7 @@
 | P3 | M&G | Link to M&G invested $300m in Seeker Music, managing 17,000 copyrights and 38 Spotify Bill | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2025/17000-songs-in-our-music-catalogue) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2020/150m-invested-in-green-infrastructure) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-22 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/22-09-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-23 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/23-09-2026) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -597,8 +602,3 @@
 | P3 | Vista Equity Partners | Insights by Vista Forefront | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/?topic=education-insights) |
 | P3 | Wells Fargo | EMEA Banking Summer Analyst | summer | ? |  | eligible | 2026-09-21 | [open](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/EMEA-Banking-Summer-Analyst_R-570654-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Wells Fargo | EMEA Commercial Real Estate Summer Analyst | summer | ? |  | eligible | 2026-09-21 | [open](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/EMEA-Commercial-Real-Estate-Analyst_R-571086-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
-| P3 | Wells Fargo | EMEA Markets Summer Analyst | summer | ? |  | eligible | 2026-09-21 | [open](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/EMEA-Markets-Summer-Analyst_R-570663?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
-| P3 | Wise | Programs and applications | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/wisestart-programs) |
-| P3 | Wise | Programa de Aprendizagem WiseStart | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/programa-de-aprendizagem-wisestart) |
-| P3 | Wise | Scaling Internal Audit at Wise | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/blog/2026-8/scaling-internal-audit-at-wise) |
-| P3 | Wise | Internal Audit | unknown | ? |  | check | 2026-09-20 | [open](https://wise.jobs/posts/tags/internal-audit) |
