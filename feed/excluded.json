@@ -5564,5 +5564,115 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P1"
+ },
+ {
+  "id": "d831a4e449e3cb0d",
+  "firm": "Monzo",
+  "role_title": "Senior FinCrime Operations Manager",
+  "division": "",
+  "location": "Dublin",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8225870",
+  "source": "monzo",
+  "date_posted": "2026-09-23",
+  "date_found": "2026-09-23",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Dublin' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "f6dcacfd4dc3b174",
+  "firm": "Monzo",
+  "role_title": "Senior Fraud Operations Manager",
+  "division": "",
+  "location": "Dublin",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8225843",
+  "source": "monzo",
+  "date_posted": "2026-09-23",
+  "date_found": "2026-09-23",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Dublin' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "bbc5637b726d2f70",
+  "firm": "GoCardless",
+  "role_title": "Technical Account Manager",
+  "division": "",
+  "location": "Melbourne, Australia",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8226062",
+  "source": "gocardless",
+  "date_posted": "2026-09-23",
+  "date_found": "2026-09-23",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Melbourne, Australia' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "600392897f0da08b",
+  "firm": "targetjobs",
+  "role_title": "Graduate Technical Engineer",
+  "division": "",
+  "location": "Leeds",
+  "url": "https://tpp-careers.com/roles/graduatetechnicalengineer/",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-23",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Leeds' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "7db239a17944da92",
+  "firm": "targetjobs",
+  "role_title": "Technology – Software Engineering Graduate Scheme",
+  "division": "",
+  "location": "Welwyn Garden City",
+  "url": "https://tescoearlycareers.groupgti.com/technology-–-software-engineering-graduate-scheme/65/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-23",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

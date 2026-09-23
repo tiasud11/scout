@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-23 09:28 UK
+# Scout feed, last run 2026-09-23 14:57 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | P1 | Mizuho | 2027 Global Transaction Banking Summer Internship | summer | ? | yes | eligible | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-global-transaction-banking-summer-internship-london-37881/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Mizuho | 2027 Risk and Credit Risk Summer Internship | summer | ? | yes | eligible | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-risk-and-credit-risk-summer-internship-london-37883/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Mizuho | 2027 Operations Summer Internship | summer | ? | yes | eligible | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-emea-operations-summer-internship-london-37878/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | Monzo | FOS Root Cause Analysis Manager | unknown | ? | yes | check | 2026-09-23 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223615) |
 | P1 | PwC | Undergraduate Work Placement | unknown | ? | yes | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/undergraduate/undergraduate-work-placement.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P1 | jointheintake | Spring weeks | unknown | ? | yes | check | 2026-09-23 | [open](https://www.jointheintake.com/spring-weeks) |
 | P1 | targetjobs | Global Research 2027 Summer Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774171;455008071;k) |
@@ -429,6 +430,7 @@
 | P3 | Monzo | Staff Technical Program Manager, Operations | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222576) |
 | P3 | Monzo | Employee Relations Advisor | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223264) |
 | P3 | Monzo | Transfer Pricing Tax Manager  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223018) |
+| P3 | Monzo | Treasury Analyst  | unknown | ? |  | check | 2026-09-23 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223173) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -600,5 +602,3 @@
 | P3 | Vista Equity Partners | Video Software’s Next Chapter: Robert F. Smith on The Next Era of Enterprise Platforms Wat | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/softwares-next-chapter-robert-f-smith-on-the-next-era-of-enterprise-platforms/) |
 | P3 | Vista Equity Partners | AI In Practice The State of Wealth Management AI Adoption Learn how wealth management firm | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/the-state-of-wealth-management-ai-adoption/) |
 | P3 | Vista Equity Partners | Insights by Vista Forefront | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/?topic=education-insights) |
-| P3 | Wells Fargo | EMEA Banking Summer Analyst | summer | ? |  | eligible | 2026-09-21 | [open](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/EMEA-Banking-Summer-Analyst_R-570654-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
-| P3 | Wells Fargo | EMEA Commercial Real Estate Summer Analyst | summer | ? |  | eligible | 2026-09-21 | [open](https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/EMEA-Commercial-Real-Estate-Analyst_R-571086-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
