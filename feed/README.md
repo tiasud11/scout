@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-23 14:57 UK
+# Scout feed, last run 2026-09-23 21:00 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | P3 | ING | INTERNSHIP - Talent Acquisition | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/luxembourg/internship-talent-acquisition/3121/45053292032) |
 | P3 | ING | Internship ING Corporate Finance (M&A) | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/amsterdam/internship-ing-corporate-finance-m-and-a/3121/44845992192) |
 | P3 | ING | Intern, FM Front Office Support | summer_likely | ? |  | check | 2026-09-23 | [open](https://www.ing.jobs/en/job/singapore/intern-fm-front-office-support/3121/45086279232) |
+| P3 | ING | Engineering Intern - Agentic AI domain | summer_likely | ? |  | check | 2026-09-23 | [open](https://www.ing.jobs/en/job/amsterdam/engineering-intern-agentic-ai-domain/3121/45108867264) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -370,6 +371,7 @@
 | P3 | Marsh McLennan | Students/Graduates | unknown | ? |  | check | 2026-09-20 | [open](https://careers.marsh.com/global/en/student-opportunities) |
 | P3 | Mizuho | 2027 Banking Summer Internship | summer | ? |  | check | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-banking-summer-internship-london-37876/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Mizuho | 2027 Finance Summer Internship | summer | ? |  | check | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-finance-summer-internship-london-37879/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | Moelis & Co | 2027 Summer Analyst, Private Capital Advisory | summer | ? |  | eligible | 2026-09-23 | [open](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-a3207dbb8e0a/candidate/so/pm/1/pl/2/opp/434-2027-Summer-Analyst-Private-Capital-Advisory-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Monzo | Anaplan Support Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8143930) |
 | P3 | Monzo | Android Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7115379) |
 | P3 | Monzo | Backend Engineer III  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6635595) |
@@ -600,5 +602,3 @@
 | P3 | Vista Equity Partners | Insights by Vista Forefront | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/) |
 | P3 | Vista Equity Partners | Outlook Software’s Transition to Agentic Enterprise AI Learn more on how Vista is measurin | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/ai-impact-vista-portfolio-2026-mid-year-report/) |
 | P3 | Vista Equity Partners | Video Software’s Next Chapter: Robert F. Smith on The Next Era of Enterprise Platforms Wat | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/softwares-next-chapter-robert-f-smith-on-the-next-era-of-enterprise-platforms/) |
-| P3 | Vista Equity Partners | AI In Practice The State of Wealth Management AI Adoption Learn how wealth management firm | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/the-state-of-wealth-management-ai-adoption/) |
-| P3 | Vista Equity Partners | Insights by Vista Forefront | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/?topic=education-insights) |
