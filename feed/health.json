@@ -1,8 +1,8 @@
 {
- "run": "2026-09-23 21:00",
+ "run": "2026-09-24 09:25",
  "haiku": false,
- "opened": 5,
- "new": 5,
+ "opened": 16,
+ "new": 3,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 18
   },
   {
    "source": "natixis",
@@ -99,7 +99,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -273,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 53
+   "items": 165
   },
   {
    "source": "ey",
@@ -283,7 +284,7 @@
   {
    "source": "kpmg",
    "ok": true,
-   "items": 42
+   "items": 40
   },
   {
    "source": "bcg",
@@ -407,7 +408,7 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 413
+   "items": 412
   },
   {
    "source": "targetjobs",

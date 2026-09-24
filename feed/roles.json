@@ -24474,5 +24474,80 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/96febfc94e588476.txt"
+ },
+ {
+  "id": "bafcc44dbe043e33",
+  "firm": "M&G",
+  "role_title": "View press release",
+  "division": "",
+  "location": "London",
+  "url": "https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026",
+  "source": "mandg",
+  "date_posted": null,
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/bafcc44dbe043e33.txt"
+ },
+ {
+  "id": "df6888a691c93aaf",
+  "firm": "Monzo",
+  "role_title": "Senior Financial Crime Investigator, EU",
+  "division": "",
+  "location": "Remote (UK)",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8222678",
+  "source": "monzo",
+  "date_posted": "2026-09-24",
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "graduation year not stated",
+   "location 'Remote (UK)' may include London"
+  ],
+  "ai_policy": "Drop us your application, we’d love to hear from you! We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo.",
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/df6888a691c93aaf.txt"
+ },
+ {
+  "id": "7b7da06bf880bb13",
+  "firm": "ratemyplacement",
+  "role_title": "83",
+  "division": "",
+  "location": "London",
+  "url": "https://www.ratemyplacement.co.uk/search-jobs?page=83",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/7b7da06bf880bb13.txt"
  }
 ]

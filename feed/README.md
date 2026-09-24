@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-23 21:00 UK
+# Scout feed, last run 2026-09-24 09:25 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2020/150m-invested-in-green-infrastructure) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-22 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/22-09-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-23 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/23-09-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -433,6 +434,7 @@
 | P3 | Monzo | Employee Relations Advisor | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223264) |
 | P3 | Monzo | Transfer Pricing Tax Manager  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223018) |
 | P3 | Monzo | Treasury Analyst  | unknown | ? |  | check | 2026-09-23 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223173) |
+| P3 | Monzo | Senior Financial Crime Investigator, EU | unknown | ? |  | check | 2026-09-24 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222678) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -600,5 +602,3 @@
 | P3 | Vista Equity Partners | White Paper Demystifying Generative AI Explore how Gen AI is redefining industries. | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/generative-ai-investment-insights/) |
 | P3 | Vista Equity Partners | News + Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/careers/) |
 | P3 | Vista Equity Partners | Insights by Vista Forefront | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/) |
-| P3 | Vista Equity Partners | Outlook Software’s Transition to Agentic Enterprise AI Learn more on how Vista is measurin | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/ai-impact-vista-portfolio-2026-mid-year-report/) |
-| P3 | Vista Equity Partners | Video Software’s Next Chapter: Robert F. Smith on The Next Era of Enterprise Platforms Wat | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/softwares-next-chapter-robert-f-smith-on-the-next-era-of-enterprise-platforms/) |
