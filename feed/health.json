@@ -1,7 +1,7 @@
 {
- "run": "2026-09-24 14:54",
+ "run": "2026-09-24 20:56",
  "haiku": false,
- "opened": 7,
+ "opened": 14,
  "new": 7,
  "sources": [
   {
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 18
   },
   {
    "source": "natixis",
@@ -62,8 +62,7 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 10
   },
   {
    "source": "investec",
@@ -99,7 +98,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -253,7 +253,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -356,12 +356,12 @@
   {
    "source": "gallagher",
    "ok": true,
-   "items": 14
+   "items": 15
   },
   {
    "source": "monzo",
    "ok": true,
-   "items": 68
+   "items": 69
   },
   {
    "source": "starling",
@@ -381,12 +381,12 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 25
+   "items": 27
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 355
+   "items": 356
   },
   {
    "source": "trackr-spring",
@@ -412,7 +412,7 @@
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 52
+   "items": 57
   },
   {
    "source": "jointheintake",

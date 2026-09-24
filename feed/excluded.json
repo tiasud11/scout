@@ -5960,5 +5960,159 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "103decd7564935b0",
+  "firm": "GoCardless",
+  "role_title": "Data Engineer",
+  "division": "",
+  "location": "Riga, Latvia",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8230417",
+  "source": "gocardless",
+  "date_posted": "2026-09-24",
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Riga, Latvia' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "351ce43c562d9663",
+  "firm": "GoCardless",
+  "role_title": "Data Engineer",
+  "division": "",
+  "location": "Lisbon, Portugal",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8210486",
+  "source": "gocardless",
+  "date_posted": "2026-09-24",
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Lisbon, Portugal' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "d8a7bac546b17cda",
+  "firm": "targetjobs",
+  "role_title": "IMS Technology – Cyber Security Graduate Scheme",
+  "division": "",
+  "location": "Edinburgh",
+  "url": "https://tescoearlycareers.groupgti.com/imstechnology-–-cyber-security-graduate-scheme/68/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "31d43a1b31b2ceff",
+  "firm": "targetjobs",
+  "role_title": "Graduate Scheme – Finance, Insight & Commercial Analysis",
+  "division": "",
+  "location": "Wellingborough",
+  "url": "https://tescoearlycareers.groupgti.com/graduate-scheme-–-finance,-insight-&-commercial-analysis-/71/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "0a2e401fa0da51b2",
+  "firm": "targetjobs",
+  "role_title": "Technology – Product Management Graduate Scheme",
+  "division": "",
+  "location": "Welwyn Garden City",
+  "url": "https://tescoearlycareers.groupgti.com/technology-–-product-management-graduate-scheme/75/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "69dbe26f284752bd",
+  "firm": "targetjobs",
+  "role_title": "Product – Supply Chain Graduate Scheme",
+  "division": "",
+  "location": "Welwyn Garden City",
+  "url": "https://tescoearlycareers.groupgti.com/product-–-supply-chain-graduate-scheme/64/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "7d331fb96c8ea1df",
+  "firm": "targetjobs",
+  "role_title": "Technology – Cyber Security Graduate Scheme",
+  "division": "",
+  "location": "Welwyn Garden City",
+  "url": "https://tescoearlycareers.groupgti.com/technology-–-cyber-security-graduate-scheme/58/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-24",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

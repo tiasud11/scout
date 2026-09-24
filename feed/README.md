@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-24 14:54 UK
+# Scout feed, last run 2026-09-24 20:56 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | P1 | Citi | Investment Banking, Summer Analyst 2027 | summer | ? | yes | eligible | 2026-09-21 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking--Summer-Analyst--London---United-Kingdom-2027_26992197?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | Citi | Corporate Banking, Summer Analyst, 2027 | summer | ? | yes | eligible | 2026-09-21 | [open](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Banking--Corporate-Banking--Summer-Analyst--London---United-Kingdom--2027_26991689?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | Citi | Financing, Summer Analyst, 2027 | summer | ? | yes | eligible | 2026-09-21 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Financing--Summer-Analyst--London---United-Kingdom-2027_26993182/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
+| P1 | Citi | Global Wealth, Summer Analyst, 2027 | summer | ? | yes | eligible | 2026-09-24 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Citi-Global-Wealth--Summer-Analyst--London---United-Kingdom--2027_26994841?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | Evercore | Private Funds Group Summer Internship (2027) | summer | ? | yes | check | 2026-09-21 | [open](https://jobs.smartrecruiters.com/Wiser/744000143765069-private-funds-group-summer-internship-2027-evercore?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
 | P1 | Evercore | Restructuring Summer Internship (2027) | summer | ? | yes | check | 2026-09-21 | [open](https://jobs.smartrecruiters.com/Wiser/744000146674819-restructuring-summer-internship-2027-evercore?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
 | P1 | Evercore | Debt Advisory Summer Internship (2027) | summer | ? | yes | eligible | 2026-09-21 | [open](https://jobs.smartrecruiters.com/Wiser/744000146672822-debt-advisory-summer-internship-2027-evercore?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
@@ -63,6 +64,7 @@
 | P1 | Mizuho | 2027 Risk and Credit Risk Summer Internship | summer | ? | yes | eligible | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-risk-and-credit-risk-summer-internship-london-37883/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Mizuho | 2027 Operations Summer Internship | summer | ? | yes | eligible | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-emea-operations-summer-internship-london-37878/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Monzo | FOS Root Cause Analysis Manager | unknown | ? | yes | check | 2026-09-23 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223615) |
+| P1 | Monzo | Strategic Innovation Lead, Operations | unknown | ? | yes | check | 2026-09-24 | [open](https://job-boards.greenhouse.io/monzo/jobs/8231337) |
 | P1 | PwC | Undergraduate Work Placement | unknown | ? | yes | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/undergraduate/undergraduate-work-placement.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P1 | jointheintake | Spring weeks | unknown | ? | yes | check | 2026-09-23 | [open](https://www.jointheintake.com/spring-weeks) |
 | P1 | targetjobs | Global Research 2027 Summer Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774171;455008071;k) |
@@ -84,6 +86,7 @@
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
 | P3 | trackr-summer | Shell | unknown | 2027-01-31 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/shell) |
 | P3 | PwC | Flying Start degree programmes | unknown | 2027-03-12 |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
+| P3 | targetjobs | Japan - Teaching English as a Foreign Language | unknown | 2027-06-30 |  | check | 2026-09-24 | [open](https://www.travelgrad.com/japan-tefl) |
 | P3 | Amundi | Our Student Experience | unknown | ? |  | check | 2026-09-22 | [open](https://www.amundi.com/our-student-experience-amundi) |
 | P3 | Amundi | Explore all our Insights | unknown | ? |  | check | 2026-09-22 | [open](https://www.amundi.com/news) |
 | P3 | Aon | Early Careers | unknown | ? |  | check | 2026-09-20 | [open](https://www.aon.com/careers/early-careers) |
@@ -198,6 +201,7 @@
 | P3 | Gallagher | Learn More | unknown | ? |  | check | 2026-09-20 | [open](https://jobs.ajg.com/ajg-students) |
 | P3 | Gallagher | Internet Crime Complaint Center | unknown | ? |  | check | 2026-09-20 | [open](https://www.ic3.gov/) |
 | P3 | Gallagher | Recent Graduates | unknown | ? |  | check | 2026-09-20 | [open](https://jobs.ajg.com/ajg-programs) |
+| P3 | Gallagher | Current Employee | unknown | ? |  | check | 2026-09-24 | [open](https://internal.ajg.com/internal-home) |
 | P3 | GoCardless | Account Executive, Emerging, UK&I | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8141651) |
 | P3 | GoCardless | Customer Success Manager II, UK & ireland | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8191369) |
 | P3 | GoCardless | Customer Success Manager I, UK & ireland | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8191347) |
@@ -598,7 +602,3 @@
 | P3 | TPG | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights) |
 | P3 | TPG | View All Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/insights) |
 | P3 | TPG | The Expanding Content Economy | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/the-expanding-content-economy) |
-| P3 | TPG | Investing Perspectives Shaping the Future of Healthcare Technology | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/investing-perspectives-shaping-the-future-of-healthcare-technology) |
-| P3 | TPG | Investment Insights: A Local Approach to Asia Real Estate | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/investment-insights-a-local-approach-to-asia-real-estate) |
-| P3 | TPG | IDMC (Internet, Digital Media & Communications) | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/approach/internet-digital-media) |
-| P3 | TPG | Press Releases | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/news) |
