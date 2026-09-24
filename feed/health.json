@@ -1,8 +1,8 @@
 {
- "run": "2026-09-24 09:25",
+ "run": "2026-09-24 14:54",
  "haiku": false,
- "opened": 16,
- "new": 3,
+ "opened": 7,
+ "new": 7,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 18
+   "items": 20
   },
   {
    "source": "natixis",
@@ -99,8 +99,7 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 6
   },
   {
    "source": "mandg",
@@ -254,7 +253,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -304,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -362,7 +361,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 71
+   "items": 68
   },
   {
    "source": "starling",
@@ -382,12 +381,12 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 27
+   "items": 25
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 352
+   "items": 355
   },
   {
    "source": "trackr-spring",
@@ -408,7 +407,7 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 412
+   "items": 413
   },
   {
    "source": "targetjobs",

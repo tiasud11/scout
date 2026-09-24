@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-24 09:25 UK
+# Scout feed, last run 2026-09-24 14:54 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -114,6 +114,9 @@
 | P3 | BCG | Internship Opportunities | summer_likely | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/internship-opportunities) |
 | P3 | BCG | Students & Campus Programs | unknown | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/on-campus) |
 | P3 | BCG | Expertise and Insights | unknown | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/teams/expertise-insights) |
+| P3 | BDO Global | 2027 Audit Summer Internship Programme | summer | ? |  | eligible | 2026-09-24 | [open](https://bdouk.wd3.myworkdayjobs.com/en-US/BDO_Early_in_Career/job/XMLNAME-2027-Audit-Summer-Internship-Programme_R21066?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
+| P3 | BDO Global | 2027 Tax Summer Internship Programme | summer | ? |  | eligible | 2026-09-24 | [open](https://bdouk.wd3.myworkdayjobs.com/en-US/BDO_Early_in_Career/job/XMLNAME-2027-Tax-Summer-Internship-Programme_R21059?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
+| P3 | BDO Global | 2027 Actuarial Summer Internship Programme | summer | ? |  | eligible | 2026-09-24 | [open](https://bdouk.wd3.myworkdayjobs.com/en-US/BDO_Early_in_Career/job/XMLNAME-2027-Actuarial-Summer-Internship-Programme_R21061?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | BNY Mellon | 2027 Summer Internship Program - Non-Investments | summer | ? |  | check | 2026-09-21 | [open](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr&keyword=%22summer+internship%22&lastSelectedFacet=TITLES&location=United+Kingdom&locationId=300000000378281&locationLevel=country&mode=location&selectedTitlesFacet=CAPG) |
 | P3 | BNY Mellon | 2027 Summer Internship Program - Investments | summer | ? |  | check | 2026-09-21 | [open](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/82186/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | Baillie Gifford | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.bailliegifford.com/en/global/all-users/insights/) |
@@ -132,6 +135,7 @@
 | P3 | Bain & Company | Japan (日本語) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/ja/careers/work-with-us/students/) |
 | P3 | Bain & Company | Explore Bain Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/insights/) |
 | P3 | Bain & Company | Internships & Programs | summer_likely | ? |  | check | 2026-09-19 | [open](https://www.bain.com/careers/work-with-us/internships-programs/) |
+| P3 | Brevan Howard | 2027 Summer Internship Program - Systematic Trading | summer | ? |  | check | 2026-09-24 | [open](https://careers.brevanhoward.com/gb/en/job/JR101619/2027-Summer-Internship-Program-Systematic-Trading-London?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Brookfield | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/careers/students-and-graduates#main-content) |
 | P3 | Brookfield | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/views-news/insights) |
 | P3 | Brookfield | Student Programs | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/careers/student-programs) |
@@ -229,6 +233,7 @@
 | P3 | ING | Internship ING Corporate Finance (M&A) | summer_likely | ? |  | check | 2026-09-22 | [open](https://www.ing.jobs/en/job/amsterdam/internship-ing-corporate-finance-m-and-a/3121/44845992192) |
 | P3 | ING | Intern, FM Front Office Support | summer_likely | ? |  | check | 2026-09-23 | [open](https://www.ing.jobs/en/job/singapore/intern-fm-front-office-support/3121/45086279232) |
 | P3 | ING | Engineering Intern - Agentic AI domain | summer_likely | ? |  | check | 2026-09-23 | [open](https://www.ing.jobs/en/job/amsterdam/engineering-intern-agentic-ai-domain/3121/45108867264) |
+| P3 | ING | Data Analyst in Experience Design - CoE Customer Experience & Trust | unknown | ? |  | check | 2026-09-24 | [open](https://www.ing.jobs/en/job/amsterdam/data-analyst-in-experience-design-coe-customer-experience-and-trust/3121/43826472256) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -363,6 +368,7 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-22 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/22-09-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-23 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/23-09-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026a) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -596,9 +602,3 @@
 | P3 | TPG | Investment Insights: A Local Approach to Asia Real Estate | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/investment-insights-a-local-approach-to-asia-real-estate) |
 | P3 | TPG | IDMC (Internet, Digital Media & Communications) | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/approach/internet-digital-media) |
 | P3 | TPG | Press Releases | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/news) |
-| P3 | TPG | Investment Insights: Transition Infrastructure in Focus | unknown | ? |  | check | 2026-09-21 | [open](https://www.tpg.com/news-and-insights/investment-insights-transition-infrastructure-in-focus) |
-| P3 | TPG | The Reset of the Real Economy: Investing in the Energy Transition | unknown | ? |  | check | 2026-09-22 | [open](https://www.tpg.com/news-and-insights/the-reset-of-the-real-economy-investing-in-the-energy-transition) |
-| P3 | Vista Equity Partners | White Paper Investing in Enterprise Software Learn from Robert F. Smith why enterprise sof | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/investing-in-enterprise-software/) |
-| P3 | Vista Equity Partners | White Paper Demystifying Generative AI Explore how Gen AI is redefining industries. | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/generative-ai-investment-insights/) |
-| P3 | Vista Equity Partners | News + Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/careers/) |
-| P3 | Vista Equity Partners | Insights by Vista Forefront | unknown | ? |  | check | 2026-09-19 | [open](https://www.vistaequitypartners.com/insights/) |
