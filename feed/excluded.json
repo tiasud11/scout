@@ -6224,5 +6224,115 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "64ed1824a6dad537",
+  "firm": "targetjobs",
+  "role_title": "Business Analyst - Network Development (Undergraduate Placement Year 2027-28)",
+  "division": "",
+  "location": "Walton-on-Thames",
+  "url": "https://kia-uk.hirehive.com/business-analyst-network-development-undergraduate-placement-year-2027-28-walton-on-thames-OCCagX?source=GTI",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-25",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "08d354ef946d92a3",
+  "firm": "targetjobs",
+  "role_title": "Graduate Scheme – Change Manager",
+  "division": "",
+  "location": "Royton, Oldham",
+  "url": "https://tescoearlycareers.groupgti.com/graduate-scheme-–-change-manager-/50/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-25",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "04ea6c2b8d0006de",
+  "firm": "targetjobs",
+  "role_title": "2027 Client and Product Graduate Rotational Program - EMEA",
+  "division": "",
+  "location": "London",
+  "url": "https://careers.blackrock.com/job/london/2027-client-and-product-graduate-rotational-program-emea/45831/97150826688",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-25",
+  "deadline": "2026-09-30",
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "b8764667320cc9b4",
+  "firm": "targetjobs",
+  "role_title": "2027 Marketing Analyst Graduate Programme - London",
+  "division": "",
+  "location": "London",
+  "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Marketing-Analyst-Graduate-Programme-London_JR-0000129077",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-25",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "ca9110fd024874cb",
+  "firm": "targetjobs",
+  "role_title": "Graduate – Commercial Analyst",
+  "division": "",
+  "location": "Warwick, Wokingham",
+  "url": "https://www.neso.energy/careers/early-careers-neso#Graduate-Programme",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-25",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Warwick, Wokingham' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

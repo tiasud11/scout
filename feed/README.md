@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-25 14:54 UK
+# Scout feed, last run 2026-09-25 20:57 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | P2 | trackr-summer | PJT Partners | unknown | 2026-10-04 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/pjt-partners) |
 | P2 | trackr-summer | Investment Analyst Internship 2026-2027 | summer_likely | 2026-10-09 |  | check | 2026-09-20 | [open](https://vhr-orbis.wd3.myworkdayjobs.com/en-US/Orbis_Careers/details/Investment-Analyst-Internship-2026-2027_JR564?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr&employeeContractType=f0623a187241100115b8174985c70000) |
 | P2 | trackr-summer | 2027 Summer Internship | summer | 2026-10-16 |  | check | 2026-09-20 | [open](https://eastdilsecured.bamboohr.com/careers/172?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
+| P2 | targetjobs | 2027 Corporate Risk & Broking, Internship Programme – London | summer_likely | 2026-10-19 |  | check | 2026-09-25 | [open](https://careers.wtwco.com/jobs/2027-corporate-risk-broking-internship-programme-london-london-england-united-kingdom?utm_source=targetjobs&utm_medium=referral&utm_campaign=early-careers) |
 | P2 | trackr-summer | Trader Summer Internship 2027 | summer | 2026-10-20 |  | eligible | 2026-09-20 | [open](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -212,6 +213,7 @@
 | P3 | GoCardless | Senior Product Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8064518) |
 | P3 | GoCardless | Site Reliability Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/7996584) |
 | P3 | GoCardless | Procurement Manager | unknown | ? |  | check | 2026-09-21 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8219965) |
+| P3 | GoCardless | Salesforce Developer  | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8232924) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -238,6 +240,7 @@
 | P3 | ING | Intern, FM Front Office Support | summer_likely | ? |  | check | 2026-09-23 | [open](https://www.ing.jobs/en/job/singapore/intern-fm-front-office-support/3121/45086279232) |
 | P3 | ING | Engineering Intern - Agentic AI domain | summer_likely | ? |  | check | 2026-09-23 | [open](https://www.ing.jobs/en/job/amsterdam/engineering-intern-agentic-ai-domain/3121/45108867264) |
 | P3 | ING | Data Analyst in Experience Design - CoE Customer Experience & Trust | unknown | ? |  | check | 2026-09-24 | [open](https://www.ing.jobs/en/job/amsterdam/data-analyst-in-experience-design-coe-customer-experience-and-trust/3121/43826472256) |
+| P3 | ING | Internship Data & AI Engineering | summer_likely | ? |  | check | 2026-09-25 | [open](https://www.ing.jobs/en/job/amsterdam/internship-data-and-ai-engineering/3121/45068844992) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -599,6 +602,3 @@
 | P3 | TD Securities | Students & new grads | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/student-new-grads) |
 | P3 | TD Securities | Early Talent Programs | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/student-new-grads/early-talent-programs/) |
 | P3 | TD Securities | Programs in USA | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/student-new-grads/career-development-programs/#usa) |
-| P3 | TD Securities | Graduate Leadership Programs | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/graduate-leadership-programs/) |
-| P3 | TD Securities | Internship/Co-op | Undergraduate/Graduate | summer_likely | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/finding-a-team/job-categories/#internship) |
-| P3 | TPG | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights) |

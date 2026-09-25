@@ -1,8 +1,8 @@
 {
- "run": "2026-09-25 14:54",
+ "run": "2026-09-25 20:57",
  "haiku": false,
- "opened": 3,
- "new": 3,
+ "opened": 9,
+ "new": 4,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 18
+   "items": 20
   },
   {
    "source": "natixis",
@@ -254,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -382,7 +382,7 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 27
+   "items": 28
   },
   {
    "source": "trackr-summer",
@@ -403,18 +403,17 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 412
+   "items": 413
   },
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 57
+   "items": 56
   },
   {
    "source": "jointheintake",
