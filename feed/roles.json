@@ -24884,5 +24884,54 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/f91cebeb7a5cc2f8.txt"
+ },
+ {
+  "id": "05a8469b8f6f4d57",
+  "firm": "Wise",
+  "role_title": "Fincime operations senior analyst - RFI",
+  "division": "",
+  "location": "",
+  "url": "https://wise.jobs/job/fincime-operations-senior-analyst-rfi-in-sao-paulo-jid-4214",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-25",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated",
+   "location not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/05a8469b8f6f4d57.txt"
+ },
+ {
+  "id": "2adf29ad8d43f3ea",
+  "firm": "trackr-summer",
+  "role_title": "Summer Internship 2027",
+  "division": "",
+  "location": "London",
+  "url": "https://equinor.wd3.myworkdayjobs.com/en-US/EQNR/job/Summer-Internship-2027-UK---Market-Analysis---Trading_JR107239?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-09-25",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/2adf29ad8d43f3ea.txt"
  }
 ]
