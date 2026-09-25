@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-25 09:26 UK
+# Scout feed, last run 2026-09-25 14:54 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -445,6 +445,8 @@
 | P3 | Monzo | Transfer Pricing Tax Manager  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223018) |
 | P3 | Monzo | Treasury Analyst  | unknown | ? |  | check | 2026-09-23 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223173) |
 | P3 | Monzo | Senior Financial Crime Investigator, EU | unknown | ? |  | check | 2026-09-24 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222678) |
+| P3 | Monzo | Credit Bureau Relationship Manager | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/monzo/jobs/8207588) |
+| P3 | Monzo | Savings Pricing Manager | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/monzo/jobs/8232647) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -600,5 +602,3 @@
 | P3 | TD Securities | Graduate Leadership Programs | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/graduate-leadership-programs/) |
 | P3 | TD Securities | Internship/Co-op | Undergraduate/Graduate | summer_likely | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/finding-a-team/job-categories/#internship) |
 | P3 | TPG | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights) |
-| P3 | TPG | View All Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/insights) |
-| P3 | TPG | The Expanding Content Economy | unknown | ? |  | check | 2026-09-19 | [open](https://www.tpg.com/news-and-insights/the-expanding-content-economy) |

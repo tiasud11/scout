@@ -1,8 +1,8 @@
 {
- "run": "2026-09-25 09:26",
+ "run": "2026-09-25 14:54",
  "haiku": false,
- "opened": 7,
- "new": 2,
+ "opened": 3,
+ "new": 3,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 19
+   "items": 18
   },
   {
    "source": "natixis",
@@ -362,7 +362,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 69
+   "items": 71
   },
   {
    "source": "starling",

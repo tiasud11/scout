@@ -1,13 +1,13 @@
 {
- "run": "2026-09-25 09:26",
+ "run": "2026-09-25 14:54",
  "roles": [
   {
-   "id": "05a8469b8f6f4d57",
+   "id": "17d5dd67fdd46ea4",
    "firm": "Wise",
-   "role_title": "Fincime operations senior analyst - RFI",
+   "role_title": "Lead Marketing Analyst - Growth Enablement",
    "division": "",
-   "location": "",
-   "url": "https://wise.jobs/job/fincime-operations-senior-analyst-rfi-in-sao-paulo-jid-4214",
+   "location": "London",
+   "url": "https://wise.jobs/job/lead-marketing-analyst-growth-enablement-in-london-jid-3227",
    "source": "wise",
    "date_posted": null,
    "date_found": "2026-09-25",
@@ -18,37 +18,63 @@
    "eligibility_notes": [
     "programme type not explicit, confirm summer 2027 or spring 2027",
     "no programme year stated",
-    "graduation year not stated",
-    "location not stated"
-   ],
-   "ai_policy": null,
-   "injection_suspect": false,
-   "classified_by": "rules",
-   "priority": "P3",
-   "posting_text": "feed/postings/05a8469b8f6f4d57.txt"
-  },
-  {
-   "id": "2adf29ad8d43f3ea",
-   "firm": "trackr-summer",
-   "role_title": "Summer Internship 2027",
-   "division": "",
-   "location": "London",
-   "url": "https://equinor.wd3.myworkdayjobs.com/en-US/EQNR/job/Summer-Internship-2027-UK---Market-Analysis---Trading_JR107239?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
-   "source": "trackr-summer",
-   "date_posted": null,
-   "date_found": "2026-09-25",
-   "deadline": null,
-   "rolling": false,
-   "type": "summer",
-   "eligibility": "check",
-   "eligibility_notes": [
     "graduation year not stated"
    ],
    "ai_policy": null,
    "injection_suspect": false,
    "classified_by": "rules",
    "priority": "P3",
-   "posting_text": "feed/postings/2adf29ad8d43f3ea.txt"
+   "posting_text": "feed/postings/17d5dd67fdd46ea4.txt"
+  },
+  {
+   "id": "e863b527b9360f50",
+   "firm": "Monzo",
+   "role_title": "Credit Bureau Relationship Manager",
+   "division": "",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8207588",
+   "source": "monzo",
+   "date_posted": "2026-09-25",
+   "date_found": "2026-09-25",
+   "deadline": null,
+   "rolling": false,
+   "type": "unknown",
+   "eligibility": "check",
+   "eligibility_notes": [
+    "programme type not explicit, confirm summer 2027 or spring 2027",
+    "no programme year stated",
+    "graduation year not stated"
+   ],
+   "ai_policy": "🌈 The application journey has 3 key steps 1) Recruiter call 2) Initial hiring manager call 3) Final stage (x2 interviews) consisting of a role specific interview and a collaboration interview This process should take around 3-4 weeks - your schedule is really important to us, so we promise to be as flexible as possible! We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo.",
+   "injection_suspect": false,
+   "classified_by": "rules",
+   "priority": "P3",
+   "posting_text": "feed/postings/e863b527b9360f50.txt"
+  },
+  {
+   "id": "f58cf203bd5528d1",
+   "firm": "Monzo",
+   "role_title": "Savings Pricing Manager",
+   "division": "",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8232647",
+   "source": "monzo",
+   "date_posted": "2026-09-25",
+   "date_found": "2026-09-25",
+   "deadline": null,
+   "rolling": false,
+   "type": "unknown",
+   "eligibility": "check",
+   "eligibility_notes": [
+    "programme type not explicit, confirm summer 2027 or spring 2027",
+    "no programme year stated",
+    "graduation year not stated"
+   ],
+   "ai_policy": "🌈 The application journey has 3 key steps Intro call with the recruiter 30 min call with the hiring manager 2 hours of technical and behavioural interviews This process should take around 3 - 4 weeks - your schedule is really important to us, so we promise to be as flexible as possible! We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo.",
+   "injection_suspect": false,
+   "classified_by": "rules",
+   "priority": "P3",
+   "posting_text": "feed/postings/f58cf203bd5528d1.txt"
   }
  ]
 }
