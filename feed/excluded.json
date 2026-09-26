@@ -6334,5 +6334,115 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "d29455b132688481",
+  "firm": "ratemyplacement",
+  "role_title": "Industrial Quality Engineering Placement Airbus Deadline: 27th September 2026 Placement (10 Months+) £24,246 per year Broughton",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44197/airbus/industrial-quality-engineering-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-26",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "693449bad86247e1",
+  "firm": "ratemyplacement",
+  "role_title": "Thermal Engineering Placement Airbus Deadline: 27th September 2026 Placement (10 Months+) £24,500 per year Stevenage",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44241/airbus/thermal-engineering-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-26",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "a1923101e8823186",
+  "firm": "ratemyplacement",
+  "role_title": "Physical Design Process, Methods, Tools and Data Placement - Portsmouth Airbus Deadline: 27th September 2026 Placement (10 Months+) £24,500 per year Portsmouth",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44219/airbus/physical-design-process-methods-tools-and-data-placement-portsmouth",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-26",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "8323356fe0fa0929",
+  "firm": "ratemyplacement",
+  "role_title": "Retrofit Solutions Engineering Systems Placement Airbus Deadline: 27th September 2026 Placement (10 Months+) £24,246 per year Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44226/airbus/retrofit-solutions-engineering-systems-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-26",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "e2e59c71b63a80fa",
+  "firm": "ratemyplacement",
+  "role_title": "A330/A340 UK Chief Engineer’s Team Placement Airbus Deadline: 27th September 2026 Placement (10 Months+) £24,246 per year Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44171/airbus/a330a340-uk-chief-engineers-team-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-26",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

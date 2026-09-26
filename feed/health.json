@@ -1,8 +1,8 @@
 {
- "run": "2026-09-25 20:57",
+ "run": "2026-09-26 09:26",
  "haiku": false,
- "opened": 9,
- "new": 4,
+ "opened": 5,
+ "new": 0,
  "sources": [
   {
    "source": "hsbc",
@@ -254,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -274,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 165
+   "items": 53
   },
   {
    "source": "ey",
@@ -387,7 +387,7 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 358
+   "items": 359
   },
   {
    "source": "trackr-spring",
