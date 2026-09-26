@@ -1,7 +1,7 @@
 {
- "run": "2026-09-26 09:26",
+ "run": "2026-09-26 14:51",
  "haiku": false,
- "opened": 5,
+ "opened": 0,
  "new": 0,
  "sources": [
   {
@@ -254,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -274,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 53
+   "items": 165
   },
   {
    "source": "ey",
@@ -403,7 +403,8 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 4
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "ratemyplacement",
