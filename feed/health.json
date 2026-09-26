@@ -1,5 +1,5 @@
 {
- "run": "2026-09-26 14:51",
+ "run": "2026-09-26 20:56",
  "haiku": false,
  "opened": 0,
  "new": 0,
@@ -226,7 +226,8 @@
   {
    "source": "amundi",
    "ok": true,
-   "items": 3
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "t-rowe-price",
@@ -274,7 +275,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 165
+   "items": 53
   },
   {
    "source": "ey",
@@ -403,8 +404,7 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",
