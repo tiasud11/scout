@@ -25108,5 +25108,56 @@
   "classified_by": "rules",
   "priority": "P2",
   "posting_text": "feed/postings/4f85c348be78135c.txt"
+ },
+ {
+  "id": "19fe645260198650",
+  "firm": "ING",
+  "role_title": "WB Client Services – Account Manager Intern – Wholesale Banking Operations (COO)",
+  "division": "",
+  "location": "",
+  "url": "https://www.ing.jobs/en/job/luxembourg/wb-client-services-account-manager-intern-wholesale-banking-operations-coo/3121/43096068608",
+  "source": "ing",
+  "date_posted": null,
+  "date_found": "2026-09-27",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated",
+   "location not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/19fe645260198650.txt"
+ },
+ {
+  "id": "d90e4b61dae9fc82",
+  "firm": "targetjobs",
+  "role_title": "Unilever Future Leadership Programme - Sales UK",
+  "division": "",
+  "location": "London",
+  "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Early_Careers/job/United-Kingdom/Unilever-Future-Leadership-Programme---Sales-UK_R-1188731",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-27",
+  "deadline": null,
+  "rolling": true,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1",
+  "posting_text": "feed/postings/d90e4b61dae9fc82.txt"
  }
 ]

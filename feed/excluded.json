@@ -6444,5 +6444,159 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "dfbe70e4d4be577b",
+  "firm": "ratemyplacement",
+  "role_title": "Manufacturing Engineering Placement - Bristol Airbus Deadline: 27th September 2026 Placement (10 Months+) £24,246 per year Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44208/airbus/manufacturing-engineering-placement-bristol",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-27",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "9c43cc7d395170f4",
+  "firm": "ratemyplacement",
+  "role_title": "Electrical System Digital Transformation Placement Airbus Deadline: 27th September 2026 Placement (10 Months+) £24,500 per year Stevenage",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44185/airbus/electrical-system-digital-transformation-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-27",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "708a59fd80c90fab",
+  "firm": "ratemyplacement",
+  "role_title": "Facilities and Infrastructures Mechanical / Electrical Placement Airbus Deadline: 27th September 2026 Placement (10 Months+) £24,246 per year Broughton",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44187/airbus/facilities-and-infrastructures-mechanical-electrical-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-27",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "d297dfe47389976d",
+  "firm": "targetjobs",
+  "role_title": "Risk Graduate Scheme - London",
+  "division": "",
+  "location": "London",
+  "url": "https://lbg.wd3.myworkdayjobs.com/Graduate_careers/job/London/Risk-Graduate-Scheme--London-_163342-1?utm_source=targetjobs&utm_medium=referral&utm_campaign=grads-2026&source=targetjobs-via-et-site",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-27",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "55bf3941b41d1a36",
+  "firm": "targetjobs",
+  "role_title": "Marketing Graduate Role 2026/7",
+  "division": "",
+  "location": "Weybridge",
+  "url": "https://pg.wd5.myworkdayjobs.com/en-GB/1000/job/Weybridge/Marketing-Graduate-Role-2026-7_R000159010?source=RS_TARGETJOBS",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-27",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "04c8489ec378923c",
+  "firm": "targetjobs",
+  "role_title": "Graduate Scheme – Category Manager",
+  "division": "",
+  "location": "Wellingborough, Eccles",
+  "url": "https://tescoearlycareers.groupgti.com/graduate-scheme-–-category-manager-/48/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-27",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "53db7380512d97ad",
+  "firm": "targetjobs",
+  "role_title": "PMO Project Management Graduate - London (September 2027 Start)",
+  "division": "",
+  "location": "London",
+  "url": "https://jll.wd1.myworkdayjobs.com/en-GB/jllcareers/job/London-GBR/PMO-Project-Management-Graduate---London--September-2027-Start-_REQ527394?jobFamilyGroup=45ddfa36f2261001377c164c6f390000&locationCountry=29247e57dbaf46fb855b224e03170bc7?source=APPLICANT_SOURCE-3-1927",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-27",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

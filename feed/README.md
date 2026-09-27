@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-26 20:56 UK
+# Scout feed, last run 2026-09-27 09:25 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | P1 | jointheintake | Spring weeks | unknown | ? | yes | check | 2026-09-23 | [open](https://www.jointheintake.com/spring-weeks) |
 | P1 | targetjobs | Global Research 2027 Summer Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774171;455008071;k) |
 | P1 | targetjobs | Corporate Audit, Summer 2027 Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774150;454500838;o) |
+| P1 | targetjobs | Unilever Future Leadership Programme - Sales UK | unknown | ? | yes | check | 2026-09-27 | [open](https://unilever.wd3.myworkdayjobs.com/Unilever_Early_Careers/job/United-Kingdom/Unilever-Future-Leadership-Programme---Sales-UK_R-1188731) |
 | P1 | trackr-summer | Trackr Premium Instant alerts for new roles. | unknown | ? | yes | check | 2026-09-19 | [open](https://www.the-trackr.com/premium) |
 | P1 | trackr-summer | Cappfinity | unknown | ? | yes | check | 2026-09-19 | [open](https://www.jobtestprep.co.uk/deutsche-bank#101) |
 | P1 | trackr-summer | J.P. Morgan Prep | unknown | ? | yes | check | 2026-09-19 | [open](https://www.jobtestprep.co.uk/jp-morgan-assessment-centre#101) |
@@ -241,6 +242,7 @@
 | P3 | ING | Engineering Intern - Agentic AI domain | summer_likely | ? |  | check | 2026-09-23 | [open](https://www.ing.jobs/en/job/amsterdam/engineering-intern-agentic-ai-domain/3121/45108867264) |
 | P3 | ING | Data Analyst in Experience Design - CoE Customer Experience & Trust | unknown | ? |  | check | 2026-09-24 | [open](https://www.ing.jobs/en/job/amsterdam/data-analyst-in-experience-design-coe-customer-experience-and-trust/3121/43826472256) |
 | P3 | ING | Internship Data & AI Engineering | summer_likely | ? |  | check | 2026-09-25 | [open](https://www.ing.jobs/en/job/amsterdam/internship-data-and-ai-engineering/3121/45068844992) |
+| P3 | ING | WB Client Services – Account Manager Intern – Wholesale Banking Operations (COO) | summer_likely | ? |  | check | 2026-09-27 | [open](https://www.ing.jobs/en/job/luxembourg/wb-client-services-account-manager-intern-wholesale-banking-operations-coo/3121/43096068608) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -600,5 +602,3 @@
 | P3 | Stifel | Investment Strategy Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.stifelinsights.com/) |
 | P3 | TD Securities | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/en-CA/students-graduates/#content) |
 | P3 | TD Securities | Students & new grads | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/student-new-grads) |
-| P3 | TD Securities | Early Talent Programs | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/student-new-grads/early-talent-programs/) |
-| P3 | TD Securities | Programs in USA | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.td.com/student-new-grads/career-development-programs/#usa) |

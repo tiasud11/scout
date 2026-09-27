@@ -1,8 +1,8 @@
 {
- "run": "2026-09-26 20:56",
+ "run": "2026-09-27 09:25",
  "haiku": false,
- "opened": 0,
- "new": 0,
+ "opened": 9,
+ "new": 2,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 23
   },
   {
    "source": "natixis",
@@ -226,8 +226,7 @@
   {
    "source": "amundi",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 3
   },
   {
    "source": "t-rowe-price",
@@ -255,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -275,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 53
+   "items": 165
   },
   {
    "source": "ey",
@@ -409,12 +408,12 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 413
+   "items": 414
   },
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 56
+   "items": 53
   },
   {
    "source": "jointheintake",
