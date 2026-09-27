@@ -1,8 +1,8 @@
 {
- "run": "2026-09-27 09:25",
+ "run": "2026-09-27 14:54",
  "haiku": false,
- "opened": 9,
- "new": 2,
+ "opened": 0,
+ "new": 0,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 23
+   "items": 22
   },
   {
    "source": "natixis",
@@ -124,8 +124,8 @@
   },
   {
    "source": "cinven",
-   "ok": true,
-   "items": 5
+   "ok": false,
+   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
   },
   {
    "source": "cvc",
@@ -254,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -304,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
