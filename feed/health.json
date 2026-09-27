@@ -1,8 +1,8 @@
 {
- "run": "2026-09-27 14:54",
+ "run": "2026-09-27 20:56",
  "haiku": false,
- "opened": 0,
- "new": 0,
+ "opened": 1,
+ "new": 1,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 22
+   "items": 20
   },
   {
    "source": "natixis",
@@ -99,8 +99,7 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 6
   },
   {
    "source": "mandg",
@@ -124,8 +123,8 @@
   },
   {
    "source": "cinven",
-   "ok": false,
-   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
+   "ok": true,
+   "items": 5
   },
   {
    "source": "cvc",
@@ -274,7 +273,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 165
+   "items": 53
   },
   {
    "source": "ey",
@@ -334,7 +333,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 15
+   "items": 18
   },
   {
    "source": "beazley",
@@ -387,7 +386,7 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 359
+   "items": 361
   },
   {
    "source": "trackr-spring",

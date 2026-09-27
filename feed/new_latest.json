@@ -1,4 +1,29 @@
 {
- "run": "2026-09-27 14:54",
- "roles": []
+ "run": "2026-09-27 20:56",
+ "roles": [
+  {
+   "id": "7b1fc93f4df0a01b",
+   "firm": "trackr-summer",
+   "role_title": "Spring Internship",
+   "division": "",
+   "location": "London",
+   "url": "https://jobs.recruit.charliehr.com/alunapartners/spring-internship-40dd97e1-ce81-4456-83df-f7b5e6f2a6f3/view-job?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&q=desc&isFrame=true",
+   "source": "trackr-summer",
+   "date_posted": null,
+   "date_found": "2026-09-27",
+   "deadline": null,
+   "rolling": false,
+   "type": "spring",
+   "eligibility": "check",
+   "eligibility_notes": [
+    "no programme year stated",
+    "graduation year not stated"
+   ],
+   "ai_policy": null,
+   "injection_suspect": false,
+   "classified_by": "rules",
+   "priority": "P3",
+   "posting_text": "feed/postings/7b1fc93f4df0a01b.txt"
+  }
+ ]
 }
