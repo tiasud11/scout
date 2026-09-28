@@ -7126,5 +7126,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "a338a10643215ef8",
+  "firm": "TD Securities",
+  "role_title": "2027 Summer Internship – Global Markets",
+  "division": "",
+  "location": "",
+  "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/XMLNAME-2027-Summer-Internship---Global-Markets_R_1513487?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+  "source": "trackr-summer",
+  "date_posted": "2026-09-28T00:00:00.000Z",
+  "date_found": "2026-09-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

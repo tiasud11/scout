@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-28 09:28 UK
+# Scout feed, last run 2026-09-28 15:01 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | P1 | J.P. Morgan | 2027 Global Corporate Banking Analyst Program - Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775320/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Private Bank - Investment Solutions Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Private Bank - Advisor Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773470/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
+| P1 | Monzo | Associate Data Scientist - Intern | summer_likely | 2026-11-01 | yes | check | 2026-09-28 | [open](https://job-boards.greenhouse.io/monzo/jobs/8232726) |
 | P1 | Monzo | Associate Software Engineer - Intern | summer_likely | 2026-11-13 | yes | check | 2026-09-28 | [open](https://job-boards.greenhouse.io/monzo/jobs/8156261) |
 | P1 | Nomura | 2027 - Investment Banking - Client Financing Solutions - Summer Internship | summer | 2026-12-01 | yes | eligible | 2026-09-21 | [open](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-598163/xf-1181ef381c7b/candidate/so/pm/1/pl/1/opp/1426-2027-Investment-Banking-Client-Financing-Solutions-Summer-Internship-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-summer | Summer Associate 2027 | summer | 2027-01-03 | yes | eligible | 2026-09-20 | [open](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/user-566977/xf-ca8ef72fc76e/candidate/so/pm/1/pl/1/opp/4121-London-Office-Summer-Associate-2027/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -87,6 +88,7 @@
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
+| P3 | trackr-summer | Junior Consultant Summer Internship 2027 | summer | 2027-01-04 |  | eligible | 2026-09-28 | [open](https://jobs.smartrecruiters.com/RolandBerger/744000152107209-junior-consultant-summer-internship-2027?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
 | P3 | trackr-summer | Shell | unknown | 2027-01-31 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/shell) |
 | P3 | PwC | Flying Start degree programmes | unknown | 2027-03-12 |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | targetjobs | Japan - Teaching English as a Foreign Language | unknown | 2027-06-30 |  | check | 2026-09-24 | [open](https://www.travelgrad.com/japan-tefl) |
@@ -380,6 +382,7 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-23 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/23-09-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026a) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/28-09-2026) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -454,6 +457,7 @@
 | P3 | Monzo | Senior Financial Crime Investigator, EU | unknown | ? |  | check | 2026-09-24 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222678) |
 | P3 | Monzo | Credit Bureau Relationship Manager | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/monzo/jobs/8207588) |
 | P3 | Monzo | Savings Pricing Manager | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/monzo/jobs/8232647) |
+| P3 | Monzo | Credit Risk Oversight Manager | unknown | ? |  | check | 2026-09-28 | [open](https://job-boards.greenhouse.io/monzo/jobs/8236487) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -598,7 +602,3 @@
 | P3 | RBC Capital Markets | 2027 Summer Analyst - Global Investment Banking | summer | ? |  | check | 2026-09-21 | [open](https://rbccmgraduates.gtisolutions.co.uk/2027-summer-analyst---global-investment-banking/395/viewdetails?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Société Générale | Global Banking and Advisory 2027 Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://jobs.smartrecruiters.com/SocieteGenerale4/744000147858409-global-banking-and-advisory-2027-summer-internship-8-weeks-?trid=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&dcr_ci=Trackr) |
 | P3 | State Street | Company websites | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/careers/students-and-graduates.html) |
-| P3 | State Street | International (Country Not Listed ) | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/inl/en) |
-| P3 | State Street | Digital and Technology | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights#f-stt_insights_section=Digital%20and%20Technology&f-stt_sitesection=Insights) |
-| P3 | State Street | Street Signals Podcast | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/street-signals-podcast) |
-| P3 | State Street | Future State Podcast | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/content/statestreet/us/en/insights/future-state-podcast) |

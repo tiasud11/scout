@@ -1,8 +1,8 @@
 {
- "run": "2026-09-28 09:28",
+ "run": "2026-09-28 15:01",
  "haiku": false,
- "opened": 33,
- "new": 9,
+ "opened": 9,
+ "new": 8,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 21
+   "items": 19
   },
   {
    "source": "natixis",
@@ -27,9 +27,8 @@
   },
   {
    "source": "credit-agricole-cib",
-   "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "ok": false,
+   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
   },
   {
    "source": "santander-cib",
@@ -98,7 +97,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -207,8 +207,9 @@
   },
   {
    "source": "exoduspoint",
-   "ok": false,
-   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
+   "ok": true,
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "abrdn",
@@ -222,8 +223,8 @@
   },
   {
    "source": "amundi",
-   "ok": true,
-   "items": 3
+   "ok": false,
+   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
   },
   {
    "source": "t-rowe-price",
@@ -301,7 +302,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -331,7 +332,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 15
+   "items": 12
   },
   {
    "source": "beazley",
@@ -359,7 +360,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 70
+   "items": 72
   },
   {
    "source": "starling",
@@ -384,12 +385,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 367
+   "items": 375
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 56
+   "items": 58
   },
   {
    "source": "brightnetwork-finance",
