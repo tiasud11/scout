@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-28 15:01 UK
+# Scout feed, last run 2026-09-28 21:02 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | P3 | ING | Internship Data & AI Engineering | summer_likely | ? |  | check | 2026-09-25 | [open](https://www.ing.jobs/en/job/amsterdam/internship-data-and-ai-engineering/3121/45068844992) |
 | P3 | ING | WB Client Services – Account Manager Intern – Wholesale Banking Operations (COO) | summer_likely | ? |  | check | 2026-09-27 | [open](https://www.ing.jobs/en/job/luxembourg/wb-client-services-account-manager-intern-wholesale-banking-operations-coo/3121/43096068608) |
 | P3 | ING | BE CA Expat Onboarding - Analyst | unknown | ? |  | check | 2026-09-28 | [open](https://www.ing.jobs/en/job/makati-city/be-ca-expat-onboarding-analyst/3121/45289584768) |
+| P3 | ING | Internal Audit Specialist | unknown | ? |  | check | 2026-09-28 | [open](https://www.ing.jobs/en/job/madrid/internal-audit-specialist/3121/45314692224) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -389,6 +390,7 @@
 | P3 | Man Group | Insights hub | unknown | ? |  | check | 2026-09-19 | [open](https://www.man.com/insights) |
 | P3 | Man Group | 2027 Quant Researcher Summer Internship | summer | ? |  | eligible | 2026-09-21 | [open](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P3 | Man Group | IDI Summer 2027 Internship | summer | ? |  | eligible | 2026-09-21 | [open](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969143101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
+| P3 | Man Group | Trading Summer 2027 Internship | summer | ? |  | eligible | 2026-09-28 | [open](https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P3 | Marsh McLennan | Students/Graduates | unknown | ? |  | check | 2026-09-20 | [open](https://careers.marsh.com/global/en/student-opportunities) |
 | P3 | Mizuho | 2027 Banking Summer Internship | summer | ? |  | check | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-banking-summer-internship-london-37876/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Mizuho | 2027 Finance Summer Internship | summer | ? |  | check | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-finance-summer-internship-london-37879/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -600,5 +602,3 @@
 | P3 | RBC Capital Markets | 2027 Summer Analyst - Finance | summer | ? |  | check | 2026-09-21 | [open](https://rbccmgraduates.gtisolutions.co.uk/2027-summer-analyst---finance/401/viewdetails?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | RBC Capital Markets | 2027 Summer Analyst - Corporate Banking | summer | ? |  | check | 2026-09-21 | [open](https://rbccmgraduates.gtisolutions.co.uk/2027-summer-analyst---corporate-banking/398/viewdetails?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | RBC Capital Markets | 2027 Summer Analyst - Global Investment Banking | summer | ? |  | check | 2026-09-21 | [open](https://rbccmgraduates.gtisolutions.co.uk/2027-summer-analyst---global-investment-banking/395/viewdetails?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
-| P3 | Société Générale | Global Banking and Advisory 2027 Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://jobs.smartrecruiters.com/SocieteGenerale4/744000147858409-global-banking-and-advisory-2027-summer-internship-8-weeks-?trid=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&dcr_ci=Trackr) |
-| P3 | State Street | Company websites | unknown | ? |  | check | 2026-09-19 | [open](https://www.statestreet.com/careers/students-and-graduates.html) |

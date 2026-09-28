@@ -7148,5 +7148,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "0adc89fb0b905e48",
+  "firm": "trackr-spring",
+  "role_title": "FutureFocus: Quants 2027",
+  "division": "",
+  "location": "",
+  "url": "https://www.optiver.com/join-us/jobs/trading/amsterdam/futurefocus-quants-2027/?gh_jid=8745619002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+  "source": "trackr-spring",
+  "date_posted": null,
+  "date_found": "2026-09-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029), (2029, 2029), (2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
