@@ -7170,5 +7170,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "35f8508edec0cd69",
+  "firm": "ratemyplacement",
+  "role_title": "Graduate Structures Research and Technology Engineer 2027 Airbus Deadline: 30th September 2026 Graduate Scheme Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/43940/airbus/graduate-structures-research-and-technology-engineer-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "36776a87de1b6e9f",
+  "firm": "ratemyplacement",
+  "role_title": "Graduate Fluid Mechanical Design Engineer 2027 Airbus Deadline: 30th September 2026 Graduate Scheme Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/43933/airbus/graduate-fluid-mechanical-design-engineer-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "5d034224d16d1753",
+  "firm": "ratemyplacement",
+  "role_title": "Graduate Manufacturing Engineer 2027 Airbus Deadline: 30th September 2026 Graduate Scheme Broughton",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/43921/airbus/graduate-manufacturing-engineer-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
