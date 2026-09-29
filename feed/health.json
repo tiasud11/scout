@@ -1,7 +1,7 @@
 {
- "run": "2026-09-29 14:57",
+ "run": "2026-09-29 20:58",
  "haiku": false,
- "opened": 20,
+ "opened": 17,
  "new": 10,
  "sources": [
   {
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 18
   },
   {
    "source": "natixis",
@@ -51,7 +51,7 @@
   {
    "source": "raine",
    "ok": true,
-   "items": 1
+   "items": 2
   },
   {
    "source": "liontree",
@@ -302,7 +302,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -332,7 +332,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 15
+   "items": 12
   },
   {
    "source": "beazley",
@@ -360,7 +360,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 72
+   "items": 73
   },
   {
    "source": "starling",
@@ -385,12 +385,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 384
+   "items": 390
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 60
+   "items": 66
   },
   {
    "source": "brightnetwork-finance",

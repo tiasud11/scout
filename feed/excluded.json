@@ -7456,5 +7456,159 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "5c2f611e903a2b71",
+  "firm": "HSBC",
+  "role_title": "Transaction Banking - Issuer Services - Graduate (opens in new window)",
+  "division": "",
+  "location": "",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Transaction-Banking-Issuer-Services-Graduate-Hong/1373477157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+  "source": "hsbc",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": true,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "8ef0ef253d2963a5",
+  "firm": "Raine Group",
+  "role_title": "2028 Summer Analyst (New York)",
+  "division": "",
+  "location": "New York, NY",
+  "url": "https://jobs.lever.co/raine/e07652af-67ae-4d64-a2ad-6ba4b203c132",
+  "source": "raine",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2028'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "9b2aa1f850c496f0",
+  "firm": "trackr-summer",
+  "role_title": "Quantitative Researcher - Quantitative Strategies (Summer Internship)",
+  "division": "",
+  "location": "London",
+  "url": "https://bambusdev.my.site.com/s/details?jobReq=Quantitative-Researcher---Quantitative-Strategies--Summer-Internship-_REQ8479&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "f01311c49a0a6c1e",
+  "firm": "ratemyplacement",
+  "role_title": "Chemical and Process Engineering Graduate Programme 2027 Babcock International Group Deadline: 30th September 2026 Graduate Scheme £35,000 per year Warrington, Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44310/babcock-international-group/chemical-and-process-engineering-graduate-programme-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "bb36a322aa56b1a4",
+  "firm": "ratemyplacement",
+  "role_title": "Radioactive Waste Management Graduate Programme 2027 Babcock International Group Deadline: 30th September 2026 Graduate Scheme £35,000 per year Warrington, Newbury, Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44336/babcock-international-group/radioactive-waste-management-graduate-programme-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "a5a1730304cc8c18",
+  "firm": "ratemyplacement",
+  "role_title": "Mechanical Engineering Placement - Leceister Babcock International Group Deadline: 30th September 2026 Placement (10 Months+) £26,784 per year Leicester",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44303/babcock-international-group/mechanical-engineering-placement-leceister",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "288302f606a67d67",
+  "firm": "ratemyplacement",
+  "role_title": "Chemical and Process Engineering Placement Babcock International Group Deadline: 30th September 2026 Placement (10 Months+) £26,784 per year Warrington, Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44300/babcock-international-group/chemical-and-process-engineering-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
