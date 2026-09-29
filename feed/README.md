@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-29 09:27 UK
+# Scout feed, last run 2026-09-29 14:57 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | P1 | trackr-summer | 2027 Summer Analyst Programme | summer | 2026-09-27 |  | check | 2026-09-19 | [open](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-d1e4b70a3b97/candidate/jobboard/vacancy/2/adv/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&f_Item_Opportunity_78763_lk=523763&f_Item_Opportunity_132775_lk=519868&f_Item_Opportunity_60426_lk=520148) |
 | P1 | trackr-summer | 2027 Redburn Summer Intern Programme | summer | 2026-09-27 |  | check | 2026-09-20 | [open](https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-d1e4b70a3b97/candidate/jobboard/vacancy/2/adv/?f_Item_Opportunity_78763_lk=523763&f_Item_Opportunity_132775_lk=523903&f_Item_Opportunity_60426_lk=520148&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | ratemyplacement | Global Technology, Cyber Security Analyst - 6 Month Industrial Placement 2027 - Dublin Ban | summer_likely | 2026-09-30 | yes | check | 2026-09-29 | [open](https://higherin.com/jobs/43895/bank-of-america/global-technology-cyber-security-analyst-6-month-industrial-placement-2027-dublin) |
+| P1 | ratemyplacement | Global Technology Software Engineer 6 Month Industrial Placement 2027 Analyst - Dublin Ban | summer_likely | 2026-09-30 | yes | check | 2026-09-29 | [open](https://higherin.com/jobs/43894/bank-of-america/global-technology-software-engineer-6-month-industrial-placement-2027-analyst-dublin) |
 | P1 | trackr-summer | 2027 Summer Internship Program - EMEA | summer | 2026-09-30 | yes | eligible | 2026-09-20 | [open](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-bce35dd61046/candidate/so/pm/1/pl/1/opp/12232-2027-Summer-Internship-Program-EMEA/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | J.P. Morgan | 2027 Asset Management Investments- Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Corporate Banking Analyst Program - Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775320/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -73,12 +74,15 @@
 | P1 | targetjobs | Global Research 2027 Summer Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774171;455008071;k) |
 | P1 | targetjobs | Corporate Audit, Summer 2027 Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774150;454500838;o) |
 | P1 | targetjobs | Unilever Future Leadership Programme - Sales UK | unknown | ? | yes | check | 2026-09-27 | [open](https://unilever.wd3.myworkdayjobs.com/Unilever_Early_Careers/job/United-Kingdom/Unilever-Future-Leadership-Programme---Sales-UK_R-1188731) |
+| P1 | targetjobs | Unilever Future Leadership Programme - Finance UK | unknown | ? | yes | check | 2026-09-29 | [open](https://unilever.wd3.myworkdayjobs.com/Unilever_Early_Careers/job/United-Kingdom/Unilever-Future-Leadership-Programme---Finance-UK_R-1188842) |
+| P1 | targetjobs | Unilever Future Leadership Programme - Technology Management UK | unknown | ? | yes | check | 2026-09-29 | [open](https://unilever.wd3.myworkdayjobs.com/Unilever_Early_Careers/job/United-Kingdom/Unilever-Future-Leadership-Programme---Technology-Management-UK_R-1188843) |
 | P1 | trackr-summer | Trackr Premium Instant alerts for new roles. | unknown | ? | yes | check | 2026-09-19 | [open](https://www.the-trackr.com/premium) |
 | P1 | trackr-summer | Cappfinity | unknown | ? | yes | check | 2026-09-19 | [open](https://www.jobtestprep.co.uk/deutsche-bank#101) |
 | P1 | trackr-summer | J.P. Morgan Prep | unknown | ? | yes | check | 2026-09-19 | [open](https://www.jobtestprep.co.uk/jp-morgan-assessment-centre#101) |
 | P1 | trackr-summer | Trading & Research Summer Internship 2027 | summer | ? | yes | eligible | 2026-09-20 | [open](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-summer | Women in Trading Insight Programme - 2027 | spring | ? | yes | eligible | 2026-09-21 | [open](https://job-boards.greenhouse.io/embed/job_app?for=gsacapital&token=8518528002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P1 | trackr-summer | Internship Programme 2027 | summer_likely | ? | yes | check | 2026-09-21 | [open](https://www.revolut.com/careers/position/internship-programme-2027-strategy-operations-manager-aa3cc201-5808-4d7e-ba8e-e82e443d90d3/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | trackr-summer | 2027 Summer Intern, Corporate Finance | summer | ? | yes | eligible | 2026-09-29 | [open](https://longspur.com/graduate-careers-at-longspur-capital/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P2 | trackr-summer | LionTree | unknown | 2026-09-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/liontree) |
 | P2 | trackr-summer | Perella Weinberg Partners | unknown | 2026-10-01 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/perella-weinberg-partners) |
 | P2 | trackr-summer | PJT Partners | unknown | 2026-10-04 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/pjt-partners) |
@@ -253,6 +257,7 @@
 | P3 | ING | WB Client Services – Account Manager Intern – Wholesale Banking Operations (COO) | summer_likely | ? |  | check | 2026-09-27 | [open](https://www.ing.jobs/en/job/luxembourg/wb-client-services-account-manager-intern-wholesale-banking-operations-coo/3121/43096068608) |
 | P3 | ING | BE CA Expat Onboarding - Analyst | unknown | ? |  | check | 2026-09-28 | [open](https://www.ing.jobs/en/job/makati-city/be-ca-expat-onboarding-analyst/3121/45289584768) |
 | P3 | ING | Internal Audit Specialist | unknown | ? |  | check | 2026-09-28 | [open](https://www.ing.jobs/en/job/madrid/internal-audit-specialist/3121/45314692224) |
+| P3 | ING | IT Business Analyst - IFS @ING Hubs Romania | unknown | ? |  | check | 2026-09-29 | [open](https://www.ing.jobs/en/job/bucharest/it-business-analyst-ifs-ing-hubs-romania/3121/42752236096) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -396,6 +401,7 @@
 | P3 | Man Group | 2027 Quant Researcher Summer Internship | summer | ? |  | eligible | 2026-09-21 | [open](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P3 | Man Group | IDI Summer 2027 Internship | summer | ? |  | eligible | 2026-09-21 | [open](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969143101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P3 | Man Group | Trading Summer 2027 Internship | summer | ? |  | eligible | 2026-09-28 | [open](https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
+| P3 | Man Group | Investment Risk 2027 Summer Internship | summer | ? |  | eligible | 2026-09-29 | [open](https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P3 | Marsh McLennan | Students/Graduates | unknown | ? |  | check | 2026-09-20 | [open](https://careers.marsh.com/global/en/student-opportunities) |
 | P3 | Mizuho | 2027 Banking Summer Internship | summer | ? |  | check | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-banking-summer-internship-london-37876/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Mizuho | 2027 Finance Summer Internship | summer | ? |  | check | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-finance-summer-internship-london-37879/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -596,9 +602,3 @@
 | P3 | PwC | Operate | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business/operate-as-a-business.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Tax | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business/tax.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Technology | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business/technology.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Talent Community | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.pwc.co.uk/uk/en/talent-community?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Alumni | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/alumni.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Risk | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business/risk.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Our job search | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.pwc.co.uk/experienced/uk/en/home?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Our job search | unknown | ? |  | check | 2026-09-19 | [open](https://jobs.pwc.co.uk/contractors/uk/en/home?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Your account | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/your-account.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
