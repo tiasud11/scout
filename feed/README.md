@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-30 09:27 UK
+# Scout feed, last run 2026-09-30 14:55 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | P3 | ING | BE CA Expat Onboarding - Analyst | unknown | ? |  | check | 2026-09-28 | [open](https://www.ing.jobs/en/job/makati-city/be-ca-expat-onboarding-analyst/3121/45289584768) |
 | P3 | ING | Internal Audit Specialist | unknown | ? |  | check | 2026-09-28 | [open](https://www.ing.jobs/en/job/madrid/internal-audit-specialist/3121/45314692224) |
 | P3 | ING | IT Business Analyst - IFS @ING Hubs Romania | unknown | ? |  | check | 2026-09-29 | [open](https://www.ing.jobs/en/job/bucharest/it-business-analyst-ifs-ing-hubs-romania/3121/42752236096) |
+| P3 | ING | Senior Data Analyst – Wholesale Banking & Advanced Analytics | unknown | ? |  | check | 2026-09-30 | [open](https://www.ing.jobs/en/job/istanbul/senior-data-analyst-wholesale-banking-and-advanced-analytics/3121/45379153664) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -478,6 +479,8 @@
 | P3 | Monzo | Credit Risk Oversight Manager | unknown | ? |  | check | 2026-09-28 | [open](https://job-boards.greenhouse.io/monzo/jobs/8236487) |
 | P3 | Monzo | Fraud Investigator, Part Time Team | unknown | ? |  | check | 2026-09-29 | [open](https://job-boards.greenhouse.io/monzo/jobs/8239234) |
 | P3 | Monzo | Senior Data Scientist | unknown | ? |  | check | 2026-09-29 | [open](https://job-boards.greenhouse.io/monzo/jobs/6180814) |
+| P3 | Monzo | Data Scientist, L30 | unknown | ? |  | check | 2026-09-30 | [open](https://job-boards.greenhouse.io/monzo/jobs/8242603) |
+| P3 | Monzo | Staff Data Scientist | unknown | ? |  | check | 2026-09-30 | [open](https://job-boards.greenhouse.io/monzo/jobs/8232732) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -599,6 +602,3 @@
 | P3 | PwC | Discover our UK offices | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/working-at-pwc/discover-our-uk-offices.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Our business areas | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Reward and benefits | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/working-at-pwc/reward-benefits.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Wellbeing at PwC | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/working-at-pwc/wellbeing-at-pwc.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Actuarial | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business/actuarial.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Audit | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business/audit.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |

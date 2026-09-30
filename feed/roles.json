@@ -26479,5 +26479,81 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/eb5f115bf16674a2.txt"
+ },
+ {
+  "id": "a3c75320d500e520",
+  "firm": "ING",
+  "role_title": "Senior Data Analyst – Wholesale Banking & Advanced Analytics",
+  "division": "",
+  "location": "",
+  "url": "https://www.ing.jobs/en/job/istanbul/senior-data-analyst-wholesale-banking-and-advanced-analytics/3121/45379153664",
+  "source": "ing",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated",
+   "location not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/a3c75320d500e520.txt"
+ },
+ {
+  "id": "96ed9580029c1f35",
+  "firm": "Monzo",
+  "role_title": "Data Scientist, L30",
+  "division": "",
+  "location": "Cardiff, London or Remote (UK)",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8242603",
+  "source": "monzo",
+  "date_posted": "2026-09-30",
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/96ed9580029c1f35.txt"
+ },
+ {
+  "id": "8b10e468956c4890",
+  "firm": "Monzo",
+  "role_title": "Staff Data Scientist",
+  "division": "",
+  "location": "Barcelona; Cardiff, London or Remote (UK); London",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8232732",
+  "source": "monzo",
+  "date_posted": "2026-09-30",
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": "We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo.",
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/8b10e468956c4890.txt"
  }
 ]

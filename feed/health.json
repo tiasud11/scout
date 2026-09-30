@@ -1,8 +1,8 @@
 {
- "run": "2026-09-30 09:27",
+ "run": "2026-09-30 14:55",
  "haiku": false,
- "opened": 10,
- "new": 6,
+ "opened": 4,
+ "new": 3,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 18
+   "items": 20
   },
   {
    "source": "natixis",
@@ -98,8 +98,7 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 6
   },
   {
    "source": "mandg",
@@ -273,7 +272,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 165
+   "items": 163
   },
   {
    "source": "ey",
@@ -361,7 +360,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 73
+   "items": 72
   },
   {
    "source": "starling",
@@ -381,7 +380,7 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 25
+   "items": 24
   },
   {
    "source": "trackr-summer",
@@ -402,7 +401,8 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 4
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "ratemyplacement",
