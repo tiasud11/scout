@@ -7610,5 +7610,93 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "7cf6a1784f82bb04",
+  "firm": "Wise",
+  "role_title": "Early careers",
+  "division": "",
+  "location": "London",
+  "url": "https://wise.jobs/posts/early-careers",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2024, 2024), (2023, 2023)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "00af495c8aea4b86",
+  "firm": "Wise",
+  "role_title": "Making Real Impact: Data Analyst Intern",
+  "division": "",
+  "location": "London",
+  "url": "https://wise.jobs/blog/2025-8/making-real-impact-data-analyst-intern",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2022, 2022)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "1930a2a6a915151b",
+  "firm": "Wise",
+  "role_title": "Investment Banking to Fintech: Insights from Ritika, Solutions Engineering Lead",
+  "division": "",
+  "location": "",
+  "url": "https://wise.jobs/blog/2025-8/investment-banking-to-fintech-insights-from-ritika-solutio",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2024, 2024)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "d376abdd0561d575",
+  "firm": "Wise",
+  "role_title": "Driving ESG Impact: Insights from Our ESG Manager",
+  "division": "",
+  "location": "",
+  "url": "https://wise.jobs/blog/2025-7/driving-esg-impact-insights-from-our-esg-manager",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "standalone sustainable finance role (title)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

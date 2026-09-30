@@ -1,8 +1,8 @@
 {
- "run": "2026-09-29 20:58",
+ "run": "2026-09-30 09:27",
  "haiku": false,
- "opened": 17,
- "new": 10,
+ "opened": 10,
+ "new": 6,
  "sources": [
   {
    "source": "hsbc",
@@ -98,7 +98,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -282,7 +283,7 @@
   {
    "source": "kpmg",
    "ok": true,
-   "items": 39
+   "items": 38
   },
   {
    "source": "bcg",
@@ -302,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -332,7 +333,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 12
+   "items": 33
   },
   {
    "source": "beazley",
@@ -385,7 +386,7 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 390
+   "items": 392
   },
   {
    "source": "trackr-spring",

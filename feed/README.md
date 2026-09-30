@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-09-29 20:58 UK
+# Scout feed, last run 2026-09-30 09:27 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026a) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/28-09-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-30 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/30-09-2026) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -601,4 +602,3 @@
 | P3 | PwC | Wellbeing at PwC | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/working-at-pwc/wellbeing-at-pwc.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Actuarial | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business/actuarial.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Audit | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business/audit.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Business Solutions | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/our-business/business-solutions.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
