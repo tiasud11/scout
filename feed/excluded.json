@@ -7720,5 +7720,181 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "10b1f557046c8d3c",
+  "firm": "ratemyplacement",
+  "role_title": "Analyst Graduate Programme - EMEA 2027 BlackRock Deadline: 30th September 2026 Graduate Scheme Competitive Edinburgh, London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/43539/blackrock/analyst-graduate-programme-emea-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "46a0fbe1b8dd44d8",
+  "firm": "ratemyplacement",
+  "role_title": "Placement Programme - EMEA 2027 BlackRock Deadline: 30th September 2026 Placement (10 Months+) Competitive Edinburgh, London",
+  "division": "",
+  "location": "London",
+  "url": "https://higherin.com/jobs/43545/blackrock/placement-programme-emea-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": "2026-09-30",
+  "rolling": true,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "40ef46b00500ab16",
+  "firm": "ratemyplacement",
+  "role_title": "Business Programme - Glasgow LTSB Deadline: 1st October 2026 School Leaver Programme Glasgow",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/43592/ltsb/business-programme-glasgow",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "1e0d8383ef6c9404",
+  "firm": "ratemyplacement",
+  "role_title": "IT Graduate 2027 - Systems Mercedes AMG High Performance Powertrains Ltd Deadline: 4th October 2026 Graduate Scheme £33,000 per year Brixworth",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/43972/mercedes-amg-high-performance-powertrains-ltd/it-graduate-2027-systems",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "54d389a3a13a7eda",
+  "firm": "ratemyplacement",
+  "role_title": "Accounting and Business Insights Industrial Placement Scheme - London Lloyds Banking Group Deadline: 4th October 2026 Placement (10 Months+) £32,000 per year London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44428/lloyds-banking-group/accounting-and-business-insights-industrial-placement-scheme-london",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "3f001194cf2cf5c7",
+  "firm": "targetjobs",
+  "role_title": "Legal Assistant",
+  "division": "",
+  "location": "Bristol",
+  "url": "https://job-boards.eu.greenhouse.io/octopuslegacy/jobs/4905861101",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Bristol' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "9a16151708f96267",
+  "firm": "targetjobs",
+  "role_title": "Technology - Full-Time Graduate - Glasgow",
+  "division": "",
+  "location": "Glasgow",
+  "url": "https://ad.doubleclick.net/ddm/clk/652064295;457622281;l;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755}",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "647125daef3d1663",
+  "firm": "targetjobs",
+  "role_title": "Implementation Specialist",
+  "division": "",
+  "location": "Leeds",
+  "url": "https://tpp-careers.com/roles/implementation-specialist",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-09-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Leeds' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
