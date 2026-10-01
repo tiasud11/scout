@@ -1,13 +1,13 @@
 {
- "run": "2026-09-30 20:59",
+ "run": "2026-10-01 09:28",
  "haiku": false,
- "opened": 12,
- "new": 4,
+ "opened": 26,
+ "new": 18,
  "sources": [
   {
    "source": "hsbc",
    "ok": true,
-   "items": 97
+   "items": 109
   },
   {
    "source": "mufg",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 18
   },
   {
    "source": "natixis",
@@ -62,8 +62,7 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 10
   },
   {
    "source": "investec",
@@ -254,7 +253,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -279,7 +278,7 @@
   {
    "source": "ey",
    "ok": true,
-   "items": 23
+   "items": 24
   },
   {
    "source": "kpmg",
@@ -319,7 +318,7 @@
   {
    "source": "aon",
    "ok": true,
-   "items": 19
+   "items": 18
   },
   {
    "source": "marsh",
@@ -334,7 +333,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 33
+   "items": 30
   },
   {
    "source": "beazley",
@@ -362,7 +361,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 71
+   "items": 70
   },
   {
    "source": "starling",
@@ -392,7 +391,7 @@
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 66
+   "items": 68
   },
   {
    "source": "brightnetwork-finance",

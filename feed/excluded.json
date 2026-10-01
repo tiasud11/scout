@@ -7896,5 +7896,181 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "7416dd7719390284",
+  "firm": "HSBC",
+  "role_title": "Relationship Management - Commercial Bank - Work Placement (opens in new window)",
+  "division": "",
+  "location": "",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/Manchester-Relationship-Management-Commercial-Bank-Work-Placement-M2-7HD/1373598157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+  "source": "hsbc",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": true,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029), (2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "538ad225c2b8322a",
+  "firm": "HSBC",
+  "role_title": "Global Investment Research - Work Placement, (opens in new window)",
+  "division": "",
+  "location": "London",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Global-Investment-Research-Work-Placement%2C-E14-5HQ/1373586657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+  "source": "hsbc",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": true,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "c4eb30a2b53fa43b",
+  "firm": "HSBC",
+  "role_title": "Relationship Management - Commercial Bank - Work Placement (opens in new window)",
+  "division": "",
+  "location": "London",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Commercial-Bank-Work-Placement-E14-5HQ/1373613457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+  "source": "hsbc",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": true,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029), (2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "410ff14c5a0a3ea9",
+  "firm": "HSBC",
+  "role_title": "Markets - Sales and Trading - Internship (opens in new window)",
+  "division": "",
+  "location": "",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Markets-Sales-and-Trading-Internship-E14-5HQ/1373586957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+  "source": "hsbc",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "aaeab8a7ad5bcde2",
+  "firm": "trackr-spring",
+  "role_title": "2027 Tomorrow's Talent & Spring Insight Program",
+  "division": "",
+  "location": "London",
+  "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=351789&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-spring",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": "And we use artificial intelligence (AI) to work smarter and more efficiently.",
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "301bb7126243d295",
+  "firm": "ratemyplacement",
+  "role_title": "Physical Design Process, Methods, Tools and Data Placement - Stevenage Airbus Deadline: 5th October 2026 Placement (10 Months+) £24,500 per year Stevenage",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44220/airbus/physical-design-process-methods-tools-and-data-placement-stevenage",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "05fce1c760af8814",
+  "firm": "ratemyplacement",
+  "role_title": "Radio Frequency (RF) Test System Engineering Placement Airbus Deadline: 5th October 2026 Placement (10 Months+) £24,500 per year Portsmouth",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44225/airbus/radio-frequency-rf-test-system-engineering-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "6d6b3e7df5a90bec",
+  "firm": "ratemyplacement",
+  "role_title": "Optical and Satellite Communications Software Engineering Placement Airbus Deadline: 5th October 2026 Placement (10 Months+) £24,246 per year Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44218/airbus/optical-and-satellite-communications-software-engineering-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
