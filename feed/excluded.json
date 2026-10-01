@@ -8072,5 +8072,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "14508dd24ec27a2c",
+  "firm": "Susquehanna International Group",
+  "role_title": "Discovery Programme: Quantitative Trading",
+  "division": "",
+  "location": "",
+  "url": "https://careers.sig.com/jobs/11203?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-spring",
+  "date_posted": "2026-10-01T00:00:00.000Z",
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
