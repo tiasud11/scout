@@ -8094,5 +8094,159 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "1dbd9044d320f823",
+  "firm": "ratemyplacement",
+  "role_title": "Marsh Insight Day - Manchester 2026 Marsh Deadline: 5th October 2026 Insight Day Manchester",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45206/marsh/marsh-insight-day-manchester-2026",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "0c5e6889df315f65",
+  "firm": "ratemyplacement",
+  "role_title": "Marsh Insight Day - Bristol 2026 Marsh Deadline: 5th October 2026 Insight Day Bristol",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45205/marsh/marsh-insight-day-bristol-2026",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "c0a8f6b8f48f34d2",
+  "firm": "ratemyplacement",
+  "role_title": "Marsh Insight Day - Witham 2026 Marsh Deadline: 5th October 2026 Insight Day Witham",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45207/marsh/marsh-insight-day-witham-2026",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "fdf063997ad16b48",
+  "firm": "ratemyplacement",
+  "role_title": "Marsh Insight Day - Birmingham 2026 Marsh Deadline: 5th October 2026 Insight Day Birmingham",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45208/marsh/marsh-insight-day-birmingham-2026",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "0bb232f75ee61b55",
+  "firm": "targetjobs",
+  "role_title": "Architecture Immersive Internships",
+  "division": "",
+  "location": "Dublin, Barcelona, Spain, Paris, France, Tokyo, New York, Sydney, Seoul, San Francisco, Berlin, Bangkok, Amsterdam, Stockholm, Toronto, ON, Canada",
+  "url": "https://beyondacademy.com/?utm_source=TargetJobs&utm_medium=referral&utm_campaign=tar+listing+architecture",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Dublin, Barcelona, Spain, Paris, France, Tokyo, New York, Sydney, Seoul, San Francisco, Berlin, Bangkok, Amsterdam, Stockholm, Toronto, ON, Canada' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "c803f86de58ade3b",
+  "firm": "targetjobs",
+  "role_title": "2027 Human Resources Analyst Graduate Programme - London",
+  "division": "",
+  "location": "London",
+  "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Human-Resources-Analyst-Graduate-Programme-London_JR-0000129206",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "8e71d45414dfebce",
+  "firm": "targetjobs",
+  "role_title": "2027 Graduate Scheme - Planning",
+  "division": "",
+  "location": "London, Birmingham, Edinburgh, Manchester, Leeds",
+  "url": "https://careers.cbre.com/careers/Application?jobId=293206&source=TargetJobs",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

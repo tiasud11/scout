@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-01 14:58 UK
+# Scout feed, last run 2026-10-01 21:04 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | P3 | ING | Internship - Monte Carlo Models for Counterparty Credit Risk | summer_likely | ? |  | check | 2026-09-30 | [open](https://www.ing.jobs/en/job/amsterdam/internship-monte-carlo-models-for-counterparty-credit-risk/3121/45393858688) |
 | P3 | ING | Internship WB Transaction Services - Commercial Cards Sales | summer_likely | ? |  | check | 2026-10-01 | [open](https://www.ing.jobs/en/job/amsterdam/internship-wb-transaction-services-commercial-cards-sales/3121/45418445952) |
 | P3 | ING | Senior Credit Analyst - Project Finance | unknown | ? |  | check | 2026-10-01 | [open](https://www.ing.jobs/en/job/makati-city/senior-credit-analyst-project-finance/3121/45418445888) |
+| P3 | ING | INTERNSHIP - Business Management & Strategy - Private Banking | summer_likely | ? |  | check | 2026-10-01 | [open](https://www.ing.jobs/en/job/luxembourg/internship-business-management-and-strategy-private-banking/3121/44044583424) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -512,6 +513,7 @@
 | P3 | Monzo | Senior Data Scientist | unknown | ? |  | check | 2026-09-29 | [open](https://job-boards.greenhouse.io/monzo/jobs/6180814) |
 | P3 | Monzo | Data Scientist, L30 | unknown | ? |  | check | 2026-09-30 | [open](https://job-boards.greenhouse.io/monzo/jobs/8242603) |
 | P3 | Monzo | Staff Data Scientist | unknown | ? |  | check | 2026-09-30 | [open](https://job-boards.greenhouse.io/monzo/jobs/8232732) |
+| P3 | Monzo | Product Director, Flex (Borrowing)  | unknown | ? |  | check | 2026-10-01 | [open](https://job-boards.greenhouse.io/monzo/jobs/7775842) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -600,5 +602,3 @@
 | P3 | PwC | Training and development | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/training-development.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Undergraduate | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/undergraduate.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Adjustments to the recruitment process | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/applying/adjustments.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Assessment and selection process | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/applying/assessment-selection-process.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | The behaviours we look for | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/applying/the-behaviours-we-look-for.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
