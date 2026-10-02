@@ -8314,5 +8314,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "fa6a9f8b711aef2f",
+  "firm": "GoCardless",
+  "role_title": "Director of Engineering",
+  "division": "",
+  "location": "Riga, Latvia",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8248832",
+  "source": "gocardless",
+  "date_posted": "2026-10-02",
+  "date_found": "2026-10-02",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Riga, Latvia' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

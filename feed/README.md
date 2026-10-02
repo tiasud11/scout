@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-02 09:27 UK
+# Scout feed, last run 2026-10-02 14:58 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-01 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/01-10-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026a) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026b) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -519,6 +520,7 @@
 | P3 | Monzo | Staff Data Scientist | unknown | ? |  | check | 2026-09-30 | [open](https://job-boards.greenhouse.io/monzo/jobs/8232732) |
 | P3 | Monzo | Product Director, Flex (Borrowing)  | unknown | ? |  | check | 2026-10-01 | [open](https://job-boards.greenhouse.io/monzo/jobs/7775842) |
 | P3 | Monzo | Senior Financial Control Analyst  | unknown | ? |  | check | 2026-10-02 | [open](https://job-boards.greenhouse.io/monzo/jobs/8158933) |
+| P3 | Monzo | Controls Product Senior Manager | unknown | ? |  | check | 2026-10-02 | [open](https://job-boards.greenhouse.io/monzo/jobs/8245673) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -600,5 +602,3 @@
 | P3 | PwC | Early careers at PwC | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Applying and FAQs | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/applying.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Employability hub | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/employability-hub.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Entry level | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/entry-level.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Graduate | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/graduate.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |

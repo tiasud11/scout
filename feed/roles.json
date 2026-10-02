@@ -27819,5 +27819,81 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/9be72ff5ee1eb73e.txt"
+ },
+ {
+  "id": "ad7602b63264f85b",
+  "firm": "M&G",
+  "role_title": "View press release",
+  "division": "",
+  "location": "",
+  "url": "https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026b",
+  "source": "mandg",
+  "date_posted": null,
+  "date_found": "2026-10-02",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated",
+   "location not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/ad7602b63264f85b.txt"
+ },
+ {
+  "id": "a11d08707670605c",
+  "firm": "Monzo",
+  "role_title": "Controls Product Senior Manager",
+  "division": "",
+  "location": "London; Remote (UK)",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8245673",
+  "source": "monzo",
+  "date_posted": "2026-10-02",
+  "date_found": "2026-10-02",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": "🌈 The application journey has 3 key steps Short call with a Monzo Recruiter Video-call with Hiring Manager (30 mins) Full-Loop: 3 x video-call interviews (covering Technical, Behaviours, and Leadership) This process should take around 4-5 weeks - your schedule is really important to us, so we promise to be as flexible as possible! We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo.",
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/a11d08707670605c.txt"
+ },
+ {
+  "id": "cfc8a6b279b11da6",
+  "firm": "ratemyplacement",
+  "role_title": "88",
+  "division": "",
+  "location": "London",
+  "url": "https://www.ratemyplacement.co.uk/search-jobs?page=88",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-02",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/cfc8a6b279b11da6.txt"
  }
 ]

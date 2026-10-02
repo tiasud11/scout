@@ -1,8 +1,8 @@
 {
- "run": "2026-10-02 09:27",
+ "run": "2026-10-02 14:58",
  "haiku": false,
- "opened": 12,
- "new": 9,
+ "opened": 4,
+ "new": 3,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 18
   },
   {
    "source": "natixis",
@@ -156,7 +156,8 @@
   {
    "source": "ardian",
    "ok": true,
-   "items": 16
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "brookfield",
@@ -254,7 +255,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -334,7 +335,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 27
+   "items": 12
   },
   {
    "source": "beazley",
@@ -362,7 +363,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 70
+   "items": 71
   },
   {
    "source": "starling",
@@ -382,17 +383,17 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 24
+   "items": 25
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 404
+   "items": 19
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 70
+   "items": 19
   },
   {
    "source": "brightnetwork-finance",
