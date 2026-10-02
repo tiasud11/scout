@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-02 14:58 UK
+# Scout feed, last run 2026-10-02 21:02 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | P3 | ING | Internship WB Transaction Services - Commercial Cards Sales | summer_likely | ? |  | check | 2026-10-01 | [open](https://www.ing.jobs/en/job/amsterdam/internship-wb-transaction-services-commercial-cards-sales/3121/45418445952) |
 | P3 | ING | Senior Credit Analyst - Project Finance | unknown | ? |  | check | 2026-10-01 | [open](https://www.ing.jobs/en/job/makati-city/senior-credit-analyst-project-finance/3121/45418445888) |
 | P3 | ING | INTERNSHIP - Business Management & Strategy - Private Banking | summer_likely | ? |  | check | 2026-10-01 | [open](https://www.ing.jobs/en/job/luxembourg/internship-business-management-and-strategy-private-banking/3121/44044583424) |
+| P3 | ING | Junior Business Analyst COO Risk | unknown | ? |  | check | 2026-10-02 | [open](https://www.ing.jobs/en/job/amsterdam/junior-business-analyst-coo-risk/3121/45470586432) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -601,4 +602,3 @@
 | P3 | PwC | Careers with PwC | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Early careers at PwC | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Applying and FAQs | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/applying.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Employability hub | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/employability-hub.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |

@@ -1,8 +1,8 @@
 {
- "run": "2026-10-02 14:58",
+ "run": "2026-10-02 21:02",
  "haiku": false,
- "opened": 4,
- "new": 3,
+ "opened": 9,
+ "new": 5,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 18
+   "items": 20
   },
   {
    "source": "natixis",
@@ -156,8 +156,7 @@
   {
    "source": "ardian",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 16
   },
   {
    "source": "brookfield",
@@ -255,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -275,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 163
+   "items": 52
   },
   {
    "source": "ey",
@@ -305,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -335,7 +334,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 12
+   "items": 15
   },
   {
    "source": "beazley",
@@ -388,12 +387,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 19
+   "items": 406
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 19
+   "items": 74
   },
   {
    "source": "brightnetwork-finance",
@@ -410,7 +409,7 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 412
+   "items": 411
   },
   {
    "source": "targetjobs",

@@ -8336,5 +8336,93 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "d3aa5f815f5c4f91",
+  "firm": "J.P. Morgan",
+  "role_title": "2027 Spring Insights: Influence & Execute",
+  "division": "",
+  "location": "London",
+  "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795468/?utm_medium=tracker&utm_source=Trackr&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr",
+  "source": "trackr-spring",
+  "date_posted": "2026-10-02T00:00:00.000Z",
+  "date_found": "2026-10-02",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "42390f6daaf77e03",
+  "firm": "J.P. Morgan",
+  "role_title": "2027 Spring Insights: Analyse & Trade",
+  "division": "",
+  "location": "London",
+  "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795361/?utm_medium=tracker&utm_source=Trackr&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr",
+  "source": "trackr-spring",
+  "date_posted": "2026-10-02T00:00:00.000Z",
+  "date_found": "2026-10-02",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "62b08b852fe37398",
+  "firm": "J.P. Morgan",
+  "role_title": "2027 Spring Insights: Shape & Advance",
+  "division": "",
+  "location": "London",
+  "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795382/?utm_medium=tracker&utm_source=Trackr&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr",
+  "source": "trackr-spring",
+  "date_posted": "2026-10-02T00:00:00.000Z",
+  "date_found": "2026-10-02",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "d9884ae04a88c836",
+  "firm": "J.P. Morgan",
+  "role_title": "2027 Spring Insights: Advise & Invest",
+  "division": "",
+  "location": "London",
+  "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795419/?utm_medium=tracker&utm_source=Trackr&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr",
+  "source": "trackr-spring",
+  "date_posted": "2026-10-02T00:00:00.000Z",
+  "date_found": "2026-10-02",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

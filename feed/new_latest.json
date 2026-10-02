@@ -1,14 +1,14 @@
 {
- "run": "2026-10-02 14:58",
+ "run": "2026-10-02 21:02",
  "roles": [
   {
-   "id": "ad7602b63264f85b",
-   "firm": "M&G",
-   "role_title": "View press release",
+   "id": "11f0a485edc0409f",
+   "firm": "ING",
+   "role_title": "Junior Business Analyst COO Risk",
    "division": "",
    "location": "",
-   "url": "https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026b",
-   "source": "mandg",
+   "url": "https://www.ing.jobs/en/job/amsterdam/junior-business-analyst-coo-risk/3121/45470586432",
+   "source": "ing",
    "date_posted": null,
    "date_found": "2026-10-02",
    "deadline": null,
@@ -25,17 +25,17 @@
    "injection_suspect": false,
    "classified_by": "rules",
    "priority": "P3",
-   "posting_text": "feed/postings/ad7602b63264f85b.txt"
+   "posting_text": "feed/postings/11f0a485edc0409f.txt"
   },
   {
-   "id": "a11d08707670605c",
-   "firm": "Monzo",
-   "role_title": "Controls Product Senior Manager",
+   "id": "e1f0b367e731410a",
+   "firm": "Wise",
+   "role_title": "Senior Product Analyst (IC2), SEND",
    "division": "",
-   "location": "London; Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8245673",
-   "source": "monzo",
-   "date_posted": "2026-10-02",
+   "location": "London",
+   "url": "https://wise.jobs/job/senior-product-analyst-ic2-send-in-london-jid-4259",
+   "source": "wise",
+   "date_posted": null,
    "date_found": "2026-10-02",
    "deadline": null,
    "rolling": false,
@@ -46,19 +46,70 @@
     "no programme year stated",
     "graduation year not stated"
    ],
-   "ai_policy": "🌈 The application journey has 3 key steps Short call with a Monzo Recruiter Video-call with Hiring Manager (30 mins) Full-Loop: 3 x video-call interviews (covering Technical, Behaviours, and Leadership) This process should take around 4-5 weeks - your schedule is really important to us, so we promise to be as flexible as possible! We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo.",
+   "ai_policy": null,
    "injection_suspect": false,
    "classified_by": "rules",
    "priority": "P3",
-   "posting_text": "feed/postings/a11d08707670605c.txt"
+   "posting_text": "feed/postings/e1f0b367e731410a.txt"
   },
   {
-   "id": "cfc8a6b279b11da6",
+   "id": "b85bb9e4c113b634",
+   "firm": "trackr-summer",
+   "role_title": "Intern, Corporate & Investment Banking, International",
+   "division": "",
+   "location": "",
+   "url": "https://www.standardbank.com/sbg/standard-bank-group/careers/apply/jobs/view-all-jobs/job-detail?jobID=744000152994500&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+   "source": "trackr-summer",
+   "date_posted": null,
+   "date_found": "2026-10-02",
+   "deadline": null,
+   "rolling": false,
+   "type": "summer_likely",
+   "eligibility": "check",
+   "eligibility_notes": [
+    "programme type not explicit, confirm summer 2027 or spring 2027",
+    "no programme year stated",
+    "graduation year not stated",
+    "location not stated"
+   ],
+   "ai_policy": null,
+   "injection_suspect": false,
+   "classified_by": "rules",
+   "priority": "P3",
+   "posting_text": "feed/postings/b85bb9e4c113b634.txt"
+  },
+  {
+   "id": "e03ef943b5ed690a",
+   "firm": "Squarepoint Capital",
+   "role_title": "Equities Analyst Summer Internship Program",
+   "division": "",
+   "location": "",
+   "url": "https://www.squarepoint-capital.com/opportunity-details?id=8174630&loc=14632&lvl=Internship&dep=86658&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+   "source": "trackr-summer",
+   "date_posted": "2026-10-02T00:00:00.000Z",
+   "date_found": "2026-10-02",
+   "deadline": null,
+   "rolling": false,
+   "type": "summer",
+   "eligibility": "check",
+   "eligibility_notes": [
+    "no programme year stated",
+    "graduation year not stated",
+    "location not stated"
+   ],
+   "ai_policy": null,
+   "injection_suspect": false,
+   "classified_by": "rules",
+   "priority": "P3",
+   "posting_text": "feed/postings/e03ef943b5ed690a.txt"
+  },
+  {
+   "id": "0a664e95429db98f",
    "firm": "ratemyplacement",
-   "role_title": "88",
+   "role_title": "94",
    "division": "",
    "location": "London",
-   "url": "https://www.ratemyplacement.co.uk/search-jobs?page=88",
+   "url": "https://www.ratemyplacement.co.uk/search-jobs?page=94",
    "source": "ratemyplacement",
    "date_posted": null,
    "date_found": "2026-10-02",
@@ -75,7 +126,7 @@
    "injection_suspect": false,
    "classified_by": "rules",
    "priority": "P3",
-   "posting_text": "feed/postings/cfc8a6b279b11da6.txt"
+   "posting_text": "feed/postings/0a664e95429db98f.txt"
   }
  ]
 }
