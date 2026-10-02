@@ -1,8 +1,8 @@
 {
- "run": "2026-10-01 21:04",
+ "run": "2026-10-02 09:27",
  "haiku": false,
- "opened": 15,
- "new": 8,
+ "opened": 12,
+ "new": 9,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 21
+   "items": 20
   },
   {
    "source": "natixis",
@@ -99,7 +99,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -253,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -333,7 +334,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 12
+   "items": 27
   },
   {
    "source": "beazley",
@@ -402,7 +403,8 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 4
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "ratemyplacement",
