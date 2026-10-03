@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-02 21:02 UK
+# Scout feed, last run 2026-10-03 09:28 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | P2 | trackr-summer | 2027 Summer Internship | summer | 2026-10-16 |  | check | 2026-09-20 | [open](https://eastdilsecured.bamboohr.com/careers/172?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P2 | targetjobs | 2027 Corporate Risk & Broking, Internship Programme – London | summer_likely | 2026-10-19 |  | check | 2026-09-25 | [open](https://careers.wtwco.com/jobs/2027-corporate-risk-broking-internship-programme-london-london-england-united-kingdom?utm_source=targetjobs&utm_medium=referral&utm_campaign=early-careers) |
 | P2 | trackr-summer | Trader Summer Internship 2027 | summer | 2026-10-20 |  | eligible | 2026-09-20 | [open](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
+| P2 | targetjobs | Enterprise Skills Accelerator - UK | unknown | 2026-10-30 |  | check | 2026-10-03 | [open](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Enterprise-Skills-Accelerator---UK_JR6160581?source=APPLICANT_SOURCE-3-1204&utm_source=clo_targetjobs&utm_medium=paid) |
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
@@ -601,4 +602,3 @@
 | P3 | PwC | Our people, their stories. | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/people-stories.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Careers with PwC | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | PwC | Early careers at PwC | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Applying and FAQs | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/applying.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
