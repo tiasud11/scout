@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-05 09:30 UK
+# Scout feed, last run 2026-10-05 15:01 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | P1 | trackr-summer | Internship Programme 2027 | summer_likely | ? | yes | check | 2026-09-21 | [open](https://www.revolut.com/careers/position/internship-programme-2027-strategy-operations-manager-aa3cc201-5808-4d7e-ba8e-e82e443d90d3/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-summer | 2027 Summer Intern, Corporate Finance | summer | ? | yes | eligible | 2026-09-29 | [open](https://longspur.com/graduate-careers-at-longspur-capital/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-summer | Associate Consultant Summer Internship 2027 | summer | ? | yes | eligible | 2026-10-05 | [open](https://careers.occstrategy.com/vacancies/392/associate-consultant-summer-internship-2027-london-office.html?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | trackr-summer | 2027 Summer Internship | summer | ? | yes | eligible | 2026-10-05 | [open](https://jobs.scotiabank.com/job/London-%28UK%29-2027-UK-Global-Capital-Markets-Summer-Internship-ENG/606718117/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P2 | trackr-summer | LionTree | unknown | 2026-09-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/liontree) |
 | P2 | trackr-summer | Perella Weinberg Partners | unknown | 2026-10-01 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/perella-weinberg-partners) |
 | P2 | trackr-summer | PJT Partners | unknown | 2026-10-04 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/pjt-partners) |
@@ -299,6 +300,8 @@
 | P3 | ING | Senior Credit Analyst - Project Finance | unknown | ? |  | check | 2026-10-01 | [open](https://www.ing.jobs/en/job/makati-city/senior-credit-analyst-project-finance/3121/45418445888) |
 | P3 | ING | INTERNSHIP - Business Management & Strategy - Private Banking | summer_likely | ? |  | check | 2026-10-01 | [open](https://www.ing.jobs/en/job/luxembourg/internship-business-management-and-strategy-private-banking/3121/44044583424) |
 | P3 | ING | Junior Business Analyst COO Risk | unknown | ? |  | check | 2026-10-02 | [open](https://www.ing.jobs/en/job/amsterdam/junior-business-analyst-coo-risk/3121/45470586432) |
+| P3 | ING | Data Analyst | Wholesale Banking Advanced Analytics @ING Hubs Romania | unknown | ? |  | check | 2026-10-05 | [open](https://www.ing.jobs/en/job/bucharest/data-analyst-wholesale-banking-advanced-analytics-ing-hubs-romania/3121/45565977472) |
+| P3 | ING | Intern Trade Sales Account Management | summer_likely | ? |  | check | 2026-10-05 | [open](https://www.ing.jobs/en/job/brussels/intern-trade-sales-account-management/3121/45565977408) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -359,6 +362,12 @@
 | P3 | Klarna | Press | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/press/) |
 | P3 | Klarna | Merchant support | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/merchant-support/) |
 | P3 | Klarna | Platforms and plugins | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/platforms-and-partners/) |
+| P3 | LCP | Insurance Consulting - Summer Internship 2027 | summer | ? |  | check | 2026-10-05 | [open](https://careers.lcp.com/find-a-role/job-vacancy?id=325062&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | LCP | nvestment Consulting - Summer Internship 2027 | summer | ? |  | check | 2026-10-05 | [open](https://careers.lcp.com/find-a-role/job-vacancy?id=325060&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | LCP | Pensions Management Consulting - Summer Internship 2027 | summer | ? |  | check | 2026-10-05 | [open](https://careers.lcp.com/find-a-role/job-vacancy?id=325059&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | LCP | Pensions Actuarial Consulting - Summer Internship 2027 | summer | ? |  | check | 2026-10-05 | [open](https://careers.lcp.com/find-a-role/job-vacancy?id=325066&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | LCP | DC Investment & Governance - Summer Internship 2027 | summer | ? |  | check | 2026-10-05 | [open](https://careers.lcp.com/find-a-role/job-vacancy?id=325067&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | LCP | Energy Power Consulting - Summer Internship 2027 | summer | ? |  | check | 2026-10-05 | [open](https://careers.lcp.com/find-a-role/job-vacancy?id=325056&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Lazard Asset Management | 2027 Equity Research Internship | summer_likely | ? |  | check | 2026-09-29 | [open](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers/job/6674/?utm_medium=tracker&utm_source=Trackr&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | Lazard Asset Management | 2027 Sales & Marketing Internship | summer_likely | ? |  | check | 2026-09-29 | [open](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers/job/6673/?utm_medium=tracker&utm_source=Trackr&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | Legal & General | Equity investors and analyst centre | unknown | ? |  | check | 2026-09-19 | [open](https://group.legalandgeneral.com/investors/equity-investors-and-analyst-centre/) |
@@ -593,12 +602,3 @@
 | P3 | PJT Partners | 2027 Summer Analyst (Strategic Advisory & Restructuring) | summer | ? |  | eligible | 2026-09-21 | [open](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/XMLNAME-2027-Summer-Analyst--Strategic-Advisory---Restructuring--London_R0003510?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | PJT Partners | 2027 Summer Analyst (Corporate Rotational) | summer | ? |  | eligible | 2026-09-21 | [open](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/XMLNAME-2027-Summer-Analyst--Corporate-Rotational--London_R0003512?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | PJT Partners | 2027 Summer Analyst (PJT Park Hill - Private Capital Solutions) | summer | ? |  | eligible | 2026-09-21 | [open](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/XMLNAME-2027-Summer-Analyst--PJT-Park-Hill---Private-Capital-Solutions--London_R0003511?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
-| P3 | Partners Group | Analyst Coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.partnersgroup.com/shareholders/share-information#analyst-coverage) |
-| P3 | Peel Hunt | International access | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/about-us/international-access/) |
-| P3 | Peel Hunt | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/news-insights/) |
-| P3 | Peel Hunt | Internships | summer_likely | ? |  | check | 2026-09-19 | [open](https://www.peelhunt.com/careers/internships/) |
-| P3 | Permira | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights) |
-| P3 | Permira | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights/insights) |
-| P3 | Permira | Announcements | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights/announcements) |
-| P3 | Permira | In the News | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights/in-the-news) |
-| P3 | PwC | Skip to content | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/our-programmes.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities#title) |

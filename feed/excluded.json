@@ -8820,5 +8820,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "a3ee6a61b6462887",
+  "firm": "Wise",
+  "role_title": "Analytics Intern",
+  "division": "",
+  "location": "",
+  "url": "https://wise.jobs/job/analytics-intern-in-singapore-jid-4266",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-10-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027), (2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "e3d88c57312ecbe6",
+  "firm": "targetjobs",
+  "role_title": "2027 Graduate Scheme, Cyber Security",
+  "division": "",
+  "location": "London",
+  "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Graduate-Scheme--Cyber-Security_JR260938?source=TARGETjobs",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "9bab465155df64d2",
+  "firm": "targetjobs",
+  "role_title": "Graduate Customer Experience (CX) Analyst Programme",
+  "division": "",
+  "location": "Telford, Brighton and Hove",
+  "url": "https://careers.capgemini.com/job-invite/557797/?utm_source=targetjobs&utm_medium=referral&utm_campaign=early-careers",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Telford, Brighton and Hove' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
