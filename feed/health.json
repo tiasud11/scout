@@ -1,7 +1,7 @@
 {
- "run": "2026-10-03 09:28",
+ "run": "2026-10-05 09:30",
  "haiku": false,
- "opened": 13,
+ "opened": 21,
  "new": 8,
  "sources": [
   {
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 21
+   "items": 20
   },
   {
    "source": "natixis",
@@ -274,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 163
+   "items": 52
   },
   {
    "source": "ey",
@@ -304,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -362,7 +362,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 71
+   "items": 69
   },
   {
    "source": "starling",
@@ -387,12 +387,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 406
+   "items": 415
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 74
+   "items": 80
   },
   {
    "source": "brightnetwork-finance",
@@ -403,18 +403,17 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 413
+   "items": 417
   },
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 53
+   "items": 56
   },
   {
    "source": "jointheintake",

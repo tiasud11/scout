@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-03 09:28 UK
+# Scout feed, last run 2026-10-05 09:30 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -37,6 +37,8 @@
 | P1 | Citi | Corporate Banking, Summer Analyst, 2027 | summer | ? | yes | eligible | 2026-09-21 | [open](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Banking--Corporate-Banking--Summer-Analyst--London---United-Kingdom--2027_26991689?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | Citi | Financing, Summer Analyst, 2027 | summer | ? | yes | eligible | 2026-09-21 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Financing--Summer-Analyst--London---United-Kingdom-2027_26993182/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | Citi | Global Wealth, Summer Analyst, 2027 | summer | ? | yes | eligible | 2026-09-24 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Citi-Global-Wealth--Summer-Analyst--London---United-Kingdom--2027_26994841?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
+| P1 | Citi | Investment Banking, Real Estate, Summer Analyst, 2027 | summer | ? | yes | eligible | 2026-10-05 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking--Real-Estate--Summer-Analyst--London--United-Kingdom-2027_26998422?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
+| P1 | Citi | Investment Banking - FIG, Summer Analyst, 2027 | summer | ? | yes | eligible | 2026-10-05 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking---Financial-Institution-Group--FIG---Summer-Analyst--London--United-Kingdom-2027_26998415/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | Evercore | Private Funds Group Summer Internship (2027) | summer | ? | yes | check | 2026-09-21 | [open](https://jobs.smartrecruiters.com/Wiser/744000143765069-private-funds-group-summer-internship-2027-evercore?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
 | P1 | Evercore | Restructuring Summer Internship (2027) | summer | ? | yes | check | 2026-09-21 | [open](https://jobs.smartrecruiters.com/Wiser/744000146674819-restructuring-summer-internship-2027-evercore?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
 | P1 | Evercore | Debt Advisory Summer Internship (2027) | summer | ? | yes | eligible | 2026-09-21 | [open](https://jobs.smartrecruiters.com/Wiser/744000146672822-debt-advisory-summer-internship-2027-evercore?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
@@ -109,6 +111,7 @@
 | P1 | trackr-summer | Women in Trading Insight Programme - 2027 | spring | ? | yes | eligible | 2026-09-21 | [open](https://job-boards.greenhouse.io/embed/job_app?for=gsacapital&token=8518528002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P1 | trackr-summer | Internship Programme 2027 | summer_likely | ? | yes | check | 2026-09-21 | [open](https://www.revolut.com/careers/position/internship-programme-2027-strategy-operations-manager-aa3cc201-5808-4d7e-ba8e-e82e443d90d3/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-summer | 2027 Summer Intern, Corporate Finance | summer | ? | yes | eligible | 2026-09-29 | [open](https://longspur.com/graduate-careers-at-longspur-capital/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | trackr-summer | Associate Consultant Summer Internship 2027 | summer | ? | yes | eligible | 2026-10-05 | [open](https://careers.occstrategy.com/vacancies/392/associate-consultant-summer-internship-2027-london-office.html?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P2 | trackr-summer | LionTree | unknown | 2026-09-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/liontree) |
 | P2 | trackr-summer | Perella Weinberg Partners | unknown | 2026-10-01 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/perella-weinberg-partners) |
 | P2 | trackr-summer | PJT Partners | unknown | 2026-10-04 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/pjt-partners) |
@@ -599,6 +602,3 @@
 | P3 | Permira | Announcements | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights/announcements) |
 | P3 | Permira | In the News | unknown | ? |  | check | 2026-09-19 | [open](https://www.permira.com/news-and-insights/in-the-news) |
 | P3 | PwC | Skip to content | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/our-programmes.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities#title) |
-| P3 | PwC | Our people, their stories. | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/people-stories.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Careers with PwC | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
-| P3 | PwC | Early careers at PwC | unknown | ? |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
