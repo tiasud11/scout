@@ -1,5 +1,5 @@
 {
- "run": "2026-10-06 14:58",
+ "run": "2026-10-06 21:02",
  "haiku": false,
  "opened": 14,
  "new": 11,
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 18
+   "items": 21
   },
   {
    "source": "natixis",
@@ -161,7 +161,7 @@
   {
    "source": "brookfield",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "source": "partners-group",
@@ -226,7 +226,8 @@
   {
    "source": "amundi",
    "ok": true,
-   "items": 3
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "t-rowe-price",
@@ -254,7 +255,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -299,7 +300,7 @@
   {
    "source": "oliver-wyman",
    "ok": true,
-   "items": 65
+   "items": 59
   },
   {
    "source": "fti",
@@ -357,7 +358,7 @@
   {
    "source": "gallagher",
    "ok": true,
-   "items": 14
+   "items": 15
   },
   {
    "source": "monzo",
@@ -387,12 +388,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 439
+   "items": 441
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 84
+   "items": 86
   },
   {
    "source": "brightnetwork-finance",
@@ -403,18 +404,17 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 412
+   "items": 413
   },
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 53
+   "items": 55
   },
   {
    "source": "jointheintake",

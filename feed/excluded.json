@@ -9194,5 +9194,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P1"
+ },
+ {
+  "id": "ba4fb9e770c70de8",
+  "firm": "Brookfield",
+  "role_title": "White Paper Alper Daglioglu, Riley O’Neal, Gaal Surugeon, Sam Garetano Oct 2026 The evolution of infrastructure investing",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/evolution-infrastructure-investing",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-10-06",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "7cc5ef17ec01f63e",
+  "firm": "trackr-spring",
+  "role_title": "Venture Capital Micro-Internship - December 2026",
+  "division": "",
+  "location": "",
+  "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=wVsTnFuMOke0zjQMrZqPi8sxwioP9yNPq8C9XAxuUwtUMDk5QVFUWEdXUkM3QzM0NFJJNVEzS1VCUC4u&utm_source=Trackr&utm_medium=tracker&utm_content=ap_y3q43skhdv&utm_campaign=UK_Finance_2027",
+  "source": "trackr-spring",
+  "date_posted": null,
+  "date_found": "2026-10-06",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "37cd68777379da06",
+  "firm": "trackr-spring",
+  "role_title": "FutureFocus: Quants 2027",
+  "division": "",
+  "location": "",
+  "url": "https://grnh.se/z8d26oow2us",
+  "source": "trackr-spring",
+  "date_posted": null,
+  "date_found": "2026-10-06",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029), (2029, 2029), (2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

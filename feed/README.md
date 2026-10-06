@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-06 14:58 UK
+# Scout feed, last run 2026-10-06 21:02 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | P3 | ING | Data Analyst | Wholesale Banking Advanced Analytics @ING Hubs Romania | unknown | ? |  | check | 2026-10-05 | [open](https://www.ing.jobs/en/job/bucharest/data-analyst-wholesale-banking-advanced-analytics-ing-hubs-romania/3121/45565977472) |
 | P3 | ING | Intern Trade Sales Account Management | summer_likely | ? |  | check | 2026-10-05 | [open](https://www.ing.jobs/en/job/brussels/intern-trade-sales-account-management/3121/45565977408) |
 | P3 | ING | Power Platform Intern | summer_likely | ? |  | check | 2026-10-06 | [open](https://www.ing.jobs/en/job/amsterdam/power-platform-intern/3121/45585742464) |
+| P3 | ING | Analyst, Debt Capital Markets - Investment Grade | unknown | ? |  | check | 2026-10-06 | [open](https://www.ing.jobs/en/job/new-york/analyst-debt-capital-markets-investment-grade/3121/43567202560) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -601,4 +602,3 @@
 | P3 | Oliver Wyman | Oliver Wyman Forum | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwymanforum.com/index.html) |
 | P3 | Oliver Wyman | Oliver Wyman Health | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/perspectives/health.html) |
 | P3 | Oliver Wyman | Our Culture | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture.html) |
-| P3 | Oliver Wyman | Our People | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/our-people.html) |
