@@ -1,8 +1,8 @@
 {
- "run": "2026-10-06 09:29",
+ "run": "2026-10-06 14:58",
  "haiku": false,
- "opened": 28,
- "new": 17,
+ "opened": 14,
+ "new": 11,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 18
   },
   {
    "source": "natixis",
@@ -254,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -304,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -362,7 +362,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 68
+   "items": 67
   },
   {
    "source": "starling",
@@ -382,17 +382,17 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 25
+   "items": 27
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 434
+   "items": 439
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 82
+   "items": 84
   },
   {
    "source": "brightnetwork-finance",

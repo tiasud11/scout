@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-06 09:29 UK
+# Scout feed, last run 2026-10-06 14:58 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -31,6 +31,11 @@
 | P1 | ratemyplacement | Marketing Placement 2027 - Dublin Samsung Electronics Deadline: 9th October 2026 Placement | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44284/samsung-electronics/marketing-placement-2027-dublin) |
 | P1 | ratemyplacement | Product Management Placement 2027 Samsung Electronics Deadline: 9th October 2026 Placement | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44282/samsung-electronics/product-management-placement-2027) |
 | P1 | ratemyplacement | Sales Placement 2027 Samsung Electronics Deadline: 9th October 2026 Placement (10 Months+) | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44280/samsung-electronics/sales-placement-2027) |
+| P1 | ratemyplacement | Finance Placement 2027 Samsung Electronics Deadline: 9th October 2026 Placement (10 Months | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44281/samsung-electronics/finance-placement-2027) |
+| P1 | ratemyplacement | Marketing Placement 2027 Samsung Electronics Deadline: 9th October 2026 Placement (10 Mont | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44279/samsung-electronics/marketing-placement-2027) |
+| P1 | ratemyplacement | Audit Analytics Summer Vacation Scheme 2027 Deloitte Deadline: 11th October 2026 Insight / | summer | 2026-10-11 | yes | eligible | 2026-10-06 | [open](https://higherin.com/jobs/45261/deloitte/audit-analytics-summer-vacation-scheme-2027) |
+| P1 | ratemyplacement | IT Audit Summer Vacation Scheme 2027 Deloitte Deadline: 11th October 2026 Insight / Vacati | summer | 2026-10-11 | yes | eligible | 2026-10-06 | [open](https://higherin.com/jobs/45272/deloitte/it-audit-summer-vacation-scheme-2027) |
+| P1 | ratemyplacement | View Job | unknown | 2026-10-11 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/45245/deloitte/audit-summer-vacation-scheme-2027) |
 | P1 | J.P. Morgan | 2027 Asset Management Investments- Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Corporate Banking Analyst Program - Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775320/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Private Bank - Investment Solutions Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -55,6 +60,7 @@
 | P1 | Evercore | M&A Advisory Summer Internship (2027) | summer | ? | yes | check | 2026-09-21 | [open](https://jobs.smartrecruiters.com/Wiser/744000143764788-m-a-advisory-summer-internship-2027-evercore?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
 | P1 | Fidelity International | Fixed Income Summer Internship 2027 | summer | ? | yes | eligible | 2026-09-21 | [open](https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/xf-906bc4a6d932/candidate/so/pm/1/pl/1/opp/1409-Fixed-Income-Summer-Internship-Programme-2027-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Fidelity International | Equity Research Summer Internship 2027 | summer | ? | yes | eligible | 2026-09-21 | [open](https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/xf-906bc4a6d932/candidate/so/pm/1/pl/1/opp/1405-Equity-Research-Summer-Internship-Programme-2027-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | Fidelity International | Sales & Marketing Summer Internship 2027 | summer | ? | yes | eligible | 2026-10-06 | [open](https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/so/pm/1/pl/1/opp/1421-Sales-Marketing-Summer-Internship-2027-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | HSBC | Application guide | unknown | ? | yes | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/application-guide) |
 | P1 | HSBC | Business Analyst - International Wealth and Premier Banking - Internship (opens in new win | summer_likely | ? | yes | check | 2026-09-19 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Taipei-Business-Analyst-International-Wealth-and-Premier-Banking-Internship-Taip-11561/1371304657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
 | P1 | HSBC | Relationship Management - Private Bank - Internship (opens in new window) | summer_likely | ? | yes | check | 2026-09-19 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
@@ -270,6 +276,7 @@
 | P3 | GoCardless | Site Reliability Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/gocardless/jobs/7996584) |
 | P3 | GoCardless | Procurement Manager | unknown | ? |  | check | 2026-09-21 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8219965) |
 | P3 | GoCardless | Salesforce Developer  | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8232924) |
+| P3 | GoCardless | Solution Engineer II | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8258303) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -595,10 +602,3 @@
 | P3 | Oliver Wyman | Oliver Wyman Health | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/perspectives/health.html) |
 | P3 | Oliver Wyman | Our Culture | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture.html) |
 | P3 | Oliver Wyman | Our People | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/our-people.html) |
-| P3 | Oliver Wyman | Our Brand | unknown | ? |  | check | 2026-09-19 | [open](https://www.marshmclennan.com/about/our-brand.html) |
-| P3 | Oliver Wyman | Our Values | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/our-values.html) |
-| P3 | Oliver Wyman | Oliver Wyman For Society | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/society.html) |
-| P3 | Oliver Wyman | The Alumni Network | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-culture/alumni.html) |
-| P3 | Oliver Wyman | Careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/careers.html) |
-| P3 | Oliver Wyman | Roles At Oliver Wyman | unknown | ? |  | check | 2026-09-20 | [open](https://www.oliverwyman.com/careers/roles.html) |
-| P3 | Oliver Wyman | Apply Now | unknown | ? |  | check | 2026-09-20 | [open](https://careers.marshmclennan.com/global/en/oliver-wyman-search) |
