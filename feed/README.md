@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-05 15:01 UK
+# Scout feed, last run 2026-10-06 09:29 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -22,6 +22,15 @@
 | P1 | ratemyplacement | Summer Internship Programme - EMEA 2027 BlackRock Deadline: 30th September 2026 Internship | summer | 2026-09-30 | yes | eligible | 2026-09-30 | [open](https://higherin.com/jobs/43540/blackrock/summer-internship-programme-emea-2027) |
 | P1 | trackr-summer | 2027 Summer Internship Program - EMEA | summer | 2026-09-30 | yes | eligible | 2026-09-20 | [open](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-bce35dd61046/candidate/so/pm/1/pl/1/opp/12232-2027-Summer-Internship-Program-EMEA/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | ratemyplacement | Women in Trading Summer Internship Programme 2027 RWE Supply & Trading Deadline: 5th Octob | summer | 2026-10-05 | yes | eligible | 2026-09-30 | [open](https://higherin.com/jobs/45023/rwe-supply-trading/women-in-trading-summer-internship-programme-2027) |
+| P1 | ratemyplacement | Northwest Discovery Insight Day 2027 DLA Piper Deadline: 6th October 2026 Start Date: 14th | spring | 2026-10-06 | yes | eligible | 2026-10-06 | [open](https://higherin.com/jobs/43981/dla-piper/northwest-discovery-insight-day-2027) |
+| P1 | ratemyplacement | Yorkshire Discovery Insight Day 2027 DLA Piper Deadline: 7th October 2026 Start Date: 15th | spring | 2026-10-07 | yes | eligible | 2026-10-06 | [open](https://higherin.com/jobs/43982/dla-piper/yorkshire-discovery-insight-day-2027) |
+| P1 | ratemyplacement | View Job | unknown | 2026-10-08 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44525/gchq/cyber-insights-summer-school-ciss-lancashire) |
+| P1 | ratemyplacement | View Job | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/45239/deloitte/assurance-summer-vacation-scheme-2027) |
+| P1 | ratemyplacement | Finance Transformation Consulting Placement - Business Analyst 2027 Deloitte Deadline: 9th | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/45154/deloitte/finance-transformation-consulting-placement-business-analyst-2027) |
+| P1 | ratemyplacement | Customer Support Placement 2027 Samsung Electronics Deadline: 9th October 2026 Placement ( | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44283/samsung-electronics/customer-support-placement-2027) |
+| P1 | ratemyplacement | Marketing Placement 2027 - Dublin Samsung Electronics Deadline: 9th October 2026 Placement | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44284/samsung-electronics/marketing-placement-2027-dublin) |
+| P1 | ratemyplacement | Product Management Placement 2027 Samsung Electronics Deadline: 9th October 2026 Placement | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44282/samsung-electronics/product-management-placement-2027) |
+| P1 | ratemyplacement | Sales Placement 2027 Samsung Electronics Deadline: 9th October 2026 Placement (10 Months+) | unknown | 2026-10-09 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/44280/samsung-electronics/sales-placement-2027) |
 | P1 | J.P. Morgan | 2027 Asset Management Investments- Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Corporate Banking Analyst Program - Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775320/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Private Bank - Investment Solutions Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -86,6 +95,7 @@
 | P1 | Jefferies | 2027 Investment Banking Summer Internship Programme | summer | ? | yes | eligible | 2026-09-21 | [open](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1792-2027-Investment-Banking-Summer-Internship-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Jefferies | 2027 Equity Research Spring Week Programme | spring | ? | yes | eligible | 2026-09-21 | [open](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1933-2027-Equity-Research-Spring-Week-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Jefferies | 2027 Investment Banking Spring Week Programme | spring | ? | yes | eligible | 2026-09-21 | [open](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/1934-2027-Investment-Banking-Spring-Week-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | Jefferies | 2027 Asset Management Summer Internship Programme | summer | ? | yes | eligible | 2026-10-06 | [open](https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-415213/candidate/so/pm/1/pl/2/opp/2011-2027-Asset-Management-Summer-Internship-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | MUFG | 2027 Summer Analyst Programme: Structured Trading Group | summer | ? | yes | check | 2026-09-21 | [open](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Structured-Trading-Group_10079356-WD?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | MUFG | 2027 Summer Analyst Programme: Japanese Corporate Banking | summer | ? | yes | check | 2026-09-21 | [open](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Japanese-Corporate-Banking_10079266-WD?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | MUFG | 2027 Summer Analyst Programme: Internal Audit | summer | ? | yes | check | 2026-09-21 | [open](https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-EarlyCareers/job/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Internal-Audit_10079263-WD?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
@@ -302,6 +312,7 @@
 | P3 | ING | Junior Business Analyst COO Risk | unknown | ? |  | check | 2026-10-02 | [open](https://www.ing.jobs/en/job/amsterdam/junior-business-analyst-coo-risk/3121/45470586432) |
 | P3 | ING | Data Analyst | Wholesale Banking Advanced Analytics @ING Hubs Romania | unknown | ? |  | check | 2026-10-05 | [open](https://www.ing.jobs/en/job/bucharest/data-analyst-wholesale-banking-advanced-analytics-ing-hubs-romania/3121/45565977472) |
 | P3 | ING | Intern Trade Sales Account Management | summer_likely | ? |  | check | 2026-10-05 | [open](https://www.ing.jobs/en/job/brussels/intern-trade-sales-account-management/3121/45565977408) |
+| P3 | ING | Power Platform Intern | summer_likely | ? |  | check | 2026-10-06 | [open](https://www.ing.jobs/en/job/amsterdam/power-platform-intern/3121/45585742464) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -535,6 +546,9 @@
 | P3 | Monzo | Product Director, Flex (Borrowing)  | unknown | ? |  | check | 2026-10-01 | [open](https://job-boards.greenhouse.io/monzo/jobs/7775842) |
 | P3 | Monzo | Senior Financial Control Analyst  | unknown | ? |  | check | 2026-10-02 | [open](https://job-boards.greenhouse.io/monzo/jobs/8158933) |
 | P3 | Monzo | Controls Product Senior Manager | unknown | ? |  | check | 2026-10-02 | [open](https://job-boards.greenhouse.io/monzo/jobs/8245673) |
+| P3 | Monzo | Director of Group Operations Strategy & Development  | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8220713) |
+| P3 | Monzo | Regulatory Reporting Analyst | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195436) |
+| P3 | Monzo | Tech Recruitment Manager | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8051090) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -588,17 +602,3 @@
 | P3 | Oliver Wyman | Careers | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/careers.html) |
 | P3 | Oliver Wyman | Roles At Oliver Wyman | unknown | ? |  | check | 2026-09-20 | [open](https://www.oliverwyman.com/careers/roles.html) |
 | P3 | Oliver Wyman | Apply Now | unknown | ? |  | check | 2026-09-20 | [open](https://careers.marshmclennan.com/global/en/oliver-wyman-search) |
-| P3 | Oliver Wyman | Media Center | unknown | ? |  | check | 2026-09-20 | [open](https://www.oliverwyman.com/media-center.html) |
-| P3 | Oliver Wyman | Global Locations | unknown | ? |  | check | 2026-09-20 | [open](https://www.oliverwyman.com/our-expertise/global-locations.html) |
-| P3 | Oliver Wyman | Contact Us | unknown | ? |  | check | 2026-09-20 | [open](https://www.oliverwyman.com/contact-us.html) |
-| P3 | Oxera | Insights | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights) |
-| P3 | Oxera | Agenda | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/agenda/) |
-| P3 | Oxera | Reports | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/reports/) |
-| P3 | Oxera | Courses | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/courses/) |
-| P3 | Oxera | Events | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/events/) |
-| P3 | Oxera | Commercial Litigation and International Arbitration | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/expertise/commercial-litigation-international-arbitration/) |
-| P3 | Oxera | Early Careers | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/careers/early-careers/) |
-| P3 | Oxera | Discover more about our commitment to our purpose and how we’re helping others make better | unknown | ? |  | check | 2026-09-20 | [open](https://www.oxera.com/insights/agenda/topics/beyond-the-bottom-line/) |
-| P3 | PJT Partners | 2027 Summer Analyst (Strategic Advisory & Restructuring) | summer | ? |  | eligible | 2026-09-21 | [open](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/XMLNAME-2027-Summer-Analyst--Strategic-Advisory---Restructuring--London_R0003510?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
-| P3 | PJT Partners | 2027 Summer Analyst (Corporate Rotational) | summer | ? |  | eligible | 2026-09-21 | [open](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/XMLNAME-2027-Summer-Analyst--Corporate-Rotational--London_R0003512?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
-| P3 | PJT Partners | 2027 Summer Analyst (PJT Park Hill - Private Capital Solutions) | summer | ? |  | eligible | 2026-09-21 | [open](https://pjtpartners.wd1.myworkdayjobs.com/en-US/Students/job/XMLNAME-2027-Summer-Analyst--PJT-Park-Hill---Private-Capital-Solutions--London_R0003511?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
