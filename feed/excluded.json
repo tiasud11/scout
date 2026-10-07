@@ -9304,5 +9304,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "ce9471acf7117166",
+  "firm": "trackr-summer",
+  "role_title": "2027 Private Banking - Summer Internship",
+  "division": "",
+  "location": "London",
+  "url": "https://apply.workable.com/weatherbys-bank/j/AC03469273/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-10-07",
+  "deadline": "2026-10-23",
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027), (2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P2"
  }
 ]

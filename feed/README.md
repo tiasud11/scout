@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-07 09:29 UK
+# Scout feed, last run 2026-10-07 14:59 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | P2 | trackr-summer | 2027 Summer Internship | summer | 2026-10-16 |  | check | 2026-09-20 | [open](https://eastdilsecured.bamboohr.com/careers/172?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P2 | targetjobs | 2027 Corporate Risk & Broking, Internship Programme – London | summer_likely | 2026-10-19 |  | check | 2026-09-25 | [open](https://careers.wtwco.com/jobs/2027-corporate-risk-broking-internship-programme-london-london-england-united-kingdom?utm_source=targetjobs&utm_medium=referral&utm_campaign=early-careers) |
 | P2 | trackr-summer | Trader Summer Internship 2027 | summer | 2026-10-20 |  | eligible | 2026-09-20 | [open](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
+| P2 | Monzo | Vulnerability, Accessibility & Inclusion Lead | unknown | 2026-10-21 |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8260834) |
 | P2 | targetjobs | Enterprise Skills Accelerator - UK | unknown | 2026-10-30 |  | check | 2026-10-03 | [open](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Enterprise-Skills-Accelerator---UK_JR6160581?source=APPLICANT_SOURCE-3-1204&utm_source=clo_targetjobs&utm_medium=paid) |
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -324,6 +325,7 @@
 | P3 | ING | Power Platform Intern | summer_likely | ? |  | check | 2026-10-06 | [open](https://www.ing.jobs/en/job/amsterdam/power-platform-intern/3121/45585742464) |
 | P3 | ING | Analyst, Debt Capital Markets - Investment Grade | unknown | ? |  | check | 2026-10-06 | [open](https://www.ing.jobs/en/job/new-york/analyst-debt-capital-markets-investment-grade/3121/43567202560) |
 | P3 | ING | DE Savings & Invest - Senior Analyst | unknown | ? |  | check | 2026-10-07 | [open](https://www.ing.jobs/en/job/makati-city/de-savings-and-invest-senior-analyst/3121/45643657280) |
+| P3 | ING | Internship – Facility Management | summer_likely | ? |  | check | 2026-10-07 | [open](https://www.ing.jobs/en/job/brussels/internship-facility-management/3121/45650389376) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -473,6 +475,7 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026a) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026b) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-07 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/07-10-2026) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -560,6 +563,7 @@
 | P3 | Monzo | Director of Group Operations Strategy & Development  | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8220713) |
 | P3 | Monzo | Regulatory Reporting Analyst | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195436) |
 | P3 | Monzo | Tech Recruitment Manager | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8051090) |
+| P3 | Monzo | Data Director, EU | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8258208) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -598,7 +602,3 @@
 | P3 | Oliver Wyman | AI Transformation | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/digital/ai-consulting-quotient.html) |
 | P3 | Oliver Wyman | Customer Innovation And Growth | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/customer-innovation-growth.html) |
 | P3 | Oliver Wyman | Finance, Risk, And Restructuring | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/finance-risk-restructuring.html) |
-| P3 | Oliver Wyman | Mergers And Acquisitions | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/mergers-and-acquisitions.html) |
-| P3 | Oliver Wyman | Performance Transformation | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/performance-transformation.html) |
-| P3 | Oliver Wyman | Harnessing Risk And Economic Disruption   | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/hubs/harnessing-risk.html) |
-| P3 | Oliver Wyman | Leading In The Age Of Acceleration  | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/hubs/industry-transformation.html) |

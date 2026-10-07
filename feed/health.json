@@ -1,8 +1,8 @@
 {
- "run": "2026-10-07 09:29",
+ "run": "2026-10-07 14:59",
  "haiku": false,
- "opened": 8,
- "new": 6,
+ "opened": 9,
+ "new": 8,
  "sources": [
   {
    "source": "hsbc",
@@ -334,7 +334,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 15
+   "items": 12
   },
   {
    "source": "beazley",
@@ -382,17 +382,17 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 27
+   "items": 25
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 447
+   "items": 449
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 86
+   "items": 89
   },
   {
    "source": "brightnetwork-finance",
@@ -403,7 +403,8 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 4
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "ratemyplacement",
