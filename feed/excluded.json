@@ -9260,5 +9260,49 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "aacc7d6e08a23c0c",
+  "firm": "Monzo",
+  "role_title": "Head of Credit Risk Oversight",
+  "division": "",
+  "location": "Dublin",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8256125",
+  "source": "monzo",
+  "date_posted": "2026-10-07",
+  "date_found": "2026-10-07",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Dublin' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "a803b6dfdd0985bd",
+  "firm": "ratemyplacement",
+  "role_title": "Audit Graduate - London Deloitte Deadline: 11th October 2026 Graduate Scheme London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45243/deloitte/audit-graduate-london",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-07",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

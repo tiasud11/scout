@@ -1,8 +1,8 @@
 {
- "run": "2026-10-06 21:02",
+ "run": "2026-10-07 09:29",
  "haiku": false,
- "opened": 14,
- "new": 11,
+ "opened": 8,
+ "new": 6,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 21
+   "items": 20
   },
   {
    "source": "natixis",
@@ -226,8 +226,7 @@
   {
    "source": "amundi",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 3
   },
   {
    "source": "t-rowe-price",
@@ -305,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -358,12 +357,12 @@
   {
    "source": "gallagher",
    "ok": true,
-   "items": 15
+   "items": 14
   },
   {
    "source": "monzo",
    "ok": true,
-   "items": 67
+   "items": 68
   },
   {
    "source": "starling",
@@ -388,7 +387,7 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 441
+   "items": 447
   },
   {
    "source": "trackr-spring",
