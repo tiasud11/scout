@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-07 14:59 UK
+# Scout feed, last run 2026-10-07 21:13 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | P3 | GoCardless | Procurement Manager | unknown | ? |  | check | 2026-09-21 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8219965) |
 | P3 | GoCardless | Salesforce Developer  | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8232924) |
 | P3 | GoCardless | Solution Engineer II | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8258303) |
+| P3 | GoCardless | Engineering Manager II | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8261533) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -564,6 +565,8 @@
 | P3 | Monzo | Regulatory Reporting Analyst | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195436) |
 | P3 | Monzo | Tech Recruitment Manager | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8051090) |
 | P3 | Monzo | Data Director, EU | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8258208) |
+| P3 | Monzo | Senior Service Analyst, Workforce Management | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8261197) |
+| P3 | Monzo | Senior Strategy and Operations Manager | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8105912) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -599,6 +602,3 @@
 | P3 | Oliver Wyman | Transportation And Services | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/transportation.html) |
 | P3 | Oliver Wyman | Capabilities | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities.html) |
 | P3 | Oliver Wyman | Actuarial Consulting | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/actuarial.html) |
-| P3 | Oliver Wyman | AI Transformation | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/digital/ai-consulting-quotient.html) |
-| P3 | Oliver Wyman | Customer Innovation And Growth | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/customer-innovation-growth.html) |
-| P3 | Oliver Wyman | Finance, Risk, And Restructuring | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/finance-risk-restructuring.html) |

@@ -9326,5 +9326,93 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P2"
+ },
+ {
+  "id": "c6e243b42353aea6",
+  "firm": "Brookfield",
+  "role_title": "Commentary Robert O’Leary, Armen Panossian Oct 2026 Credit Quarterly: New normal?",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/credit-quarterly-new-normal",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-10-07",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "80df8f6043d73dcc",
+  "firm": "GoCardless",
+  "role_title": "Engineering Manager II",
+  "division": "",
+  "location": "Riga, Latvia",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8261497",
+  "source": "gocardless",
+  "date_posted": "2026-10-07",
+  "date_found": "2026-10-07",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Riga, Latvia' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "4718fafd71d1fc5c",
+  "firm": "GoCardless",
+  "role_title": "Engineering Manager II",
+  "division": "",
+  "location": "Lisbon, Portugal",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8261531",
+  "source": "gocardless",
+  "date_posted": "2026-10-07",
+  "date_found": "2026-10-07",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Lisbon, Portugal' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "a15d0a22cee8745d",
+  "firm": "targetjobs",
+  "role_title": "Graduate Analyst",
+  "division": "",
+  "location": "Leeds",
+  "url": "https://tpp-careers.com/roles/business-analyst/",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-07",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
