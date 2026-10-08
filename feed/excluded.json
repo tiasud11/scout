@@ -9480,5 +9480,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "5b92b56fd987b3cb",
+  "firm": "Monzo",
+  "role_title": "Credit Risk Manager",
+  "division": "",
+  "location": "Dublin",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8264501",
+  "source": "monzo",
+  "date_posted": "2026-10-08",
+  "date_found": "2026-10-08",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Dublin' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

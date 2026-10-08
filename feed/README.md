@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-08 14:59 UK
+# Scout feed, last run 2026-10-08 21:07 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | P3 | ING | Internship – Facility Management | summer_likely | ? |  | check | 2026-10-07 | [open](https://www.ing.jobs/en/job/brussels/internship-facility-management/3121/45650389376) |
 | P3 | ING | INTERNSHIP - Portfolio Management | summer_likely | ? |  | check | 2026-10-08 | [open](https://www.ing.jobs/en/job/luxembourg/internship-portfolio-management/3121/45689053888) |
 | P3 | ING | Internship – Account Manager, Private Banking | summer_likely | ? |  | check | 2026-10-08 | [open](https://www.ing.jobs/en/job/luxembourg/internship-account-manager-private-banking/3121/45689053760) |
+| P3 | ING | Internship ING Corporate Finance | summer_likely | ? |  | check | 2026-10-08 | [open](https://www.ing.jobs/en/job/amsterdam/internship-ing-corporate-finance/3121/45704839232) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -601,4 +602,3 @@
 | P3 | Oliver Wyman | Education | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/education.html) |
 | P3 | Oliver Wyman | Energy And Natural Resources | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/energy-natural-resources.html) |
 | P3 | Oliver Wyman | Financial Services | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/financial-services.html) |
-| P3 | Oliver Wyman | Government And Public Institutions | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/government-and-public-institutions.html) |

@@ -1,8 +1,8 @@
 {
- "run": "2026-10-08 14:59",
+ "run": "2026-10-08 21:07",
  "haiku": false,
- "opened": 10,
- "new": 8,
+ "opened": 6,
+ "new": 5,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 22
+   "items": 20
   },
   {
    "source": "natixis",
@@ -62,8 +62,7 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 10
   },
   {
    "source": "investec",
@@ -273,7 +272,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 52
+   "items": 163
   },
   {
    "source": "ey",
@@ -361,7 +360,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 67
+   "items": 68
   },
   {
    "source": "starling",
@@ -386,7 +385,7 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 454
+   "items": 456
   },
   {
    "source": "trackr-spring",
@@ -407,7 +406,7 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 413
+   "items": 415
   },
   {
    "source": "targetjobs",
