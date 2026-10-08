@@ -9436,5 +9436,49 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "1dcbddcb11e9194d",
+  "firm": "Brookfield",
+  "role_title": "Commentary Robert O’Leary, Armen Panossian Oct 2026 Credit Quarterly: New terms",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/credit-quarterly-new-terms",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-10-08",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "48be20cfb1f9d91d",
+  "firm": "trackr-summer",
+  "role_title": "Summer Trading Internship",
+  "division": "",
+  "location": "",
+  "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-10-08",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

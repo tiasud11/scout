@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-08 09:27 UK
+# Scout feed, last run 2026-10-08 14:59 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | P1 | Fidelity International | Fixed Income Summer Internship 2027 | summer | ? | yes | eligible | 2026-09-21 | [open](https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/xf-906bc4a6d932/candidate/so/pm/1/pl/1/opp/1409-Fixed-Income-Summer-Internship-Programme-2027-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Fidelity International | Equity Research Summer Internship 2027 | summer | ? | yes | eligible | 2026-09-21 | [open](https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/xf-906bc4a6d932/candidate/so/pm/1/pl/1/opp/1405-Equity-Research-Summer-Internship-Programme-2027-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Fidelity International | Sales & Marketing Summer Internship 2027 | summer | ? | yes | eligible | 2026-10-06 | [open](https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/so/pm/1/pl/1/opp/1421-Sales-Marketing-Summer-Internship-2027-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | GSA Capital | General Trading & Technology Insight Programme - 2027 | spring | ? | yes | eligible | 2026-10-08 | [open](https://job-boards.greenhouse.io/embed/job_app?for=gsacapital&token=8870173002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P1 | HSBC | Application guide | unknown | ? | yes | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/application-guide) |
 | P1 | HSBC | Business Analyst - International Wealth and Premier Banking - Internship (opens in new win | summer_likely | ? | yes | check | 2026-09-19 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Taipei-Business-Analyst-International-Wealth-and-Premier-Banking-Internship-Taip-11561/1371304657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
 | P1 | HSBC | Relationship Management - Private Bank - Internship (opens in new window) | summer_likely | ? | yes | check | 2026-09-19 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
@@ -300,6 +301,7 @@
 | P3 | HSBC | Relationship Management - Commercial Bank - Internship | summer_likely | ? |  | check | 2026-10-01 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&area-of-interest=relationship-management&page=1&location=uk&programme-type=internship-programme) |
 | P3 | Harrison Street | Summer 2027 Asset Management Intern | summer | ? |  | check | 2026-09-21 | [open](https://jobs.lever.co/harrisonst/e79af1ff-8b36-4eae-987c-57170652a8ff?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&lever-source=Trackr) |
 | P3 | Harrison Street | Summer 2027 Transactions Intern | summer | ? |  | check | 2026-09-21 | [open](https://jobs.lever.co/harrisonst/7d1a258e-fb69-42bf-8a5e-5790af9a0170?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&lever-source=Trackr) |
+| P3 | Harrison Street | Summer 2027 Investor Solutions Group Intern | summer | ? |  | check | 2026-10-08 | [open](https://jobs.lever.co/harrisonst/98f7e3e7-9145-43a2-bc26-ee7f9fa9de0c?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&lever-source=Trackr) |
 | P3 | Houlihan Lokey | 2027 Summer Financial Analyst – Capital Solutions | summer | ? |  | eligible | 2026-09-21 | [open](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2027-Summer-Financial-Analyst---Capital-Solutions--London_R3517?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | Houlihan Lokey | 2027 Summer Financial Analyst - Corporate Finance (M&A) | summer | ? |  | check | 2026-09-21 | [open](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2027-Summer-Financial-Analyst---Corporate-Finance--M-A-_R3564?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | Houlihan Lokey | Summer Financial Analyst 2027 - Financial Restructuring | summer | ? |  | eligible | 2026-09-21 | [open](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Summer-Financial-Analyst-2027---Financial-Restructuring--London_R3495?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
@@ -330,6 +332,8 @@
 | P3 | ING | Analyst, Debt Capital Markets - Investment Grade | unknown | ? |  | check | 2026-10-06 | [open](https://www.ing.jobs/en/job/new-york/analyst-debt-capital-markets-investment-grade/3121/43567202560) |
 | P3 | ING | DE Savings & Invest - Senior Analyst | unknown | ? |  | check | 2026-10-07 | [open](https://www.ing.jobs/en/job/makati-city/de-savings-and-invest-senior-analyst/3121/45643657280) |
 | P3 | ING | Internship – Facility Management | summer_likely | ? |  | check | 2026-10-07 | [open](https://www.ing.jobs/en/job/brussels/internship-facility-management/3121/45650389376) |
+| P3 | ING | INTERNSHIP - Portfolio Management | summer_likely | ? |  | check | 2026-10-08 | [open](https://www.ing.jobs/en/job/luxembourg/internship-portfolio-management/3121/45689053888) |
+| P3 | ING | Internship – Account Manager, Private Banking | summer_likely | ? |  | check | 2026-10-08 | [open](https://www.ing.jobs/en/job/luxembourg/internship-account-manager-private-banking/3121/45689053760) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -598,7 +602,3 @@
 | P3 | Oliver Wyman | Energy And Natural Resources | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/energy-natural-resources.html) |
 | P3 | Oliver Wyman | Financial Services | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/financial-services.html) |
 | P3 | Oliver Wyman | Government And Public Institutions | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/government-and-public-institutions.html) |
-| P3 | Oliver Wyman | Health And Life Sciences | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/health-life-sciences.html) |
-| P3 | Oliver Wyman | Industrial Products | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/industrial-products.html) |
-| P3 | Oliver Wyman | Private Equity And Principal Investors | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/private-equity-and-principal-investors.html) |
-| P3 | Oliver Wyman | Retail And Consumer Goods | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/retail-and-consumer-goods.html) |
