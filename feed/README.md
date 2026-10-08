@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-07 21:13 UK
+# Scout feed, last run 2026-10-08 09:27 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -36,6 +36,9 @@
 | P1 | ratemyplacement | Audit Analytics Summer Vacation Scheme 2027 Deloitte Deadline: 11th October 2026 Insight / | summer | 2026-10-11 | yes | eligible | 2026-10-06 | [open](https://higherin.com/jobs/45261/deloitte/audit-analytics-summer-vacation-scheme-2027) |
 | P1 | ratemyplacement | IT Audit Summer Vacation Scheme 2027 Deloitte Deadline: 11th October 2026 Insight / Vacati | summer | 2026-10-11 | yes | eligible | 2026-10-06 | [open](https://higherin.com/jobs/45272/deloitte/it-audit-summer-vacation-scheme-2027) |
 | P1 | ratemyplacement | View Job | unknown | 2026-10-11 | yes | check | 2026-10-06 | [open](https://higherin.com/jobs/45245/deloitte/audit-summer-vacation-scheme-2027) |
+| P1 | ratemyplacement | Global Operations Operations Analyst Summer 2027 - Dublin Bank of America Deadline: 11th O | summer | 2026-10-11 | yes | check | 2026-10-08 | [open](https://higherin.com/jobs/43893/bank-of-america/global-operations-operations-analyst-summer-2027-dublin) |
+| P1 | ratemyplacement | Corporate Audit Summer 2027 Analyst - Dublin Bank of America Deadline: 11th October 2026 I | summer | 2026-10-11 | yes | check | 2026-10-08 | [open](https://higherin.com/jobs/43912/bank-of-america/corporate-audit-summer-2027-analyst-dublin) |
+| P1 | ratemyplacement | Global Technology Business Analyst Internship 2027 (6 months) - Dublin Bank of America Dea | summer_likely | 2026-10-11 | yes | check | 2026-10-08 | [open](https://higherin.com/jobs/43904/bank-of-america/global-technology-business-analyst-internship-2027-6-months-dublin) |
 | P1 | J.P. Morgan | 2027 Asset Management Investments- Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Corporate Banking Analyst Program - Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775320/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Private Bank - Investment Solutions Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -599,6 +602,3 @@
 | P3 | Oliver Wyman | Industrial Products | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/industrial-products.html) |
 | P3 | Oliver Wyman | Private Equity And Principal Investors | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/private-equity-and-principal-investors.html) |
 | P3 | Oliver Wyman | Retail And Consumer Goods | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/retail-and-consumer-goods.html) |
-| P3 | Oliver Wyman | Transportation And Services | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/industries/transportation.html) |
-| P3 | Oliver Wyman | Capabilities | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities.html) |
-| P3 | Oliver Wyman | Actuarial Consulting | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/capabilities/actuarial.html) |

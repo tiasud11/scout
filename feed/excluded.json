@@ -9414,5 +9414,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "faa9e387655118f5",
+  "firm": "ratemyplacement",
+  "role_title": "Opportunities in Global Technology Internships Bank of America Deadline: 11th October 2026 Internship (1 Month+) Bromley, Dublin, Chester",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/43947/bank-of-america/opportunities-in-global-technology-internships",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-08",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

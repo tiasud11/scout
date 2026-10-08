@@ -30131,5 +30131,75 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/735bc8f71578c706.txt"
+ },
+ {
+  "id": "358012d8050d81a4",
+  "firm": "ratemyplacement",
+  "role_title": "Global Operations Operations Analyst Summer 2027 - Dublin Bank of America Deadline: 11th October 2026 Internship (1 Month+) Dublin",
+  "division": "",
+  "location": "London",
+  "url": "https://higherin.com/jobs/43893/bank-of-america/global-operations-operations-analyst-summer-2027-dublin",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-08",
+  "deadline": "2026-10-11",
+  "rolling": true,
+  "type": "summer",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1",
+  "posting_text": "feed/postings/358012d8050d81a4.txt"
+ },
+ {
+  "id": "63431639f51208aa",
+  "firm": "ratemyplacement",
+  "role_title": "Corporate Audit Summer 2027 Analyst - Dublin Bank of America Deadline: 11th October 2026 Internship (1 Month+) Dublin",
+  "division": "",
+  "location": "London",
+  "url": "https://higherin.com/jobs/43912/bank-of-america/corporate-audit-summer-2027-analyst-dublin",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-08",
+  "deadline": "2026-10-11",
+  "rolling": true,
+  "type": "summer",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1",
+  "posting_text": "feed/postings/63431639f51208aa.txt"
+ },
+ {
+  "id": "dcd2163ccd44d343",
+  "firm": "ratemyplacement",
+  "role_title": "Global Technology Business Analyst Internship 2027 (6 months) - Dublin Bank of America Deadline: 11th October 2026 Internship (1 Month+) Dublin",
+  "division": "",
+  "location": "London",
+  "url": "https://higherin.com/jobs/43904/bank-of-america/global-technology-business-analyst-internship-2027-6-months-dublin",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-08",
+  "deadline": "2026-10-11",
+  "rolling": true,
+  "type": "summer_likely",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1",
+  "posting_text": "feed/postings/dcd2163ccd44d343.txt"
  }
 ]
