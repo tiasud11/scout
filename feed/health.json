@@ -1,13 +1,13 @@
 {
- "run": "2026-10-08 21:07",
+ "run": "2026-10-09 09:29",
  "haiku": false,
- "opened": 6,
- "new": 5,
+ "opened": 13,
+ "new": 11,
  "sources": [
   {
    "source": "hsbc",
    "ok": true,
-   "items": 109
+   "items": 107
   },
   {
    "source": "mufg",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 22
   },
   {
    "source": "natixis",
@@ -62,7 +62,8 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 10
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "investec",
@@ -98,7 +99,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -302,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -332,7 +334,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 21
+   "items": 12
   },
   {
    "source": "beazley",
@@ -355,12 +357,12 @@
   {
    "source": "gallagher",
    "ok": true,
-   "items": 14
+   "items": 15
   },
   {
    "source": "monzo",
    "ok": true,
-   "items": 68
+   "items": 69
   },
   {
    "source": "starling",
@@ -385,12 +387,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 456
+   "items": 461
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 91
+   "items": 93
   },
   {
    "source": "brightnetwork-finance",
@@ -401,7 +403,8 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 4
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "ratemyplacement",
@@ -411,7 +414,7 @@
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 52
+   "items": 59
   },
   {
    "source": "jointheintake",

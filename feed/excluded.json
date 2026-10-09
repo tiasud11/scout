@@ -9502,5 +9502,49 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "c5b5311bbeb0e968",
+  "firm": "targetjobs",
+  "role_title": "General Management Trainee",
+  "division": "",
+  "location": "",
+  "url": "https://www.graduates.nhs.uk/?utm_source=Targetjobs&utm_medium=Listing&utm_campaign=GMTSSept27&utm_term=General%20Management",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-09",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2025, 2025), (2026, 2026)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "7edcbb89a773755e",
+  "firm": "targetjobs",
+  "role_title": "Tax (ATT-CTA) Graduate Programme - Starting March 2027",
+  "division": "",
+  "location": "London",
+  "url": "https://dixonwilson.pinpointhq.com/en/postings/05f5f9d2-1d9f-4638-98ed-a12095e52881",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-09",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
