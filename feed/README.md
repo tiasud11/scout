@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-09 09:29 UK
+# Scout feed, last run 2026-10-09 14:59 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | P3 | Carlyle | Insights & Indicators | unknown | ? |  | check | 2026-09-19 | [open](https://www.carlyle.com/insights-and-indicators) |
 | P3 | Carlyle | Insights From the PM's Desk | unknown | ? |  | check | 2026-09-19 | [open](https://www.carlyle.com/insights-from-the-pms-desk) |
 | P3 | Carlyle | Insights & Indicators | unknown | ? |  | check | 2026-09-19 | [open](https://insights-and-indicators.castos.com/) |
+| P3 | Ccaventus | 2027 Summer Investment Analyst | summer | ? |  | eligible | 2026-10-09 | [open](https://apply.workable.com/arena-investors-lp/j/642FD77502/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Cinven | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cinven.com/news-insights/) |
 | P3 | Cinven | Read more → | unknown | ? |  | check | 2026-09-19 | [open](https://www.cinven.com/news-insights/cinven-closes-second-strategic-fund/) |
 | P3 | Cinven | Read more → | unknown | ? |  | check | 2026-09-29 | [open](https://www.cinven.com/news-insights/alter-domus-turning-ai-into-a-structural-advantage-in-fund-services/) |
@@ -289,6 +290,7 @@
 | P3 | GoCardless | Salesforce Developer  | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8232924) |
 | P3 | GoCardless | Solution Engineer II | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8258303) |
 | P3 | GoCardless | Engineering Manager II | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8261533) |
+| P3 | GoCardless | Data Science Manager | unknown | ? |  | check | 2026-10-09 | [open](https://job-boards.greenhouse.io/gocardless/jobs/7525953) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -600,5 +602,3 @@
 | P3 | Oaktree Capital | Oaktree's Our Communities Matter program | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/responsibility/philanthropy) |
 | P3 | Oliver Wyman | Our Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/insights.html) |
 | P3 | Oliver Wyman | Financial Services' Future In The AI Age — Known Unknown Debates | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/insights/2026/jan/key-debates-future-of-financial-institutions-in-age-of-ai) |
-| P3 | Oliver Wyman | Our Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/careers/entry-level.html) |
-| P3 | Oliver Wyman | Oliver Wyman 'Shadow Boards' Allow Collaborative Advisory Throughout The Firm Read about O | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/media-center/2023/mar/insider-oliver-wymans-shadow-boards-allow-collaborative-advisory-throughout-the-firm.html) |

@@ -1,8 +1,8 @@
 {
- "run": "2026-10-09 09:29",
+ "run": "2026-10-09 14:59",
  "haiku": false,
- "opened": 13,
- "new": 11,
+ "opened": 8,
+ "new": 5,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 22
+   "items": 18
   },
   {
    "source": "natixis",
@@ -99,8 +99,7 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 6
   },
   {
    "source": "mandg",
@@ -254,7 +253,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -304,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -334,7 +333,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 12
+   "items": 15
   },
   {
    "source": "beazley",
@@ -357,12 +356,12 @@
   {
    "source": "gallagher",
    "ok": true,
-   "items": 15
+   "items": 14
   },
   {
    "source": "monzo",
    "ok": true,
-   "items": 69
+   "items": 68
   },
   {
    "source": "starling",
@@ -382,12 +381,12 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 28
+   "items": 30
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 461
+   "items": 463
   },
   {
    "source": "trackr-spring",
@@ -403,13 +402,12 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 415
+   "items": 416
   },
   {
    "source": "targetjobs",

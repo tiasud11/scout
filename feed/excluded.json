@@ -9546,5 +9546,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "993397cf1b233718",
+  "firm": "GoCardless",
+  "role_title": "Data Science Manager",
+  "division": "",
+  "location": "Riga, Latvia",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/7525980",
+  "source": "gocardless",
+  "date_posted": "2026-10-09",
+  "date_found": "2026-10-09",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Riga, Latvia' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "eeda9b2d795cba90",
+  "firm": "GoCardless",
+  "role_title": "Data Science Manager",
+  "division": "",
+  "location": "Lisbon, Portugal",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/7525979",
+  "source": "gocardless",
+  "date_posted": "2026-10-09",
+  "date_found": "2026-10-09",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Lisbon, Portugal' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "4bc3b14912ff7826",
+  "firm": "Ccaventus",
+  "role_title": "UK Analyst Program 2028",
+  "division": "",
+  "location": "",
+  "url": "https://apply.workable.com/arena-investors-lp/j/E61D0E7846/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-summer",
+  "date_posted": "2026-10-09T00:00:00.000Z",
+  "date_found": "2026-10-09",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2028'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
