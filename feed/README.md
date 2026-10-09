@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-09 14:59 UK
+# Scout feed, last run 2026-10-09 21:02 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | P3 | ING | Internship – Account Manager, Private Banking | summer_likely | ? |  | check | 2026-10-08 | [open](https://www.ing.jobs/en/job/luxembourg/internship-account-manager-private-banking/3121/45689053760) |
 | P3 | ING | Internship ING Corporate Finance | summer_likely | ? |  | check | 2026-10-08 | [open](https://www.ing.jobs/en/job/amsterdam/internship-ing-corporate-finance/3121/45704839232) |
 | P3 | ING | Client Services Payment Capability – Analyst | unknown | ? |  | check | 2026-10-09 | [open](https://www.ing.jobs/en/job/makati-city/client-services-payment-capability-analyst/3121/45720811264) |
+| P3 | ING | Business Analyst Cash & Liquidity Management @ING Hubs Romania | unknown | ? |  | check | 2026-10-09 | [open](https://www.ing.jobs/en/job/bucharest/business-analyst-cash-and-liquidity-management-ing-hubs-romania/3121/39435406720) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -601,4 +602,3 @@
 | P3 | Oaktree Capital | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/insights) |
 | P3 | Oaktree Capital | Oaktree's Our Communities Matter program | unknown | ? |  | check | 2026-09-19 | [open](https://www.oaktreecapital.com/responsibility/philanthropy) |
 | P3 | Oliver Wyman | Our Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/insights.html) |
-| P3 | Oliver Wyman | Financial Services' Future In The AI Age — Known Unknown Debates | unknown | ? |  | check | 2026-09-19 | [open](https://www.oliverwyman.com/our-expertise/insights/2026/jan/key-debates-future-of-financial-institutions-in-age-of-ai) |

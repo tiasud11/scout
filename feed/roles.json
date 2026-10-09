@@ -30906,5 +30906,81 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/8c1f5797754566d3.txt"
+ },
+ {
+  "id": "6b6de0a61f3c17fe",
+  "firm": "ING",
+  "role_title": "Business Analyst Cash & Liquidity Management @ING Hubs Romania",
+  "division": "",
+  "location": "",
+  "url": "https://www.ing.jobs/en/job/bucharest/business-analyst-cash-and-liquidity-management-ing-hubs-romania/3121/39435406720",
+  "source": "ing",
+  "date_posted": null,
+  "date_found": "2026-10-09",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated",
+   "location not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/6b6de0a61f3c17fe.txt"
+ },
+ {
+  "id": "a85da091d28f2648",
+  "firm": "ratemyplacement",
+  "role_title": "Oakley Capital (1)",
+  "division": "",
+  "location": "London",
+  "url": "https://www.ratemyplacement.co.uk/search-jobs?company=oakley-capital",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-09",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/a85da091d28f2648.txt"
+ },
+ {
+  "id": "a7fb58d3e209ce74",
+  "firm": "ratemyplacement",
+  "role_title": "113",
+  "division": "",
+  "location": "London",
+  "url": "https://www.ratemyplacement.co.uk/search-jobs?page=113",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-09",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/a7fb58d3e209ce74.txt"
  }
 ]

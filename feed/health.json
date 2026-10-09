@@ -1,8 +1,8 @@
 {
- "run": "2026-10-09 14:59",
+ "run": "2026-10-09 21:02",
  "haiku": false,
- "opened": 8,
- "new": 5,
+ "opened": 4,
+ "new": 3,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 18
+   "items": 20
   },
   {
    "source": "natixis",
@@ -99,7 +99,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -381,7 +382,7 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 30
+   "items": 31
   },
   {
    "source": "trackr-summer",
@@ -407,7 +408,7 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 416
+   "items": 417
   },
   {
    "source": "targetjobs",

@@ -9612,5 +9612,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "031aadaf4b0116fe",
+  "firm": "GoCardless",
+  "role_title": "Customer Operations Representative, French-speaking (12-month FTC)",
+  "division": "",
+  "location": "Riga, Latvia",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8267215",
+  "source": "gocardless",
+  "date_posted": "2026-10-09",
+  "date_found": "2026-10-09",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
