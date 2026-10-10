@@ -1,8 +1,8 @@
 {
- "run": "2026-10-10 14:56",
+ "run": "2026-10-10 21:00",
  "haiku": false,
- "opened": 7,
- "new": 3,
+ "opened": 0,
+ "new": 0,
  "sources": [
   {
    "source": "hsbc",
@@ -392,7 +392,7 @@
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 97
+   "items": 95
   },
   {
    "source": "brightnetwork-finance",
