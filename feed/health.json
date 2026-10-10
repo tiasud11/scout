@@ -1,8 +1,8 @@
 {
- "run": "2026-10-10 09:23",
+ "run": "2026-10-10 14:56",
  "haiku": false,
- "opened": 12,
- "new": 10,
+ "opened": 7,
+ "new": 3,
  "sources": [
   {
    "source": "hsbc",
@@ -62,7 +62,8 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 10
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "investec",
@@ -98,7 +99,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -302,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -385,12 +387,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 463
+   "items": 465
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 95
+   "items": 97
   },
   {
    "source": "brightnetwork-finance",
@@ -401,8 +403,7 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",
@@ -412,7 +413,7 @@
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 59
+   "items": 58
   },
   {
    "source": "jointheintake",

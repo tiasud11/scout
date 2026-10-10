@@ -31210,5 +31210,77 @@
   "classified_by": "rules",
   "priority": "P1",
   "posting_text": "feed/postings/4a0e93496f01c91a.txt"
+ },
+ {
+  "id": "fed283e6fbbcff4b",
+  "firm": "trackr-summer",
+  "role_title": "Restructuring Advisory Intern",
+  "division": "",
+  "location": "London",
+  "url": "https://careers.k3advisorygroup.com/jobs/8527782-restructuring-advisory-intern?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-10-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/fed283e6fbbcff4b.txt"
+ },
+ {
+  "id": "df1e6efa8e2c673b",
+  "firm": "targetjobs",
+  "role_title": "Management Trainee Spring 2027",
+  "division": "",
+  "location": "London",
+  "url": "https://complete.mdscollaborate.co.uk/_login/apply/ApplicationForm.aspx?type=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/df1e6efa8e2c673b.txt"
+ },
+ {
+  "id": "42d4c73bf8cac825",
+  "firm": "targetjobs",
+  "role_title": "Brand Management Summer Internship 2027",
+  "division": "",
+  "location": "London, Weybridge",
+  "url": "https://www.pgcareers.com/global/en/job/R000160016/Brand-Management-Summer-Internship-2027?source=RS_TARGETJOBS",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/42d4c73bf8cac825.txt"
  }
 ]

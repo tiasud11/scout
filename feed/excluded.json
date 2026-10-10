@@ -9678,5 +9678,93 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "6b1b80137d8f8fc9",
+  "firm": "targetjobs",
+  "role_title": "Sales Graduate Role 2027 (P&G)",
+  "division": "",
+  "location": "London, Weybridge",
+  "url": "https://www.pgcareers.com/global/en/job/R000159964/Sales-Graduate-Role-2027?source=RS_TARGETJOBS",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "8f5be4233e0b6db6",
+  "firm": "targetjobs",
+  "role_title": "Graduate Analyst (Spanish speakers)",
+  "division": "",
+  "location": "Leeds",
+  "url": "http://tpp-careers.com/roles/business-analyst-spanish-speakers/",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "214ae50ea1a89b3b",
+  "firm": "targetjobs",
+  "role_title": "HR Graduate 2027",
+  "division": "",
+  "location": "London, Birmingham, Woking, Telford",
+  "url": "https://careers.capgemini.com/job-invite/568977/?utm_source=targetjobs&utm_medium=referral&utm_campaign=early-careers",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "26f77bb3c02d07ed",
+  "firm": "targetjobs",
+  "role_title": "Engineering (Manufacturing) Graduate Role 2027",
+  "division": "",
+  "location": "London",
+  "url": "https://www.pgcareers.com/global/en/job/R000160028/Engineering-Manufacturing-Graduate-Role-2027?source=RS_TARGETJOBS",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
