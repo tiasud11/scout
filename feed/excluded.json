@@ -9634,5 +9634,49 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "1ab8baedc9923e73",
+  "firm": "ratemyplacement",
+  "role_title": "Global Markets, (Sales & Trading Private Side) Summer Analyst Rotational Internship Programme 2027 - London Bank of America Deadline: 11th October 2026 Internship (1 Month+) London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/43891/bank-of-america/global-markets-sales-trading-private-side-summer-analyst-rotational-internship-programme-2027-london",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "a500fc345bf7dc20",
+  "firm": "ratemyplacement",
+  "role_title": "Opportunities in Global Banking and Global Markets Bank of America Deadline: 11th October 2026 Internship (1 Month+) London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/43945/bank-of-america/opportunities-in-global-banking-and-global-markets",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

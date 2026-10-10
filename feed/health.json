@@ -1,8 +1,8 @@
 {
- "run": "2026-10-09 21:02",
+ "run": "2026-10-10 09:23",
  "haiku": false,
- "opened": 4,
- "new": 3,
+ "opened": 12,
+ "new": 10,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 18
   },
   {
    "source": "natixis",
@@ -62,8 +62,7 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 10
   },
   {
    "source": "investec",
@@ -99,8 +98,7 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 6
   },
   {
    "source": "mandg",
@@ -254,7 +252,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -392,7 +390,7 @@
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 93
+   "items": 95
   },
   {
    "source": "brightnetwork-finance",
@@ -403,12 +401,13 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 4
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 417
+   "items": 418
   },
   {
    "source": "targetjobs",
