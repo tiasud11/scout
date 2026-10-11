@@ -9766,5 +9766,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "9d9fe31a8e939ed0",
+  "firm": "targetjobs",
+  "role_title": "Product and Partnerships Graduate Scheme - Halifax",
+  "division": "",
+  "location": "Halifax",
+  "url": "https://lbg.wd3.myworkdayjobs.com/Graduate_careers/job/Leeds/Product---Partnerships-Graduate-Scheme--West-Yorkshire-_163492-1?utm_source=targetjobs&utm_medium=referral&utm_campaign=grads-2026&source=targetjobs-via-et-site",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-11",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

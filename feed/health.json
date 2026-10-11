@@ -1,8 +1,8 @@
 {
- "run": "2026-10-11 14:56",
+ "run": "2026-10-11 21:00",
  "haiku": false,
- "opened": 0,
- "new": 0,
+ "opened": 2,
+ "new": 1,
  "sources": [
   {
    "source": "hsbc",
@@ -254,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -274,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 52
+   "items": 163
   },
   {
    "source": "ey",

@@ -1,4 +1,29 @@
 {
- "run": "2026-10-11 14:56",
- "roles": []
+ "run": "2026-10-11 21:00",
+ "roles": [
+  {
+   "id": "ed0b17de45e23112",
+   "firm": "targetjobs",
+   "role_title": "Discover: University Insight Scheme 2027",
+   "division": "",
+   "location": "London",
+   "url": "https://www.whitecase.com/careers/locations/uk/early-careers/our-offer/university-insight-schemes",
+   "source": "targetjobs",
+   "date_posted": null,
+   "date_found": "2026-10-11",
+   "deadline": null,
+   "rolling": false,
+   "type": "unknown",
+   "eligibility": "check",
+   "eligibility_notes": [
+    "programme type not explicit, confirm summer 2027 or spring 2027",
+    "graduation year not stated"
+   ],
+   "ai_policy": null,
+   "injection_suspect": false,
+   "classified_by": "rules",
+   "priority": "P3",
+   "posting_text": "feed/postings/ed0b17de45e23112.txt"
+  }
+ ]
 }
