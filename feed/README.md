@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-10 21:00 UK
+# Scout feed, last run 2026-10-11 09:26 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | P1 | ratemyplacement | Chief People Organization Summer 2027 Analyst - Chester Bank of America Deadline: 11th Oct | summer | 2026-10-11 | yes | check | 2026-10-10 | [open](https://higherin.com/jobs/43913/bank-of-america/chief-people-organization-summer-2027-analyst-chester) |
 | P1 | ratemyplacement | Global Technology Cyber Security Summer 2027 Analyst - Chester Bank of America Deadline: 1 | summer | 2026-10-11 | yes | check | 2026-10-10 | [open](https://higherin.com/jobs/43907/bank-of-america/global-technology-cyber-security-summer-2027-analyst-chester) |
 | P1 | ratemyplacement | Global Research 2027 Summer Analyst - London Bank of America Deadline: 11th October 2026 I | summer | 2026-10-11 | yes | check | 2026-10-10 | [open](https://higherin.com/jobs/43882/bank-of-america/global-research-2027-summer-analyst-london) |
+| P1 | ratemyplacement | Global Operations - Operations Analyst Summer 2027 - London Bank of America Deadline: 11th | summer | 2026-10-11 | yes | check | 2026-10-11 | [open](https://higherin.com/jobs/43897/bank-of-america/global-operations-operations-analyst-summer-2027-london) |
 | P1 | J.P. Morgan | 2027 Asset Management Investments- Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Corporate Banking Analyst Program - Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775320/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Private Bank - Investment Solutions Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -601,4 +602,3 @@
 | P3 | Morgan Stanley | 2027 Finance Summer Analyst Programme | summer | ? |  | check | 2026-10-07 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-4213b0aec668/candidate/so/pm/1/pl/1/opp/21490-2027-Finance-Summer-Analyst-Programme-Glasgow/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | NatWest Markets | NatWest Markets - Front Office - Internship | summer_likely | ? |  | check | 2026-09-28 | [open](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/NatWest-Markets---Front-Office---Internship_R-00285740?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | NatWest Markets | Corporate and Institutional Banking - Internship | summer_likely | ? |  | check | 2026-09-28 | [open](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/Corporate-and-Institutional-Banking---Internship_R-00285739?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
-| P3 | NatWest Markets | NatWest Markets - Quantitative Analytics - Internship | summer_likely | ? |  | check | 2026-09-28 | [open](https://rbs.wd3.myworkdayjobs.com/en-US/RBS/job/NatWest-Markets---Quantitative-Analytics--Internship_R-00285741?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |

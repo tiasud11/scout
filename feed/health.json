@@ -1,8 +1,8 @@
 {
- "run": "2026-10-10 21:00",
+ "run": "2026-10-11 09:26",
  "haiku": false,
- "opened": 0,
- "new": 0,
+ "opened": 1,
+ "new": 1,
  "sources": [
   {
    "source": "hsbc",
@@ -304,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -408,7 +408,7 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 418
+   "items": 419
   },
   {
    "source": "targetjobs",
