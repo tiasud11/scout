@@ -10250,5 +10250,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "14ff84247615e995",
+  "firm": "RBC Capital Markets",
+  "role_title": "2027 Summer Analyst - Quantitative Analyst",
+  "division": "",
+  "location": "",
+  "url": "https://rbccmgraduates.gtisolutions.co.uk/2027-summer-analyst---quantitative-analyst/407/viewdetails?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-summer",
+  "date_posted": "2026-10-12T00:00:00.000Z",
+  "date_found": "2026-10-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "ea35f2d229669cd2",
+  "firm": "targetjobs",
+  "role_title": "Edinburgh Consulting Graduate Programme 2027 - 2028",
+  "division": "",
+  "location": "Edinburgh",
+  "url": "https://accenture.pinpointhq.com/postings/33a5dab2-7cc0-464b-8b5c-93c4f2aa595b?utm_medium=paid_job_board&utm_source=FY27+Edinburgh+Consulting+GTI",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "7189861310ca16e3",
+  "firm": "targetjobs",
+  "role_title": "KPMG 2027 Audit Graduate Programme - Midlands",
+  "division": "",
+  "location": "Birmingham, Nottingham",
+  "url": "https://www.kpmgcareers.co.uk/graduate/audit/audit/?utm_source=targetjobs&utm_medium=media-listing&utm_campaign=ps_sr27-grad-core&utm_content=audit-grad_grad_geo-midlands_text_na_oct26",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

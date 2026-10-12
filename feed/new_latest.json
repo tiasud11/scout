@@ -1,13 +1,13 @@
 {
- "run": "2026-10-12 15:12",
+ "run": "2026-10-12 21:03",
  "roles": [
   {
-   "id": "0d75a6837e903260",
+   "id": "659c6b8af6745100",
    "firm": "ING",
-   "role_title": "Internship Customer Experience & Customer Journey Expert",
+   "role_title": "AI Intern",
    "division": "",
    "location": "",
-   "url": "https://www.ing.jobs/en/job/leeuwarden/internship-customer-experience-and-customer-journey-expert/3121/45842421888",
+   "url": "https://www.ing.jobs/en/job/brussels/ai-intern/3121/45859096384",
    "source": "ing",
    "date_posted": null,
    "date_found": "2026-10-12",
@@ -25,15 +25,15 @@
    "injection_suspect": false,
    "classified_by": "rules",
    "priority": "P3",
-   "posting_text": "feed/postings/0d75a6837e903260.txt"
+   "posting_text": "feed/postings/659c6b8af6745100.txt"
   },
   {
-   "id": "4dc79cca05085d64",
+   "id": "2cf1d327800df064",
    "firm": "M&G",
-   "role_title": "View press release",
+   "role_title": "Read more",
    "division": "",
    "location": "London",
-   "url": "https://www.mandg.com/news-and-insights/press-releases/2026/12-10-2026",
+   "url": "https://www.mandg.com/news-and-insights/views-and-insights/2026/asset-management-colleague-engagement-focuses-on-growth-confidence-group-collab",
    "source": "mandg",
    "date_posted": null,
    "date_found": "2026-10-12",
@@ -50,15 +50,40 @@
    "injection_suspect": false,
    "classified_by": "rules",
    "priority": "P3",
-   "posting_text": "feed/postings/4dc79cca05085d64.txt"
+   "posting_text": "feed/postings/2cf1d327800df064.txt"
   },
   {
-   "id": "f87b3a20f7cfb21b",
+   "id": "91c5ef00fd48489f",
+   "firm": "M&G",
+   "role_title": "Read more",
+   "division": "",
+   "location": "London",
+   "url": "https://www.mandg.com/news-and-insights/views-and-insights/2026/how-pension-savers-money-can-support-uk-growth-innovation-and-jobs",
+   "source": "mandg",
+   "date_posted": null,
+   "date_found": "2026-10-12",
+   "deadline": null,
+   "rolling": false,
+   "type": "unknown",
+   "eligibility": "check",
+   "eligibility_notes": [
+    "programme type not explicit, confirm summer 2027 or spring 2027",
+    "no programme year stated",
+    "graduation year not stated"
+   ],
+   "ai_policy": null,
+   "injection_suspect": false,
+   "classified_by": "rules",
+   "priority": "P3",
+   "posting_text": "feed/postings/91c5ef00fd48489f.txt"
+  },
+  {
+   "id": "cd15685be4c8cf36",
    "firm": "Wise",
-   "role_title": "Technical Program Manager",
+   "role_title": "KYC Operations Senior Analyst - Deactivations",
    "division": "",
    "location": "",
-   "url": "https://wise.jobs/job/technical-program-manager-in-hyderabad-jid-4230",
+   "url": "https://wise.jobs/job/kyc-operations-senior-analyst-deactivations-in-budapest-jid-4306",
    "source": "wise",
    "date_posted": null,
    "date_found": "2026-10-12",
@@ -69,46 +94,65 @@
    "eligibility_notes": [
     "programme type not explicit, confirm summer 2027 or spring 2027",
     "no programme year stated",
-    "graduation year not stated"
+    "graduation year not stated",
+    "location not stated"
    ],
    "ai_policy": null,
    "injection_suspect": false,
    "classified_by": "rules",
    "priority": "P3",
-   "posting_text": "feed/postings/f87b3a20f7cfb21b.txt"
+   "posting_text": "feed/postings/cd15685be4c8cf36.txt"
   },
   {
-   "id": "ba2ab35bb4feb698",
-   "firm": "trackr-summer",
-   "role_title": "Mako Summer Internship – Trading",
+   "id": "89b7142af2f91450",
+   "firm": "Morgan Stanley",
+   "role_title": "2027 Summer Analyst Programme - Office of the COO",
    "division": "",
    "location": "London",
-   "url": "https://www.mako.com/opportunities/job-listing?gh_jid=8883121002&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22272-2027-Investment-Management-Summer-Analyst-Programme-Office-of-the-COO-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
    "source": "trackr-summer",
-   "date_posted": null,
+   "date_posted": "2026-10-12T00:00:00.000Z",
    "date_found": "2026-10-12",
    "deadline": null,
-   "rolling": false,
+   "rolling": true,
    "type": "summer",
-   "eligibility": "check",
-   "eligibility_notes": [
-    "no programme year stated",
-    "graduation year not stated"
-   ],
+   "eligibility": "eligible",
+   "eligibility_notes": [],
    "ai_policy": null,
    "injection_suspect": false,
    "classified_by": "rules",
-   "priority": "P3",
-   "posting_text": "feed/postings/ba2ab35bb4feb698.txt"
+   "priority": "P1",
+   "posting_text": "feed/postings/89b7142af2f91450.txt"
   },
   {
-   "id": "fb4200f06d5cff10",
-   "firm": "ratemyplacement",
-   "role_title": "110",
+   "id": "3662ee33148d75ba",
+   "firm": "Morgan Stanley",
+   "role_title": "2027 Summer Analyst Programme - Real Assets",
    "division": "",
    "location": "London",
-   "url": "https://www.ratemyplacement.co.uk/search-jobs?page=110",
-   "source": "ratemyplacement",
+   "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22304-2027-Investment-Management-Summer-Analyst-Programme-Real-Assets-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+   "source": "trackr-summer",
+   "date_posted": "2026-10-12T00:00:00.000Z",
+   "date_found": "2026-10-12",
+   "deadline": null,
+   "rolling": true,
+   "type": "summer",
+   "eligibility": "eligible",
+   "eligibility_notes": [],
+   "ai_policy": null,
+   "injection_suspect": false,
+   "classified_by": "rules",
+   "priority": "P1",
+   "posting_text": "feed/postings/3662ee33148d75ba.txt"
+  },
+  {
+   "id": "da0876533a65a080",
+   "firm": "targetjobs",
+   "role_title": "Camp America Camp Counsellor jobs in the USA 2027",
+   "division": "",
+   "location": "London",
+   "url": "https://www.campamerica.co.uk/target-jobs",
+   "source": "targetjobs",
    "date_posted": null,
    "date_found": "2026-10-12",
    "deadline": null,
@@ -117,14 +161,13 @@
    "eligibility": "check",
    "eligibility_notes": [
     "programme type not explicit, confirm summer 2027 or spring 2027",
-    "no programme year stated",
     "graduation year not stated"
    ],
    "ai_policy": null,
    "injection_suspect": false,
    "classified_by": "rules",
    "priority": "P3",
-   "posting_text": "feed/postings/fb4200f06d5cff10.txt"
+   "posting_text": "feed/postings/da0876533a65a080.txt"
   }
  ]
 }

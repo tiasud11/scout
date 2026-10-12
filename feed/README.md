@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-12 15:12 UK
+# Scout feed, last run 2026-10-12 21:03 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -135,6 +135,8 @@
 | P1 | Monzo | Strategic Innovation Lead, Operations | unknown | ? | yes | check | 2026-09-24 | [open](https://job-boards.greenhouse.io/monzo/jobs/8231337) |
 | P1 | Morgan Stanley | 2027 Global Sales & Marketing Summer Analyst Programme | summer | ? | yes | eligible | 2026-10-07 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-4213b0aec668/candidate/so/pm/1/pl/1/opp/22262-2027-Investment-Management-Summer-Analyst-Programme-Global-Sales-and-Marketing-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Morgan Stanley | 2027 Investment Management Summer Analyst Programme - Fixed Income | summer | ? | yes | eligible | 2026-10-09 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22271-2027-Investment-Management-Summer-Analyst-Programme-Fixed-Income-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | Morgan Stanley | 2027 Summer Analyst Programme - Office of the COO | summer | ? | yes | eligible | 2026-10-12 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22272-2027-Investment-Management-Summer-Analyst-Programme-Office-of-the-COO-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | Morgan Stanley | 2027 Summer Analyst Programme - Real Assets | summer | ? | yes | eligible | 2026-10-12 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22304-2027-Investment-Management-Summer-Analyst-Programme-Real-Assets-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | PwC | Undergraduate Work Placement | unknown | ? | yes | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/undergraduate/undergraduate-work-placement.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P1 | jointheintake | Spring weeks | unknown | ? | yes | check | 2026-09-23 | [open](https://www.jointheintake.com/spring-weeks) |
 | P1 | targetjobs | Global Research 2027 Summer Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774171;455008071;k) |
@@ -358,6 +360,7 @@
 | P3 | ING | Client Services Payment Capability – Analyst | unknown | ? |  | check | 2026-10-09 | [open](https://www.ing.jobs/en/job/makati-city/client-services-payment-capability-analyst/3121/45720811264) |
 | P3 | ING | Business Analyst Cash & Liquidity Management @ING Hubs Romania | unknown | ? |  | check | 2026-10-09 | [open](https://www.ing.jobs/en/job/bucharest/business-analyst-cash-and-liquidity-management-ing-hubs-romania/3121/39435406720) |
 | P3 | ING | Internship Customer Experience & Customer Journey Expert | summer_likely | ? |  | check | 2026-10-12 | [open](https://www.ing.jobs/en/job/leeuwarden/internship-customer-experience-and-customer-journey-expert/3121/45842421888) |
+| P3 | ING | AI Intern | summer_likely | ? |  | check | 2026-10-12 | [open](https://www.ing.jobs/en/job/brussels/ai-intern/3121/45859096384) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -510,6 +513,8 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-07 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/07-10-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-09 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/09-10-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/12-10-2026) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/asset-management-colleague-engagement-focuses-on-growth-confidence-group-collab) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/how-pension-savers-money-can-support-uk-growth-innovation-and-jobs) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -597,8 +602,3 @@
 | P3 | Monzo | Director of Group Operations Strategy & Development  | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8220713) |
 | P3 | Monzo | Regulatory Reporting Analyst | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195436) |
 | P3 | Monzo | Tech Recruitment Manager | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8051090) |
-| P3 | Monzo | Data Director, EU | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8258208) |
-| P3 | Monzo | Senior Service Analyst, Workforce Management | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8261197) |
-| P3 | Monzo | Senior Strategy and Operations Manager | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8105912) |
-| P3 | Monzo | Senior Financial Reporting Analyst | unknown | ? |  | check | 2026-10-09 | [open](https://job-boards.greenhouse.io/monzo/jobs/8071017) |
-| P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
