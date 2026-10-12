@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-12 09:32 UK
+# Scout feed, last run 2026-10-12 15:12 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | P3 | ING | Internship ING Corporate Finance | summer_likely | ? |  | check | 2026-10-08 | [open](https://www.ing.jobs/en/job/amsterdam/internship-ing-corporate-finance/3121/45704839232) |
 | P3 | ING | Client Services Payment Capability – Analyst | unknown | ? |  | check | 2026-10-09 | [open](https://www.ing.jobs/en/job/makati-city/client-services-payment-capability-analyst/3121/45720811264) |
 | P3 | ING | Business Analyst Cash & Liquidity Management @ING Hubs Romania | unknown | ? |  | check | 2026-10-09 | [open](https://www.ing.jobs/en/job/bucharest/business-analyst-cash-and-liquidity-management-ing-hubs-romania/3121/39435406720) |
+| P3 | ING | Internship Customer Experience & Customer Journey Expert | summer_likely | ? |  | check | 2026-10-12 | [open](https://www.ing.jobs/en/job/leeuwarden/internship-customer-experience-and-customer-journey-expert/3121/45842421888) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -508,6 +509,7 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026b) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-07 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/07-10-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-09 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/09-10-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/12-10-2026) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -600,5 +602,3 @@
 | P3 | Monzo | Senior Strategy and Operations Manager | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8105912) |
 | P3 | Monzo | Senior Financial Reporting Analyst | unknown | ? |  | check | 2026-10-09 | [open](https://job-boards.greenhouse.io/monzo/jobs/8071017) |
 | P3 | Morgan Stanley | 2027 Internal Audit Summer Analyst Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21505-2027-Internal-Audit-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
-| P3 | Morgan Stanley | 2027 Global Capital Markets Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21776-2027-Global-Capital-Markets-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
-| P3 | Morgan Stanley | 2027 Investment Banking Summer Analyst Programme | summer | ? |  | check | 2026-09-21 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-854c2833f441/candidate/so/pm/1/pl/1/opp/21774-2027-Investment-Banking-Summer-Analyst-Programme-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |

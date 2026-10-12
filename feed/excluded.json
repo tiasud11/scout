@@ -10228,5 +10228,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P1"
+ },
+ {
+  "id": "8f62b7faee07f069",
+  "firm": "trackr-summer",
+  "role_title": "Market & Banking Finance Accelerator",
+  "division": "",
+  "location": "London",
+  "url": "https://amplifyme.com/for-learners/finance-accelerator-free-experience",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-10-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2026, 2026), (2026, 2026)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

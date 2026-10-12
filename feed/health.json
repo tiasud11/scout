@@ -1,7 +1,7 @@
 {
- "run": "2026-10-12 09:32",
+ "run": "2026-10-12 15:12",
  "haiku": false,
- "opened": 25,
+ "opened": 6,
  "new": 5,
  "sources": [
   {
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 18
+   "items": 20
   },
   {
    "source": "natixis",
@@ -134,8 +134,8 @@
   },
   {
    "source": "permira",
-   "ok": false,
-   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
+   "ok": true,
+   "items": 8
   },
   {
    "source": "warburg-pincus",
@@ -274,7 +274,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 52
+   "items": 163
   },
   {
    "source": "ey",
@@ -362,7 +362,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 67
+   "items": 66
   },
   {
    "source": "starling",
@@ -387,7 +387,7 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 465
+   "items": 467
   },
   {
    "source": "trackr-spring",
@@ -403,8 +403,7 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",
