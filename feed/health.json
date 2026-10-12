@@ -1,8 +1,8 @@
 {
- "run": "2026-10-11 21:00",
+ "run": "2026-10-12 09:32",
  "haiku": false,
- "opened": 2,
- "new": 1,
+ "opened": 25,
+ "new": 5,
  "sources": [
   {
    "source": "hsbc",
@@ -134,8 +134,8 @@
   },
   {
    "source": "permira",
-   "ok": true,
-   "items": 8
+   "ok": false,
+   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
   },
   {
    "source": "warburg-pincus",
@@ -274,12 +274,12 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 163
+   "items": 52
   },
   {
    "source": "ey",
    "ok": true,
-   "items": 24
+   "items": 23
   },
   {
    "source": "kpmg",
@@ -362,7 +362,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 68
+   "items": 67
   },
   {
    "source": "starling",
@@ -382,7 +382,7 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 31
+   "items": 29
   },
   {
    "source": "trackr-summer",
@@ -392,7 +392,7 @@
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 95
+   "items": 97
   },
   {
    "source": "brightnetwork-finance",
@@ -403,12 +403,13 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 4
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 419
+   "items": 416
   },
   {
    "source": "targetjobs",
