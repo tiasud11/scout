@@ -10558,5 +10558,49 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P1"
+ },
+ {
+  "id": "311aabbb36bdd675",
+  "firm": "State Street",
+  "role_title": "Institutional Investor Indicators: September 2026 September marked the end of a five-month run of institutional risk-taking, with investors shifting away from equities and toward fixed income. Learn more",
+  "division": "",
+  "location": "",
+  "url": "https://www.statestreet.com/us/en/insights/institutional-investor-indicators-september-2026",
+  "source": "state-street",
+  "date_posted": null,
+  "date_found": "2026-10-13",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "ff756189f2d5c951",
+  "firm": "GoCardless",
+  "role_title": "US Chief Compliance Officer - Remote",
+  "division": "",
+  "location": "Remote, USA",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8267159",
+  "source": "gocardless",
+  "date_posted": "2026-10-13",
+  "date_found": "2026-10-13",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Remote, USA' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
