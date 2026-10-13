@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-12 21:03 UK
+# Scout feed, last run 2026-10-13 09:29 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -52,6 +52,13 @@
 | P1 | ratemyplacement | Global Research 2027 Summer Analyst - London Bank of America Deadline: 11th October 2026 I | summer | 2026-10-11 | yes | check | 2026-10-10 | [open](https://higherin.com/jobs/43882/bank-of-america/global-research-2027-summer-analyst-london) |
 | P1 | ratemyplacement | Global Operations - Operations Analyst Summer 2027 - London Bank of America Deadline: 11th | summer | 2026-10-11 | yes | check | 2026-10-11 | [open](https://higherin.com/jobs/43897/bank-of-america/global-operations-operations-analyst-summer-2027-london) |
 | P1 | ratemyplacement | Birmingham Discovery Insight Day 2027 DLA Piper Deadline: 12th October 2026 Start Date: 20 | spring | 2026-10-12 | yes | eligible | 2026-10-12 | [open](https://higherin.com/jobs/43983/dla-piper/birmingham-discovery-insight-day-2027) |
+| P1 | ratemyplacement | Summer Internships 2027 Howden Deadline: 13th October 2026 Internship (1 Month+) London | summer | 2026-10-13 | yes | eligible | 2026-10-13 | [open](https://higherin.com/jobs/44435/howden/summer-internships-2027) |
+| P1 | ratemyplacement | Edinburgh Discovery Insight Day 2027 DLA Piper Deadline: 14th October 2026 Start Date: 22n | spring | 2026-10-14 | yes | eligible | 2026-10-13 | [open](https://higherin.com/jobs/43984/dla-piper/edinburgh-discovery-insight-day-2027) |
+| P1 | ratemyplacement | Technology Placement 2027 Unilever Deadline: 15th October 2026 Placement (10 Months+) £27, | unknown | 2026-10-15 | yes | check | 2026-10-13 | [open](https://higherin.com/jobs/45120/unilever/technology-placement-2027) |
+| P1 | ratemyplacement | Supply Chain Non-Technical Placement 2027 Unilever Deadline: 15th October 2026 Placement ( | unknown | 2026-10-15 | yes | check | 2026-10-13 | [open](https://higherin.com/jobs/44350/unilever/supply-chain-non-technical-placement-2027) |
+| P1 | ratemyplacement | Legal Placement 2027 Unilever Deadline: 15th October 2026 Placement (10 Months+) £27,898 p | unknown | 2026-10-15 | yes | check | 2026-10-13 | [open](https://higherin.com/jobs/44357/unilever/legal-placement-2027) |
+| P1 | ratemyplacement | London Solicitor Apprentice Insight Event 2027 RPC Deadline: 15th October 2026 Start Date: | spring | 2026-10-15 | yes | eligible | 2026-10-13 | [open](https://higherin.com/jobs/43860/rpc/london-solicitor-apprentice-insight-event-2027) |
+| P1 | ING | Customer Insights Analyst | unknown | 2026-10-20 |  | check | 2026-10-13 | [open](https://www.ing.jobs/en/job/sydney/customer-insights-analyst/3121/43479907328) |
 | P1 | J.P. Morgan | 2027 Asset Management Investments- Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Corporate Banking Analyst Program - Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775320/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Private Bank - Investment Solutions Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -595,10 +602,3 @@
 | P3 | Monzo | Fraud Investigator, Part Time Team | unknown | ? |  | check | 2026-09-29 | [open](https://job-boards.greenhouse.io/monzo/jobs/8239234) |
 | P3 | Monzo | Senior Data Scientist | unknown | ? |  | check | 2026-09-29 | [open](https://job-boards.greenhouse.io/monzo/jobs/6180814) |
 | P3 | Monzo | Data Scientist, L30 | unknown | ? |  | check | 2026-09-30 | [open](https://job-boards.greenhouse.io/monzo/jobs/8242603) |
-| P3 | Monzo | Staff Data Scientist | unknown | ? |  | check | 2026-09-30 | [open](https://job-boards.greenhouse.io/monzo/jobs/8232732) |
-| P3 | Monzo | Product Director, Flex (Borrowing)  | unknown | ? |  | check | 2026-10-01 | [open](https://job-boards.greenhouse.io/monzo/jobs/7775842) |
-| P3 | Monzo | Senior Financial Control Analyst  | unknown | ? |  | check | 2026-10-02 | [open](https://job-boards.greenhouse.io/monzo/jobs/8158933) |
-| P3 | Monzo | Controls Product Senior Manager | unknown | ? |  | check | 2026-10-02 | [open](https://job-boards.greenhouse.io/monzo/jobs/8245673) |
-| P3 | Monzo | Director of Group Operations Strategy & Development  | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8220713) |
-| P3 | Monzo | Regulatory Reporting Analyst | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195436) |
-| P3 | Monzo | Tech Recruitment Manager | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/monzo/jobs/8051090) |
