@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-13 15:05 UK
+# Scout feed, last run 2026-10-13 21:17 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | P1 | ratemyplacement | Legal Placement 2027 Unilever Deadline: 15th October 2026 Placement (10 Months+) £27,898 p | unknown | 2026-10-15 | yes | check | 2026-10-13 | [open](https://higherin.com/jobs/44357/unilever/legal-placement-2027) |
 | P1 | ratemyplacement | London Solicitor Apprentice Insight Event 2027 RPC Deadline: 15th October 2026 Start Date: | spring | 2026-10-15 | yes | eligible | 2026-10-13 | [open](https://higherin.com/jobs/43860/rpc/london-solicitor-apprentice-insight-event-2027) |
 | P1 | ING | Customer Insights Analyst | unknown | 2026-10-20 |  | check | 2026-10-13 | [open](https://www.ing.jobs/en/job/sydney/customer-insights-analyst/3121/43479907328) |
+| P1 | trackr-summer | Investment Banking Summer Internship 2027 | summer | 2026-10-23 |  | check | 2026-10-13 | [open](https://www.linkedin.com/jobs/view/4477992970/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | J.P. Morgan | 2027 Asset Management Investments- Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Corporate Banking Analyst Program - Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775320/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P1 | J.P. Morgan | 2027 Global Private Bank - Investment Solutions Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774281/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -368,6 +369,8 @@
 | P3 | ING | Business Analyst Cash & Liquidity Management @ING Hubs Romania | unknown | ? |  | check | 2026-10-09 | [open](https://www.ing.jobs/en/job/bucharest/business-analyst-cash-and-liquidity-management-ing-hubs-romania/3121/39435406720) |
 | P3 | ING | Internship Customer Experience & Customer Journey Expert | summer_likely | ? |  | check | 2026-10-12 | [open](https://www.ing.jobs/en/job/leeuwarden/internship-customer-experience-and-customer-journey-expert/3121/45842421888) |
 | P3 | ING | AI Intern | summer_likely | ? |  | check | 2026-10-12 | [open](https://www.ing.jobs/en/job/brussels/ai-intern/3121/45859096384) |
+| P3 | ING | Internship Financial Institutions Lending | summer_likely | ? |  | check | 2026-10-13 | [open](https://www.ing.jobs/en/job/amsterdam/internship-financial-institutions-lending/3121/45898391424) |
+| P3 | ING | Internship Global Client Tax Services | summer_likely | ? |  | check | 2026-10-13 | [open](https://www.ing.jobs/en/job/amsterdam/internship-global-client-tax-services/3121/45898391104) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -522,6 +525,7 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/12-10-2026) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/asset-management-colleague-engagement-focuses-on-growth-confidence-group-collab) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/how-pension-savers-money-can-support-uk-growth-innovation-and-jobs) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-10-13 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/world-homelessness-day) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -598,7 +602,3 @@
 | P3 | Monzo | Senior Financial Crime Investigator, EU | unknown | ? |  | check | 2026-09-24 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222678) |
 | P3 | Monzo | Credit Bureau Relationship Manager | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/monzo/jobs/8207588) |
 | P3 | Monzo | Savings Pricing Manager | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/monzo/jobs/8232647) |
-| P3 | Monzo | Credit Risk Oversight Manager | unknown | ? |  | check | 2026-09-28 | [open](https://job-boards.greenhouse.io/monzo/jobs/8236487) |
-| P3 | Monzo | Fraud Investigator, Part Time Team | unknown | ? |  | check | 2026-09-29 | [open](https://job-boards.greenhouse.io/monzo/jobs/8239234) |
-| P3 | Monzo | Senior Data Scientist | unknown | ? |  | check | 2026-09-29 | [open](https://job-boards.greenhouse.io/monzo/jobs/6180814) |
-| P3 | Monzo | Data Scientist, L30 | unknown | ? |  | check | 2026-09-30 | [open](https://job-boards.greenhouse.io/monzo/jobs/8242603) |
