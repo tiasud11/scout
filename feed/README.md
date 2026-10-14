@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-14 09:42 UK
+# Scout feed, last run 2026-10-14 15:16 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | P2 | Monzo | Vulnerability, Accessibility & Inclusion Lead | unknown | 2026-10-21 |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/monzo/jobs/8260834) |
 | P2 | ING | Campaign & Regulatory Communications Analyst | unknown | 2026-10-23 |  | check | 2026-10-09 | [open](https://www.ing.jobs/en/job/sydney/campaign-and-regulatory-communications-analyst/3121/42678268544) |
 | P2 | targetjobs | Enterprise Skills Accelerator - UK | unknown | 2026-10-30 |  | check | 2026-10-03 | [open](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Enterprise-Skills-Accelerator---UK_JR6160581?source=APPLICANT_SOURCE-3-1204&utm_source=clo_targetjobs&utm_medium=paid) |
+| P2 | trackr-summer | Summer Internship | summer | 2026-10-30 |  | check | 2026-10-14 | [open](https://apply.workable.com/j/B4C2F9E69A?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
@@ -601,4 +602,3 @@
 | P3 | Monzo | Treasury Analyst  | unknown | ? |  | check | 2026-09-23 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223173) |
 | P3 | Monzo | Senior Financial Crime Investigator, EU | unknown | ? |  | check | 2026-09-24 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222678) |
 | P3 | Monzo | Credit Bureau Relationship Manager | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/monzo/jobs/8207588) |
-| P3 | Monzo | Savings Pricing Manager | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/monzo/jobs/8232647) |

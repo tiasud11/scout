@@ -10712,5 +10712,27 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "8ddfe7bbbe685a74",
+  "firm": "Brookfield",
+  "role_title": "Commentary Oct 2026 What is asset-backed finance?",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/what-is-asset-backed-finance",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-10-14",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

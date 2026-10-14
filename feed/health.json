@@ -1,8 +1,8 @@
 {
- "run": "2026-10-14 09:42",
+ "run": "2026-10-14 15:16",
  "haiku": false,
- "opened": 5,
- "new": 0,
+ "opened": 7,
+ "new": 6,
  "sources": [
   {
    "source": "hsbc",
@@ -161,7 +161,7 @@
   {
    "source": "brookfield",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "source": "partners-group",
@@ -362,7 +362,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 67
+   "items": 66
   },
   {
    "source": "starling",
@@ -387,12 +387,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 474
+   "items": 483
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 99
+   "items": 101
   },
   {
    "source": "brightnetwork-finance",
@@ -409,7 +409,7 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 413
+   "items": 414
   },
   {
    "source": "targetjobs",
