@@ -1,8 +1,8 @@
 {
- "run": "2026-10-13 21:17",
+ "run": "2026-10-14 09:42",
  "haiku": false,
- "opened": 6,
- "new": 6,
+ "opened": 5,
+ "new": 0,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 22
+   "items": 18
   },
   {
    "source": "natixis",
@@ -254,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -334,7 +334,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 15
+   "items": 12
   },
   {
    "source": "beazley",
@@ -387,7 +387,7 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 472
+   "items": 474
   },
   {
    "source": "trackr-spring",
@@ -409,7 +409,7 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 409
+   "items": 413
   },
   {
    "source": "targetjobs",

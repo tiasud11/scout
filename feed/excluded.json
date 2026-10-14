@@ -10602,5 +10602,115 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "f12e404409df0d5d",
+  "firm": "trackr-summer",
+  "role_title": "Quant Research Intern (Summer 2027 – London)",
+  "division": "",
+  "location": "",
+  "url": "https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/Quant-Research-Intern--Summer-2027---London-_JR100620-2?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-10-14",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "ad8de5445068bcf7",
+  "firm": "ratemyplacement",
+  "role_title": "View Job",
+  "division": "",
+  "location": "London",
+  "url": "https://higherin.com/jobs/45290/deloitte/deloitte-legal-training-contract-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-14",
+  "deadline": "2026-10-16",
+  "rolling": true,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027), (2027, 2027), (2027, 2027), (2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "761daff136ee6be4",
+  "firm": "ratemyplacement",
+  "role_title": "Deloitte Legal Training Contract 2027 Deloitte Deadline: 16th October 2026 Graduate Scheme London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45263/deloitte/deloitte-legal-training-contract-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-14",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "582664b58db2fa5f",
+  "firm": "ratemyplacement",
+  "role_title": "Audit BrightStart Higher Apprenticeship - Birmingham Deloitte Deadline: 16th October 2026 Start Date: 2027-09-01 Level 4/5 Apprenticeship Birmingham",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45311/deloitte/audit-brightstart-higher-apprenticeship-birmingham",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-14",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "26608336fe6e54d5",
+  "firm": "ratemyplacement",
+  "role_title": "Executive Reward Consulting Graduate 2027 Deloitte Deadline: 16th October 2026 Graduate Scheme London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45264/deloitte/executive-reward-consulting-graduate-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-14",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
