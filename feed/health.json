@@ -1,8 +1,8 @@
 {
- "run": "2026-10-15 09:41",
+ "run": "2026-10-15 21:16",
  "haiku": false,
- "opened": 14,
- "new": 9,
+ "opened": 20,
+ "new": 15,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 24
+   "items": 18
   },
   {
    "source": "natixis",
@@ -120,7 +120,7 @@
   {
    "source": "man-group",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "source": "cinven",
@@ -304,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -334,7 +334,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 15
+   "items": 20
   },
   {
    "source": "beazley",
@@ -362,7 +362,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 66
+   "items": 69
   },
   {
    "source": "starling",
@@ -387,12 +387,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 487
+   "items": 492
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 103
+   "items": 106
   },
   {
    "source": "brightnetwork-finance",
@@ -403,7 +403,8 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 4
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "ratemyplacement",

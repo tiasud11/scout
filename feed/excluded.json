@@ -10844,5 +10844,115 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "e5b4ba8174f24eba",
+  "firm": "HSBC",
+  "role_title": "Investment Banking - Corporate and Institutional Banking - Off-Cycle Internship (opens in new window)",
+  "division": "",
+  "location": "",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-Corporate-and-Institutional-Banking-Off-Cycle-Internship-E14-5HQ/1373577757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+  "source": "hsbc",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "off cycle in title"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "9e52ea570686f726",
+  "firm": "Wise",
+  "role_title": "Driving Product Decisions Through Data Insights",
+  "division": "",
+  "location": "London",
+  "url": "https://wise.jobs/blog/2026-10/driving-product-decisions-through-data-insights",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2022, 2022)] does not include 2028"
+  ],
+  "ai_policy": "While individual team members have made great strides adopting AI, there's even greater value in centralizing solutions for our common repetitive tasks and building a stronger foundation for our AI tools (such as enriching context within our semantic layer for AI agents).",
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "2811c5fb0084724e",
+  "firm": "ratemyplacement",
+  "role_title": "Graduate Environmental, Social Governance Consultant Arcadis Deadline: 16th October 2026 Graduate Scheme London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44117/arcadis/graduate-environmental-social-governance-consultant",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "e8ffc45b9c980f08",
+  "firm": "ratemyplacement",
+  "role_title": "Graduate Management Consultant Arcadis Deadline: 16th October 2026 Graduate Scheme Glasgow, Birmingham, Warrington, Leeds, Cardiff + 2 more.",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44132/arcadis/graduate-management-consultant",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "5189e204515ffdda",
+  "firm": "ratemyplacement",
+  "role_title": "Finance Industrial Placement Sizewell C Deadline: 16th October 2026 Placement (10 Months+) £28,500 per year London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45202/sizewell-c/finance-industrial-placement",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

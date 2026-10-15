@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-15 09:41 UK
+# Scout feed, last run 2026-10-15 21:16 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | P1 | ratemyplacement | Supply Chain Non-Technical Placement 2027 Unilever Deadline: 15th October 2026 Placement ( | unknown | 2026-10-15 | yes | check | 2026-10-13 | [open](https://higherin.com/jobs/44350/unilever/supply-chain-non-technical-placement-2027) |
 | P1 | ratemyplacement | Legal Placement 2027 Unilever Deadline: 15th October 2026 Placement (10 Months+) £27,898 p | unknown | 2026-10-15 | yes | check | 2026-10-13 | [open](https://higherin.com/jobs/44357/unilever/legal-placement-2027) |
 | P1 | ratemyplacement | London Solicitor Apprentice Insight Event 2027 RPC Deadline: 15th October 2026 Start Date: | spring | 2026-10-15 | yes | eligible | 2026-10-13 | [open](https://higherin.com/jobs/43860/rpc/london-solicitor-apprentice-insight-event-2027) |
+| P1 | ratemyplacement | Communications and Corporate Affairs Placement 2027 Unilever Deadline: 17th October 2026 P | unknown | 2026-10-17 | yes | check | 2026-10-15 | [open](https://higherin.com/jobs/45121/unilever/communications-and-corporate-affairs-placement-2027) |
 | P1 | ING | Customer Insights Analyst | unknown | 2026-10-20 |  | check | 2026-10-13 | [open](https://www.ing.jobs/en/job/sydney/customer-insights-analyst/3121/43479907328) |
 | P1 | trackr-summer | Investment Banking Summer Internship 2027 | summer | 2026-10-23 |  | check | 2026-10-13 | [open](https://www.linkedin.com/jobs/view/4477992970/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | J.P. Morgan | 2027 Asset Management Investments- Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -271,6 +272,12 @@
 | P3 | EY | Experienced professionals | unknown | ? |  | check | 2026-09-19 | [open](https://www.ey.com/en_uk/careers/what-you-can-do-here/experienced-programmes) |
 | P3 | EY | Early careers | unknown | ? |  | check | 2026-09-21 | [open](https://ukstudents.ey.com/) |
 | P3 | EY | UK bank lending growth to hit three-year low in 2027 as economic pressures weaken borrowin | unknown | ? |  | check | 2026-10-01 | [open](https://www.ey.com/en_uk/newsroom/2026/10/ey-uk-bank-lending-outlook) |
+| P3 | EY | Audit Summer Internship 2027 | summer | ? |  | check | 2026-10-15 | [open](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26business-area%5B%5D%3D59&paged=0&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | EY | Tax Summer Internship 2027 | summer | ? |  | check | 2026-10-15 | [open](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26business-area%5B%5D%3D42&paged=0&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | EY | Consulting Summer Internship 2027 | summer | ? |  | check | 2026-10-15 | [open](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26business-area%5B%5D%3D60&paged=0&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | EY | Discover EY – Women in Business – 2027 | unknown | ? |  | check | 2026-10-15 | [open](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D73%26sub-business-area%5B%5D%3D319&paged=0&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | EY | Discover EY – Social Mobility in Business – 2027 | unknown | ? |  | check | 2026-10-15 | [open](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D73%26sub-business-area%5B%5D%3D227&paged=0&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | EY | Discover EY – Black Heritage in Business – 2027 | unknown | ? |  | check | 2026-10-15 | [open](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D73%26sub-business-area%5B%5D%3D224&paged=0&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Evercore | Private Capital Advisory – GP Advisory Summer Internship | summer | ? |  | check | 2026-09-21 | [open](https://jobs.smartrecruiters.com/Wiser/744000143772490-private-capital-advisory-gp-advisory-summer-internship-evercore?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
 | P3 | FTI Consulting | Insights | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/insights) |
 | P3 | FTI Consulting | Dispute & Arbitration | unknown | ? |  | check | 2026-09-20 | [open](https://www.fticonsulting.com/services/dispute-advisory-and-international-arbitration) |
@@ -595,10 +602,3 @@
 | P3 | Monzo | Senior Regulatory Reporting Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8053177) |
 | P3 | Monzo | Senior Security Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8204229) |
 | P3 | Monzo | Senior Staff Backend Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6036797) |
-| P3 | Monzo | Senior Technical Program Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8083280) |
-| P3 | Monzo | Senior User Research Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8015240) |
-| P3 | Monzo | Staff Analytics Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8013699) |
-| P3 | Monzo | Staff Backend Engineer  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6636147) |
-| P3 | Monzo | Staff Product Designer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6994700) |
-| P3 | Monzo | Technical Recruiter | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195485) |
-| P3 | Monzo | Senior Workforce Management Analyst  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8203888) |
