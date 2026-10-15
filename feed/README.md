@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-14 15:16 UK
+# Scout feed, last run 2026-10-15 09:41 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -316,6 +316,8 @@
 | P3 | GoCardless | Solution Engineer II | unknown | ? |  | check | 2026-10-06 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8258303) |
 | P3 | GoCardless | Engineering Manager II | unknown | ? |  | check | 2026-10-07 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8261533) |
 | P3 | GoCardless | Data Science Manager | unknown | ? |  | check | 2026-10-09 | [open](https://job-boards.greenhouse.io/gocardless/jobs/7525953) |
+| P3 | GoCardless | Legal Counsel | unknown | ? |  | check | 2026-10-15 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8258602) |
+| P3 | GoCardless | Paralegal | unknown | ? |  | check | 2026-10-15 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8276080) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -372,6 +374,9 @@
 | P3 | ING | AI Intern | summer_likely | ? |  | check | 2026-10-12 | [open](https://www.ing.jobs/en/job/brussels/ai-intern/3121/45859096384) |
 | P3 | ING | Internship Financial Institutions Lending | summer_likely | ? |  | check | 2026-10-13 | [open](https://www.ing.jobs/en/job/amsterdam/internship-financial-institutions-lending/3121/45898391424) |
 | P3 | ING | Internship Global Client Tax Services | summer_likely | ? |  | check | 2026-10-13 | [open](https://www.ing.jobs/en/job/amsterdam/internship-global-client-tax-services/3121/45898391104) |
+| P3 | ING | BE Successions Analyst | unknown | ? |  | check | 2026-10-15 | [open](https://www.ing.jobs/en/job/makati-city/be-successions-analyst/3121/45954100160) |
+| P3 | ING | Intern, Compliance Singapore | summer_likely | ? |  | check | 2026-10-15 | [open](https://www.ing.jobs/en/job/singapore/intern-compliance-singapore/3121/45954100096) |
+| P3 | ING | Intern, Global Research | summer_likely | ? |  | check | 2026-10-15 | [open](https://www.ing.jobs/en/job/singapore/intern-global-research/3121/45954099776) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -527,6 +532,7 @@
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/asset-management-colleague-engagement-focuses-on-growth-confidence-group-collab) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/how-pension-savers-money-can-support-uk-growth-innovation-and-jobs) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-10-13 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/world-homelessness-day) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-15 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/15-10-2026-mg-acquires-153-new-homes-in-greater-paris-67million) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -596,9 +602,3 @@
 | P3 | Monzo | Staff Product Designer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6994700) |
 | P3 | Monzo | Technical Recruiter | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195485) |
 | P3 | Monzo | Senior Workforce Management Analyst  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8203888) |
-| P3 | Monzo | Staff Technical Program Manager, Operations | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222576) |
-| P3 | Monzo | Employee Relations Advisor | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223264) |
-| P3 | Monzo | Transfer Pricing Tax Manager  | unknown | ? |  | check | 2026-09-22 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223018) |
-| P3 | Monzo | Treasury Analyst  | unknown | ? |  | check | 2026-09-23 | [open](https://job-boards.greenhouse.io/monzo/jobs/8223173) |
-| P3 | Monzo | Senior Financial Crime Investigator, EU | unknown | ? |  | check | 2026-09-24 | [open](https://job-boards.greenhouse.io/monzo/jobs/8222678) |
-| P3 | Monzo | Credit Bureau Relationship Manager | unknown | ? |  | check | 2026-09-25 | [open](https://job-boards.greenhouse.io/monzo/jobs/8207588) |

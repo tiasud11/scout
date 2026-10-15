@@ -10734,5 +10734,115 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "ccb6889ed34811ac",
+  "firm": "HSBC",
+  "role_title": "Global Investment Research - Work Placement (opens in new window)",
+  "division": "",
+  "location": "London",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Global-Investment-Research-Work-Placement-E14-5HQ/1373586657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+  "source": "hsbc",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": true,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "109d31cbf9f44f33",
+  "firm": "Brookfield",
+  "role_title": "Commentary Oct 2026 Transport: The rewiring of global trade",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/transport-rewiring-global-trade",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "6d0e3dd69eb9cd85",
+  "firm": "ratemyplacement",
+  "role_title": "Intellectual Property Workshop Bristows Deadline: 16th October 2026 Insight / Vacation Scheme (< 4 Weeks) London",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/44073/bristows/intellectual-property-workshop",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "12edb64588630921",
+  "firm": "targetjobs",
+  "role_title": "2027 Summer Internship - Yorkshire (Leeds)",
+  "division": "",
+  "location": "Leeds",
+  "url": "https://careers.dlapiper.com/jobs/2026/8354-summer-internship-2027-yorkshire-leeds-office",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Leeds' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "85bddc397ef762ae",
+  "firm": "targetjobs",
+  "role_title": "Commercial Graduate (2 Year Placement)",
+  "division": "",
+  "location": "Walton-on-Thames",
+  "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkia-uk.hirehive.com%2Fcommercial-graduate-2-year-placement-walton-on-thames-u1rEcf%3Fsource%3DGTI&data=05%7C02%7Ctristan.luton%40groupgti.com%7C6536199cf2ee452baac408df0ce060dc%7C3b7a0241086246f7af0430c5b6cd57c4%7C1%7C0%7C639243830058351944%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=plQ8KLa2kgzC1UaqgJN3H1BdR4dxYeM7Zj5Rl1Ne0N8%3D&reserved=0",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-15",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Walton-on-Thames' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
