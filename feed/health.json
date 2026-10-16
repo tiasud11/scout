@@ -1,8 +1,8 @@
 {
- "run": "2026-10-15 21:16",
+ "run": "2026-10-16 09:35",
  "haiku": false,
- "opened": 20,
- "new": 15,
+ "opened": 7,
+ "new": 1,
  "sources": [
   {
    "source": "hsbc",
@@ -62,8 +62,7 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 10
   },
   {
    "source": "investec",
@@ -99,8 +98,7 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 6
   },
   {
    "source": "mandg",
@@ -120,7 +118,7 @@
   {
    "source": "man-group",
    "ok": true,
-   "items": 2
+   "items": 3
   },
   {
    "source": "cinven",
@@ -254,7 +252,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -304,7 +302,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -334,7 +332,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 20
+   "items": 14
   },
   {
    "source": "beazley",
@@ -403,8 +401,7 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",

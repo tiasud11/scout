@@ -32959,5 +32959,29 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/f5d85c4a60612469.txt"
+ },
+ {
+  "id": "e6aea5f5d17026e8",
+  "firm": "HSBC",
+  "role_title": "Relationship Management - Commercial Bank - Internship (opens in new window)",
+  "division": "",
+  "location": "",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/Reading-Relationship-Management-Commercial-Bank-Internship-RG1-2BU/1373607757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+  "source": "hsbc",
+  "date_posted": null,
+  "date_found": "2026-10-16",
+  "deadline": null,
+  "rolling": true,
+  "type": "summer_likely",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "location not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1",
+  "posting_text": "feed/postings/e6aea5f5d17026e8.txt"
  }
 ]

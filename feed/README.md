@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-15 21:16 UK
+# Scout feed, last run 2026-10-16 09:35 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | P1 | HSBC | Business Analyst - Operations - Internship (opens in new window) | summer_likely | ? | yes | check | 2026-10-12 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Business-Analyst-Operations-Internship-NY-14210/1374416257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
 | P1 | HSBC | Business Analyst - Operations - Internship (opens in new window) | summer_likely | ? | yes | check | 2026-10-12 | [open](https://apply.careers.hsbc.com/emergingtalent/job/New-York-Business-Analyst-Operations-Internship-NY-10001/1374416057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
 | P1 | HSBC | Investment Specialist - Business - Internship (opens in new window) | summer_likely | ? | yes | check | 2026-10-12 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Specialist-Business-Internship-Hong/1374417057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
+| P1 | HSBC | Relationship Management - Commercial Bank - Internship (opens in new window) | summer_likely | ? | yes | check | 2026-10-16 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Reading-Relationship-Management-Commercial-Bank-Internship-RG1-2BU/1373607757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
 | P1 | Hymans Robertson | Actuarial Consulting & Analytics: Summer Internship Programme | summer | ? | yes | check | 2026-10-01 | [open](https://hymans.current-vacancies.com/Jobs/Advert/4335929?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&cid=2054&t=Actuarial-Consulting-And-Analytics--Summer-Internship-Programme) |
 | P1 | Hymans Robertson | Pensions Governance & Investment Consulting: Summer Internship Programme | summer | ? | yes | check | 2026-10-01 | [open](https://hymans.current-vacancies.com/Jobs/Advert/4335935?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&cid=2054&t=Pensions-Governance-And-Investment-Consulting--Summer-Internship-Programme) |
 | P1 | ING | ING Financial Markets Internship Programme - Amsterdam | summer_likely | ? | yes | check | 2026-10-02 | [open](https://www.ing.jobs/en/job/amsterdam/ing-financial-markets-internship-programme-amsterdam/3121/45439484800) |
@@ -601,4 +602,3 @@
 | P3 | Monzo | Senior Product Marketing Manager, Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8121253) |
 | P3 | Monzo | Senior Regulatory Reporting Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8053177) |
 | P3 | Monzo | Senior Security Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8204229) |
-| P3 | Monzo | Senior Staff Backend Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6036797) |
