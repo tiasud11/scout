@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-16 09:35 UK
+# Scout feed, last run 2026-10-16 21:13 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -206,6 +206,8 @@
 | P3 | Ardian | PUBLICATIONS | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/publications) |
 | P3 | Ardian | EVENTS | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/conferences) |
 | P3 | Ardian | Press Releases | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/press-releases) |
+| P3 | Atlanta Wealth | Credit Analyst Internship Asset Management | summer_likely | ? |  | check | 2026-10-16 | [open](https://altanawealth.teamtailor.com/jobs/8554165-credit-analyst-internship-asset-management-london?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | Atlanta Wealth | Internship - Credit Analyst - Hedge Fund | summer_likely | ? |  | check | 2026-10-16 | [open](https://altanawealth.teamtailor.com/jobs/8556734-internship-credit-analyst-hedge-fund-london?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Aviva Investors | Skip to content | unknown | ? |  | check | 2026-09-19 | [open](https://www.avivainvestors.com/en-gb/careers/students-and-graduates/#main) |
 | P3 | BCG | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/students#skipToMainContent) |
 | P3 | BCG | Early Careers | unknown | ? |  | check | 2026-09-19 | [open](https://careers.bcg.com/global/en/early-careers) |
@@ -600,5 +602,3 @@
 | P3 | Monzo | Senior Product Director, Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7732437) |
 | P3 | Monzo | Senior Product Marketing Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7861991) |
 | P3 | Monzo | Senior Product Marketing Manager, Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8121253) |
-| P3 | Monzo | Senior Regulatory Reporting Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8053177) |
-| P3 | Monzo | Senior Security Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8204229) |

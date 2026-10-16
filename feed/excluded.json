@@ -11086,5 +11086,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "f44a7ffd301cada8",
+  "firm": "targetjobs",
+  "role_title": "Engineering – Year in Industry",
+  "division": "",
+  "location": "Aldermaston, Reading, Burghfield",
+  "url": "https://awepeople.wd3.myworkdayjobs.com/Grad_Careers/job/Reading-area/Year-in-Industry--Engineering_R30537?source=tjvacancy",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-16",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "0a7acb018796317f",
+  "firm": "targetjobs",
+  "role_title": "Marketing Industrial Placement 2027",
+  "division": "",
+  "location": "London",
+  "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcareers.loreal.com%2Fen%2Fjob%2Flondon%2Fmarketing-industrial-placement-2027%2F3456%2F45784492672&data=05%7C02%7Ctristan.luton%40groupgti.com%7Cdedf260f83e24d48a09208df2919b059%7C3b7a0241086246f7af0430c5b6cd57c4%7C1%7C0%7C639274863124407079%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=nQ588AxRLLdZIA5qsZpew7MoPNHvRxW8Rhh39rczMxw%3D&reserved=0",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-16",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "c30bdefd700ab3ee",
+  "firm": "targetjobs",
+  "role_title": "Digital Marketing Industrial Placement 2027 — 6 months",
+  "division": "",
+  "location": "London",
+  "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcareers.loreal.com%2Fen%2Fjob%2Flondon%2Fdigital-marketing-industrial-placement-2027-6-months%2F3456%2F45753681408&data=05%7C02%7Ctristan.luton%40groupgti.com%7Cdedf260f83e24d48a09208df2919b059%7C3b7a0241086246f7af0430c5b6cd57c4%7C1%7C0%7C639274863124545381%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=nW0VliXK8v7VdNFGTXgtakIocl%2FVppgvbXmzd09TXDw%3D&reserved=0",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-16",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

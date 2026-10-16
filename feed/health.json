@@ -1,8 +1,8 @@
 {
- "run": "2026-10-16 09:35",
+ "run": "2026-10-16 21:13",
  "haiku": false,
- "opened": 7,
- "new": 1,
+ "opened": 17,
+ "new": 14,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 18
+   "items": 20
   },
   {
    "source": "natixis",
@@ -62,7 +62,8 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 10
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "investec",
@@ -98,7 +99,8 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
@@ -252,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 52
+   "items": 49
   },
   {
    "source": "aviva-investors",
@@ -302,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -332,7 +334,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 14
+   "items": 17
   },
   {
    "source": "beazley",
@@ -360,7 +362,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 69
+   "items": 71
   },
   {
    "source": "starling",
@@ -385,12 +387,12 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 492
+   "items": 498
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 106
+   "items": 110
   },
   {
    "source": "brightnetwork-finance",
@@ -411,7 +413,7 @@
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 55
+   "items": 57
   },
   {
    "source": "jointheintake",
