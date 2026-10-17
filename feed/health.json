@@ -1,8 +1,8 @@
 {
- "run": "2026-10-17 09:35",
+ "run": "2026-10-17 15:09",
  "haiku": false,
- "opened": 20,
- "new": 9,
+ "opened": 0,
+ "new": 0,
  "sources": [
   {
    "source": "hsbc",
@@ -304,7 +304,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -403,8 +403,7 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "ratemyplacement",
