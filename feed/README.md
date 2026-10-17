@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-16 21:13 UK
+# Scout feed, last run 2026-10-17 09:35 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -59,6 +59,14 @@
 | P1 | ratemyplacement | Legal Placement 2027 Unilever Deadline: 15th October 2026 Placement (10 Months+) £27,898 p | unknown | 2026-10-15 | yes | check | 2026-10-13 | [open](https://higherin.com/jobs/44357/unilever/legal-placement-2027) |
 | P1 | ratemyplacement | London Solicitor Apprentice Insight Event 2027 RPC Deadline: 15th October 2026 Start Date: | spring | 2026-10-15 | yes | eligible | 2026-10-13 | [open](https://higherin.com/jobs/43860/rpc/london-solicitor-apprentice-insight-event-2027) |
 | P1 | ratemyplacement | Communications and Corporate Affairs Placement 2027 Unilever Deadline: 17th October 2026 P | unknown | 2026-10-17 | yes | check | 2026-10-15 | [open](https://higherin.com/jobs/45121/unilever/communications-and-corporate-affairs-placement-2027) |
+| P1 | ratemyplacement | Audit Analytics Summer Vacation Scheme 2027 - Bristol Deloitte Deadline: 18th October 2026 | summer | 2026-10-18 | yes | eligible | 2026-10-17 | [open](https://higherin.com/jobs/45318/deloitte/audit-analytics-summer-vacation-scheme-2027-bristol) |
+| P1 | ratemyplacement | IT Audit Summer Vacation Scheme 2027 - Bristol Deloitte Deadline: 18th October 2026 Insigh | summer | 2026-10-18 | yes | eligible | 2026-10-17 | [open](https://higherin.com/jobs/45319/deloitte/it-audit-summer-vacation-scheme-2027-bristol) |
+| P1 | ratemyplacement | IT Audit Summer Vacation Scheme 2027 - Manchester Deloitte Deadline: 18th October 2026 Ins | summer | 2026-10-18 | yes | eligible | 2026-10-17 | [open](https://higherin.com/jobs/45294/deloitte/it-audit-summer-vacation-scheme-2027-manchester) |
+| P1 | ratemyplacement | IT Audit Summer Vacation Scheme 2027 - Reading Deloitte Deadline: 18th October 2026 Insigh | summer | 2026-10-18 | yes | eligible | 2026-10-17 | [open](https://higherin.com/jobs/45307/deloitte/it-audit-summer-vacation-scheme-2027-reading) |
+| P1 | ratemyplacement | IT Audit Summer Vacation Scheme 2027 - Birmingham Deloitte Deadline: 18th October 2026 Ins | summer | 2026-10-18 | yes | eligible | 2026-10-17 | [open](https://higherin.com/jobs/45316/deloitte/it-audit-summer-vacation-scheme-2027-birmingham) |
+| P1 | ratemyplacement | Audit Analytics Summer Vacation Scheme 2027 - Birmingham Deloitte Deadline: 18th October 2 | summer | 2026-10-18 | yes | eligible | 2026-10-17 | [open](https://higherin.com/jobs/45314/deloitte/audit-analytics-summer-vacation-scheme-2027-birmingham) |
+| P1 | ratemyplacement | View Job | unknown | 2026-10-18 | yes | check | 2026-10-17 | [open](https://higherin.com/jobs/45289/deloitte/audit-analytics-summer-vacation-scheme-2027-manchester) |
+| P1 | ratemyplacement | Exterior Surface & Paint Centre Intern - Placement Year 2027 BMW Group UK Deadline: 18th O | summer_likely | 2026-10-18 | yes | check | 2026-10-17 | [open](https://higherin.com/jobs/45615/bmw-group-uk/exterior-surface-paint-centre-intern-placement-year-2027) |
 | P1 | ING | Customer Insights Analyst | unknown | 2026-10-20 |  | check | 2026-10-13 | [open](https://www.ing.jobs/en/job/sydney/customer-insights-analyst/3121/43479907328) |
 | P1 | trackr-summer | Investment Banking Summer Internship 2027 | summer | 2026-10-23 |  | check | 2026-10-13 | [open](https://www.linkedin.com/jobs/view/4477992970/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | J.P. Morgan | 2027 Asset Management Investments- Summer Internship | summer | 2026-11-01 | yes | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775295/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
@@ -594,11 +602,3 @@
 | P3 | Monzo | Senior Director of People Operations | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8195476) |
 | P3 | Monzo | Senior Engineering Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6394676) |
 | P3 | Monzo | Senior Finance Business Partner | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8132044) |
-| P3 | Monzo | Senior Financial Crime Investigator  - EU, Spanish & English  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8207682) |
-| P3 | Monzo | Senior Legal Counsel, Digital Assets and Payments  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7621662) |
-| P3 | Monzo | Senior Machine Learning Manager, Borrowing | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7996955) |
-| P3 | Monzo | Senior Marketing Manager, EU Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8121259) |
-| P3 | Monzo | Senior Motion Designer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8179750) |
-| P3 | Monzo | Senior Product Director, Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7732437) |
-| P3 | Monzo | Senior Product Marketing Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7861991) |
-| P3 | Monzo | Senior Product Marketing Manager, Business Banking | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8121253) |

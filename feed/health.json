@@ -1,8 +1,8 @@
 {
- "run": "2026-10-16 21:13",
+ "run": "2026-10-17 09:35",
  "haiku": false,
- "opened": 17,
- "new": 14,
+ "opened": 20,
+ "new": 9,
  "sources": [
   {
    "source": "hsbc",
@@ -254,7 +254,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 49
+   "items": 51
   },
   {
    "source": "aviva-investors",
@@ -403,12 +403,13 @@
   {
    "source": "efinancialcareers",
    "ok": true,
-   "items": 4
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 413
+   "items": 415
   },
   {
    "source": "targetjobs",
