@@ -11394,5 +11394,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "90f30ad83853f535",
+  "firm": "targetjobs",
+  "role_title": "Finance Industrial Placement 2027 — 6 months",
+  "division": "",
+  "location": "London",
+  "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcareers.loreal.com%2Fen%2Fjob%2Flondon%2Ffinance-industrial-placement-2027-6-months%2F3456%2F45753681344&data=05%7C02%7Ctristan.luton%40groupgti.com%7Cdedf260f83e24d48a09208df2919b059%7C3b7a0241086246f7af0430c5b6cd57c4%7C1%7C0%7C639274863124525184%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xAyHuI%2FLrggEjhA0I1Om3aEC9snvF7XC17w9jlm3DFg%3D&reserved=0",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-17",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "a678bd9064d5c8f4",
+  "firm": "targetjobs",
+  "role_title": "Graduate Human Resources",
+  "division": "",
+  "location": "Barrow-in-Furness",
+  "url": "https://jobsearch.baesystems.com/search-and-apply?_search=human%20resources&_level_of_experience_checkboxes=graduates&utm_source=Targetjobs&utm_medium=referral&utm_campaign=class-of-2027-grad-ugrad&utm_term=sept-2026+early-careers+job-post",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-17",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Barrow-in-Furness' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "ab865c2d5ced3d54",
+  "firm": "targetjobs",
+  "role_title": "Graduate & Placement Opportunities 2027 – Register your interest (Various Locations)",
+  "division": "",
+  "location": "UK",
+  "url": "https://jobs.siemens.com/externaljobs/JobDetail?folderId=512295&source=TargetJobs",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-17",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

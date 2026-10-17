@@ -33522,5 +33522,29 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/f10e956d3fe2adff.txt"
+ },
+ {
+  "id": "3de9b265f1f2bf21",
+  "firm": "targetjobs",
+  "role_title": "Kraft Heinz Trainee Program – UK (London) 2027",
+  "division": "",
+  "location": "London",
+  "url": "https://jobs.kraftheinz.com/careers/job/1970324837522030",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-17",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/3de9b265f1f2bf21.txt"
  }
 ]
