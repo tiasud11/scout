@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-17 21:08 UK
+# Scout feed, last run 2026-10-18 09:35 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|

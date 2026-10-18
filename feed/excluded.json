@@ -11460,5 +11460,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "9d8f0ee3683a0482",
+  "firm": "ratemyplacement",
+  "role_title": "Quality Steering Engineering - Placement Year 2027 BMW Group UK Deadline: 18th October 2026 Placement (10 Months+) Chichester",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45619/bmw-group-uk/quality-steering-engineering-placement-year-2027",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-18",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "208641fbd9aac21f",
+  "firm": "ratemyplacement",
+  "role_title": "Assembly Quality Projects - Placement Year BMW Group UK Deadline: 18th October 2026 Placement (10 Months+) Chichester",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45519/bmw-group-uk/assembly-quality-projects-placement-year",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-18",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "be0a180bdfe2c526",
+  "firm": "ratemyplacement",
+  "role_title": "Vendor Management - Placement Year BMW Group UK Deadline: 18th October 2026 Placement (10 Months+) Farnborough",
+  "division": "",
+  "location": "",
+  "url": "https://higherin.com/jobs/45557/bmw-group-uk/vendor-management-placement-year",
+  "source": "ratemyplacement",
+  "date_posted": null,
+  "date_found": "2026-10-18",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
