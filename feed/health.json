@@ -1,13 +1,13 @@
 {
- "run": "2026-10-18 21:07",
+ "run": "2026-10-26 15:10",
  "haiku": false,
- "opened": 0,
- "new": 0,
+ "opened": 80,
+ "new": 55,
  "sources": [
   {
    "source": "hsbc",
    "ok": true,
-   "items": 107
+   "items": 105
   },
   {
    "source": "mufg",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 22
   },
   {
    "source": "natixis",
@@ -68,8 +68,7 @@
   {
    "source": "investec",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 4
   },
   {
    "source": "liberum",
@@ -105,7 +104,7 @@
   {
    "source": "mandg",
    "ok": true,
-   "items": 117
+   "items": 116
   },
   {
    "source": "lgim",
@@ -284,7 +283,7 @@
   {
    "source": "kpmg",
    "ok": true,
-   "items": 38
+   "items": 41
   },
   {
    "source": "bcg",
@@ -334,7 +333,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 17
+   "items": 14
   },
   {
    "source": "beazley",
@@ -345,8 +344,7 @@
   {
    "source": "aviva",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 1
   },
   {
    "source": "admiral",
@@ -362,7 +360,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 71
+   "items": 70
   },
   {
    "source": "starling",
@@ -382,17 +380,17 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 32
+   "items": 25
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 498
+   "items": 526
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 110
+   "items": 126
   },
   {
    "source": "brightnetwork-finance",
@@ -408,12 +406,12 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 415
+   "items": 419
   },
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 55
+   "items": 57
   },
   {
    "source": "jointheintake",
