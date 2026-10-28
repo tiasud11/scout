@@ -12076,5 +12076,181 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "b5b3b1918fd20796",
+  "firm": "Brookfield",
+  "role_title": "Commentary Oct 2026 Transport infrastructure: The rewiring of global trade",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/transport-infrastructure-rewiring-global-trade",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-10-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "551dfe5759ad5da0",
+  "firm": "GoCardless",
+  "role_title": "Tax Manager (12-month FTC)",
+  "division": "",
+  "location": "London, UK",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8281998",
+  "source": "gocardless",
+  "date_posted": "2026-10-27",
+  "date_found": "2026-10-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "99d785cf9bd5a995",
+  "firm": "trackr-spring",
+  "role_title": "2027 Spring Insight Week - Corporate Finance",
+  "division": "",
+  "location": "London",
+  "url": "https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2027-Spring-Insight-Week---Corporate-Finance_R3694?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+  "source": "trackr-spring",
+  "date_posted": null,
+  "date_found": "2026-10-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029), (2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "1f6d20a90b4a145d",
+  "firm": "targetjobs",
+  "role_title": "Graduate Scheme – Operations & Leadership",
+  "division": "",
+  "location": "Oldham",
+  "url": "https://tescoearlycareers.groupgti.com/graduate-scheme-–-operations-&-leadership/70/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "b26aee3c1ed34932",
+  "firm": "targetjobs",
+  "role_title": "Consulting Graduate Programmes - September 2027 intake",
+  "division": "",
+  "location": "London, Birmingham, Edinburgh, Manchester, Bristol, Leeds",
+  "url": "https://ad.doubleclick.net/ddm/trackclk/N284201.140092TARGETJOBS/B36918701.457757522;dc_trk_aid=652143589;dc_trk_cid=264960155;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "a9ecf713006fa349",
+  "firm": "targetjobs",
+  "role_title": "Fashion, Home & Beauty Graduate Programme – Supply Chain and Logistics",
+  "division": "",
+  "location": "Castle Donington, Derby",
+  "url": "https://apply.mandsearlycareers.targetconnect.com/2027-ms-fhb-graduate-supply-chain-logistics-derbyleicestershire/6/apply?utm_source=targetjobs&utm_medium=vacancy",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "cb074c577779243d",
+  "firm": "targetjobs",
+  "role_title": "Graduate Scheme - Tech Product and Programme Management",
+  "division": "",
+  "location": "Wellingborough",
+  "url": "https://tescoearlycareers.groupgti.com/graduate-scheme---tech-product-and-programme-management/43/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "3380fe75535124d3",
+  "firm": "targetjobs",
+  "role_title": "Accelerate Graduate Programme - Intelligent Industries",
+  "division": "",
+  "location": "London, Glasgow, Manchester",
+  "url": "https://careers.capgemini.com/job/London-Accelerate-Graduate-Programme-Intelligent-Industries-H2/1447918533/",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-28",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

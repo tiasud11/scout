@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-26 15:10 UK
+# Scout feed, last run 2026-10-28 15:06 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | P2 | ING | Campaign & Regulatory Communications Analyst | unknown | 2026-10-23 |  | check | 2026-10-09 | [open](https://www.ing.jobs/en/job/sydney/campaign-and-regulatory-communications-analyst/3121/42678268544) |
 | P2 | targetjobs | Enterprise Skills Accelerator - UK | unknown | 2026-10-30 |  | check | 2026-10-03 | [open](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Enterprise-Skills-Accelerator---UK_JR6160581?source=APPLICANT_SOURCE-3-1204&utm_source=clo_targetjobs&utm_medium=paid) |
 | P2 | trackr-summer | Summer Internship | summer | 2026-10-30 |  | check | 2026-10-14 | [open](https://apply.workable.com/j/B4C2F9E69A?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P2 | trackr-summer | Actuarial Intern (Summer 2027) | summer | 2026-11-09 |  | check | 2026-10-28 | [open](https://transamerica.wd5.myworkdayjobs.com/en-US/AUK_JobSite/job/Actuarial-Intern--Summer-2027-_R20063117?source=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
@@ -419,6 +420,7 @@
 | P3 | ING | Intern, Global Research | summer_likely | ? |  | check | 2026-10-15 | [open](https://www.ing.jobs/en/job/singapore/intern-global-research/3121/45954099776) |
 | P3 | ING | Senior Data Analyst in Risk Area | unknown | ? |  | check | 2026-10-26 | [open](https://www.ing.jobs/en/job/warsaw/senior-data-analyst-in-risk-area/3121/46362822976) |
 | P3 | ING | Data Analyst in Risk Reporting | unknown | ? |  | check | 2026-10-26 | [open](https://www.ing.jobs/en/job/warsaw/data-analyst-in-risk-reporting/3121/46362822912) |
+| P3 | ING | Internship Human Resources Business Partners | summer_likely | ? |  | check | 2026-10-28 | [open](https://www.ing.jobs/en/job/amsterdam/internship-human-resources-business-partners/3121/46421137728) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -479,6 +481,7 @@
 | P3 | KPMG | #Students | unknown | ? |  | check | 2026-10-26 | [open](https://www.instagram.com/explore/tags/Students/) |
 | P3 | KPMG | #StudentCareers | unknown | ? |  | check | 2026-10-26 | [open](https://www.instagram.com/explore/tags/StudentCareers/) |
 | P3 | KPMG | #GraduateJobs | unknown | ? |  | check | 2026-10-26 | [open](https://www.instagram.com/explore/tags/GraduateJobs/) |
+| P3 | KPMG | #StudentEvents | unknown | ? |  | check | 2026-10-28 | [open](https://www.instagram.com/explore/tags/StudentEvents/) |
 | P3 | Klarna | For business | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/) |
 | P3 | Klarna | Press | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/press/) |
 | P3 | Klarna | Merchant support | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/merchant-support/) |
@@ -579,6 +582,8 @@
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/how-pension-savers-money-can-support-uk-growth-innovation-and-jobs) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-10-13 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/world-homelessness-day) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-15 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/15-10-2026-mg-acquires-153-new-homes-in-greater-paris-67million) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/27-10-2026) |
+| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/27-10-2026-am) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -597,8 +602,3 @@
 | P3 | Monzo | Credit Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8098919) |
 | P3 | Monzo | Credit Model Validation Manager (Machine Learning & NPV Models) | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8023162) |
 | P3 | Monzo | Credit Risk Manager, Portfolio Management | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7991227) |
-| P3 | Monzo | Data Science Manager | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7194922) |
-| P3 | Monzo | Data Science Manager,  Financial Crime  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/5758065) |
-| P3 | Monzo | Director of Data, Payments | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8146871) |
-| P3 | Monzo | Director of Investments and Pensions | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8163979) |
-| P3 | Monzo | Director of Product Design | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7825424) |

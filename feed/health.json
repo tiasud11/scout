@@ -1,8 +1,8 @@
 {
- "run": "2026-10-26 15:10",
+ "run": "2026-10-28 15:06",
  "haiku": false,
- "opened": 80,
- "new": 55,
+ "opened": 17,
+ "new": 9,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 22
+   "items": 20
   },
   {
    "source": "natixis",
@@ -104,7 +104,7 @@
   {
    "source": "mandg",
    "ok": true,
-   "items": 116
+   "items": 92
   },
   {
    "source": "lgim",
@@ -273,7 +273,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 168
+   "items": 167
   },
   {
    "source": "ey",
@@ -283,7 +283,7 @@
   {
    "source": "kpmg",
    "ok": true,
-   "items": 41
+   "items": 40
   },
   {
    "source": "bcg",
@@ -303,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -333,7 +333,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 14
+   "items": 19
   },
   {
    "source": "beazley",
@@ -360,7 +360,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 70
+   "items": 67
   },
   {
    "source": "starling",
@@ -380,17 +380,17 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 25
+   "items": 23
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 526
+   "items": 532
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 126
+   "items": 128
   },
   {
    "source": "brightnetwork-finance",
@@ -406,7 +406,8 @@
   {
    "source": "ratemyplacement",
    "ok": true,
-   "items": 419
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "targetjobs",
