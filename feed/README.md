@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-28 15:06 UK
+# Scout feed, last run 2026-10-29 15:13 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
 | P3 | trackr-summer | Junior Consultant Summer Internship 2027 | summer | 2027-01-04 |  | eligible | 2026-09-28 | [open](https://jobs.smartrecruiters.com/RolandBerger/744000152107209-junior-consultant-summer-internship-2027?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
+| P3 | trackr-summer | Economic Research Summer Intern | summer | 2027-01-17 |  | eligible | 2026-10-29 | [open](https://app.beapplied.com/apply/modykqbj4m?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | trackr-summer | Shell | unknown | 2027-01-31 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/shell) |
 | P3 | PwC | Flying Start degree programmes | unknown | 2027-03-12 |  | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/entry-level/flying-start.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P3 | targetjobs | Japan - Teaching English as a Foreign Language | unknown | 2027-06-30 |  | check | 2026-09-24 | [open](https://www.travelgrad.com/japan-tefl) |
@@ -272,6 +273,7 @@
 | P3 | Carlyle | Insights From the PM's Desk | unknown | ? |  | check | 2026-09-19 | [open](https://www.carlyle.com/insights-from-the-pms-desk) |
 | P3 | Carlyle | Insights & Indicators | unknown | ? |  | check | 2026-09-19 | [open](https://insights-and-indicators.castos.com/) |
 | P3 | Ccaventus | 2027 Summer Investment Analyst | summer | ? |  | eligible | 2026-10-09 | [open](https://apply.workable.com/arena-investors-lp/j/642FD77502/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P3 | Charles River Associates | 2027 Summer Intern (Antitrust & Competition Economics Practice) | summer | ? |  | eligible | 2026-10-29 | [open](https://job-boards.greenhouse.io/embed/job_app?for=charlesriverassociates&token=8186451&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P3 | Cinven | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.cinven.com/news-insights/) |
 | P3 | Cinven | Read more → | unknown | ? |  | check | 2026-09-19 | [open](https://www.cinven.com/news-insights/cinven-closes-second-strategic-fund/) |
 | P3 | Cinven | Read more → | unknown | ? |  | check | 2026-09-29 | [open](https://www.cinven.com/news-insights/alter-domus-turning-ai-into-a-structural-advantage-in-fund-services/) |
@@ -359,6 +361,7 @@
 | P3 | GoCardless | Data Science Manager | unknown | ? |  | check | 2026-10-09 | [open](https://job-boards.greenhouse.io/gocardless/jobs/7525953) |
 | P3 | GoCardless | Legal Counsel | unknown | ? |  | check | 2026-10-15 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8258602) |
 | P3 | GoCardless | Paralegal | unknown | ? |  | check | 2026-10-15 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8276080) |
+| P3 | GoCardless | Partner Solution Engineer III | unknown | ? |  | check | 2026-10-29 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8333586) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -599,6 +602,3 @@
 | P3 | Monzo | Anaplan Support Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8143930) |
 | P3 | Monzo | Android Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7115379) |
 | P3 | Monzo | Backend Engineer III  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6635595) |
-| P3 | Monzo | Credit Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8098919) |
-| P3 | Monzo | Credit Model Validation Manager (Machine Learning & NPV Models) | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8023162) |
-| P3 | Monzo | Credit Risk Manager, Portfolio Management | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7991227) |

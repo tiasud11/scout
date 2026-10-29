@@ -12252,5 +12252,181 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "1f5563f6f635d53f",
+  "firm": "Monzo",
+  "role_title": "Senior Android Engineer",
+  "division": "",
+  "location": "Barcelona",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/6674282",
+  "source": "monzo",
+  "date_posted": "2026-10-29",
+  "date_found": "2026-10-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Barcelona' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "86f3faac0b2fe540",
+  "firm": "GoCardless",
+  "role_title": "Partner Solution Engineer III",
+  "division": "",
+  "location": "Lisbon, Portugal",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8333573",
+  "source": "gocardless",
+  "date_posted": "2026-10-29",
+  "date_found": "2026-10-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Lisbon, Portugal' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "43991b4abd54c902",
+  "firm": "trackr-summer",
+  "role_title": "Summer Analyst Programme 2027 – Real Estate",
+  "division": "",
+  "location": "London",
+  "url": "https://job-boards.eu.greenhouse.io/eqtpartners/jobs/5019561101?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-10-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2025, 2025)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "42d1ea4fcb379c86",
+  "firm": "trackr-summer",
+  "role_title": "2027 Summer Internship - Consulting Programme",
+  "division": "",
+  "location": "London",
+  "url": "https://jobs.smartrecruiters.com/PAConsulting/744000158126010-2027-summer-internship-consulting-programme-london?trid=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&dcr_ci=Trackr",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-10-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "ddfe326b4f93d331",
+  "firm": "targetjobs",
+  "role_title": "2027 Graduate Scheme - Commercial Real Estate",
+  "division": "",
+  "location": "London, Glasgow, Birmingham, Manchester, Oxford, Bristol, Leeds",
+  "url": "https://careers.cbre.com/careers/Application?jobId=293869&source=TargetJobs",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "23836c196069981a",
+  "firm": "targetjobs",
+  "role_title": "HR Specialist Graduate Programme",
+  "division": "",
+  "location": "",
+  "url": "https://careers.dhl.com/global/en/job/DPDHGLOBAL44031ENGLOBALEXTERNALEARCU/HR-Specialist-Graduate-Programme",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "eca62a2737458dd0",
+  "firm": "targetjobs",
+  "role_title": "Product and Partnerships Industrial Placement Scheme - London",
+  "division": "",
+  "location": "London",
+  "url": "https://lbg.wd3.myworkdayjobs.com/Undergraduate_careers/job/London/Product---Partnerships-Industrial-Placement---London-_163489?utm_source=targetjobs&utm_medium=referral&utm_campaign=undergrads-ips-2026&source=targetjobs-via-et-site",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "eccecf75cb5c6778",
+  "firm": "targetjobs",
+  "role_title": "UK Operations Management Graduate Programme",
+  "division": "",
+  "location": "Leeds, Preston, Welwyn Garden City, Redditch, Wishaw",
+  "url": "https://jobs.smartrecruiters.com/SikaAG/744000157101287-operations-graduates",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-29",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

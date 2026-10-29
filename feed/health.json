@@ -1,8 +1,8 @@
 {
- "run": "2026-10-28 15:06",
+ "run": "2026-10-29 15:13",
  "haiku": false,
- "opened": 17,
- "new": 9,
+ "opened": 16,
+ "new": 8,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 18
   },
   {
    "source": "natixis",
@@ -253,7 +253,7 @@
   {
    "source": "insight-investment",
    "ok": true,
-   "items": 51
+   "items": 52
   },
   {
    "source": "aviva-investors",
@@ -273,7 +273,7 @@
   {
    "source": "pwc",
    "ok": true,
-   "items": 167
+   "items": 163
   },
   {
    "source": "ey",
@@ -303,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
@@ -354,13 +354,13 @@
   },
   {
    "source": "gallagher",
-   "ok": true,
-   "items": 14
+   "ok": false,
+   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
   },
   {
    "source": "monzo",
    "ok": true,
-   "items": 67
+   "items": 66
   },
   {
    "source": "starling",
@@ -380,12 +380,12 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 23
+   "items": 25
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 532
+   "items": 541
   },
   {
    "source": "trackr-spring",
@@ -412,7 +412,7 @@
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 57
+   "items": 56
   },
   {
    "source": "jointheintake",
