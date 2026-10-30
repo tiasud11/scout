@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-29 15:13 UK
+# Scout feed, last run 2026-10-30 15:05 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-15 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/15-10-2026-mg-acquires-153-new-homes-in-greater-paris-67million) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/27-10-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/27-10-2026-am) |
+| P3 | M&G | Read more | unknown | ? |  | check | 2026-10-30 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/community-in-action) |
 | P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Asset Management Summer Internship Programme | summer | ? |  | check | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23633&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Macquarie Group | 2027 Risk Management Group Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23634&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -601,4 +602,3 @@
 | P3 | Moelis & Co | 2027 Summer Analyst, Private Capital Advisory | summer | ? |  | eligible | 2026-09-23 | [open](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-a3207dbb8e0a/candidate/so/pm/1/pl/2/opp/434-2027-Summer-Analyst-Private-Capital-Advisory-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Monzo | Anaplan Support Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8143930) |
 | P3 | Monzo | Android Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7115379) |
-| P3 | Monzo | Backend Engineer III  | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/6635595) |

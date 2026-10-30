@@ -35282,5 +35282,53 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/bfab37b4b9cd00cc.txt"
+ },
+ {
+  "id": "454f84ae60cef86b",
+  "firm": "M&G",
+  "role_title": "Read more",
+  "division": "",
+  "location": "London",
+  "url": "https://www.mandg.com/news-and-insights/views-and-insights/2026/community-in-action",
+  "source": "mandg",
+  "date_posted": null,
+  "date_found": "2026-10-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/454f84ae60cef86b.txt"
+ },
+ {
+  "id": "36e12d7a83f30d9a",
+  "firm": "targetjobs",
+  "role_title": "Actuarial Summer Internships - July 2027",
+  "division": "",
+  "location": "London, Glasgow, Edinburgh, Reading, Manchester, Southampton, Leeds, Liverpool, Newcastle, Cambridge, Belfast, Luton",
+  "url": "https://ad.doubleclick.net/ddm/trackclk/N284201.140092TARGETJOBS/B36918713.457494076;dc_trk_aid=651930234;dc_trk_cid=264959407;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-10-30",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/36e12d7a83f30d9a.txt"
  }
 ]
