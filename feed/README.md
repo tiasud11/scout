@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-10-30 15:05 UK
+# Scout feed, last run 2026-11-01 15:00 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -166,6 +166,9 @@
 | P1 | Morgan Stanley | 2027 Summer Analyst Programme - Office of the COO | summer | ? | yes | eligible | 2026-10-12 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22272-2027-Investment-Management-Summer-Analyst-Programme-Office-of-the-COO-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Morgan Stanley | 2027 Summer Analyst Programme - Real Assets | summer | ? | yes | eligible | 2026-10-12 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22304-2027-Investment-Management-Summer-Analyst-Programme-Real-Assets-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | PwC | Undergraduate Work Placement | unknown | ? | yes | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/undergraduate/undergraduate-work-placement.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
+| P1 | TP ICAP | Compliance Summer Internship 2027 | summer | ? | yes | eligible | 2026-11-01 | [open](https://tp.wd107.myworkdayjobs.com/en-US/TP-ICAP/job/Compliance-Summer-Internship-2027--London_R5997?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
+| P1 | TP ICAP | Internal Audit Summer Internship 2027 | summer | ? | yes | eligible | 2026-11-01 | [open](https://tp.wd107.myworkdayjobs.com/en-US/TP-ICAP/job/Internal-Audit-Summer-Internship-2027--London_R5999?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
+| P1 | TP ICAP | Risk Summer Internship 2027 | summer | ? | yes | eligible | 2026-11-01 | [open](https://tp.wd107.myworkdayjobs.com/en-US/TP-ICAP/job/Risk-Summer-Internship-2027--London_R5998?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | jointheintake | Spring weeks | unknown | ? | yes | check | 2026-09-23 | [open](https://www.jointheintake.com/spring-weeks) |
 | P1 | targetjobs | Global Research 2027 Summer Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774171;455008071;k) |
 | P1 | targetjobs | Corporate Audit, Summer 2027 Analyst - London | summer | ? | yes | check | 2026-09-23 | [open](https://ad.doubleclick.net/ddm/clk/648774150;454500838;o) |
@@ -599,6 +602,3 @@
 | P3 | Marsh McLennan | Students/Graduates | unknown | ? |  | check | 2026-09-20 | [open](https://careers.marsh.com/global/en/student-opportunities) |
 | P3 | Mizuho | 2027 Banking Summer Internship | summer | ? |  | check | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-banking-summer-internship-london-37876/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Mizuho | 2027 Finance Summer Internship | summer | ? |  | check | 2026-09-21 | [open](https://www.grb.uk.com/internships/mizuho-banking-finance-summer-internship-london-37879/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
-| P3 | Moelis & Co | 2027 Summer Analyst, Private Capital Advisory | summer | ? |  | eligible | 2026-09-23 | [open](https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-a3207dbb8e0a/candidate/so/pm/1/pl/2/opp/434-2027-Summer-Analyst-Private-Capital-Advisory-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
-| P3 | Monzo | Anaplan Support Analyst | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/8143930) |
-| P3 | Monzo | Android Engineer | unknown | ? |  | check | 2026-09-20 | [open](https://job-boards.greenhouse.io/monzo/jobs/7115379) |

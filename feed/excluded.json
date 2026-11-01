@@ -12714,5 +12714,137 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "40b69e9fdc2cbe70",
+  "firm": "TP ICAP",
+  "role_title": "Global Broking Summer Internship 2027",
+  "division": "",
+  "location": "London",
+  "url": "https://tp.wd107.myworkdayjobs.com/en-US/TP-ICAP/job/Global-Broking-Summer-Internship-2027--London_R5893?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+  "source": "trackr-summer",
+  "date_posted": "2026-10-30T00:00:00.000Z",
+  "date_found": "2026-11-01",
+  "deadline": null,
+  "rolling": true,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027), (2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "5447cf3ca2af4901",
+  "firm": "Liquidnet",
+  "role_title": "Equities Sales and Trading Summer Internship 2027",
+  "division": "",
+  "location": "",
+  "url": "https://tp.wd107.myworkdayjobs.com/en-US/TP-ICAP/job/London/Liquidnet-Equities--Sales-and-Trading-Summer-Internship-Programme-2027--London_R6001?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+  "source": "trackr-summer",
+  "date_posted": "2026-10-30T00:00:00.000Z",
+  "date_found": "2026-11-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "361732b4d2d71f61",
+  "firm": "Liquidnet",
+  "role_title": "Fixed Income Sales Summer Internship 2027",
+  "division": "",
+  "location": "",
+  "url": "https://tp.wd107.myworkdayjobs.com/en-US/TP-ICAP/job/RealQ-Sales-Summer-Internship-2027--London_R6002?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+  "source": "trackr-summer",
+  "date_posted": "2026-10-30T00:00:00.000Z",
+  "date_found": "2026-11-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "0865f93d46833383",
+  "firm": "targetjobs",
+  "role_title": "Data Science & AI Graduate Scheme - Halifax",
+  "division": "",
+  "location": "Halifax",
+  "url": "https://lbg.wd3.myworkdayjobs.com/Graduate_careers/job/Halifax/Data-Science---AI-Graduate-Scheme--Halifax-_163355-1?utm_source=targetjobs&utm_medium=referral&utm_campaign=grads-2026&source=targetjobs-via-et-site",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "665b42a01eb142aa",
+  "firm": "targetjobs",
+  "role_title": "Project Management Graduate - London (September 2027 Start)",
+  "division": "",
+  "location": "London",
+  "url": "https://jll.wd1.myworkdayjobs.com/en-GB/jllcareers/job/London-GBR/Project-Management-Graduate---London--September-2027-Start-_REQ527390?jobFamilyGroup=45ddfa36f2261001377c164c6f390000&locationCountry=29247e57dbaf46fb855b224e03170bc7",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "5f8e4f2e353756af",
+  "firm": "targetjobs",
+  "role_title": "Ground Engineering and Tunnelling Graduate Programme",
+  "division": "",
+  "location": "London, Glasgow, Birmingham, Edinburgh, Cardiff, Manchester, Bristol, Southampton, Leeds, Cambridge, Belfast, Exeter, Epsom, Derby",
+  "url": "https://careers.atkinsrealis.com/en/jobs/ground-engineering-and-tunnelling-graduate-programme-gr-229?utm_source=+targetjobsboard&utm_medium=targetjobs&utm_campaign=+targetjobsboard&section=job-content",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-01",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
