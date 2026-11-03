@@ -12846,5 +12846,159 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "6cbd398c1aa33031",
+  "firm": "HSBC",
+  "role_title": "Investment Banking - Leverage Acquisition Finance - Graduate (opens in new window)",
+  "division": "",
+  "location": "",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/PARIS-Investment-Banking-Leverage-Acquisition-Finance-Graduate-75-75116/1376154157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+  "source": "hsbc",
+  "date_posted": null,
+  "date_found": "2026-11-03",
+  "deadline": null,
+  "rolling": true,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2025, 2026)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P1"
+ },
+ {
+  "id": "0acf51c727a1891f",
+  "firm": "targetjobs",
+  "role_title": "Product – Home and Clothing Graduate Scheme",
+  "division": "",
+  "location": "Welwyn Garden City",
+  "url": "https://tescoearlycareers.groupgti.com/product-–-home-and-clothing-graduate-scheme/57/viewdetails?utm_source=targetjobs&utm_medium=jobboard&utm_campaign=graduate",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-03",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "386c4816f90e1c12",
+  "firm": "targetjobs",
+  "role_title": "Sizewell C Engineering (Delivery) Industrial Placement",
+  "division": "",
+  "location": "Bristol",
+  "url": "https://jobs.sizewellc.com/job-invite/37416/?utm_source=targetjobs&utm_medium=referral&utm_campaign=early-careers",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-03",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "546a2151e1c5c04b",
+  "firm": "targetjobs",
+  "role_title": "Defence Undergraduate Scholarship Scheme- Engineering",
+  "division": "",
+  "location": "Aldermaston, Reading",
+  "url": "https://awepeople.wd3.myworkdayjobs.com/en-US/Grad_Careers/job/Defence-Undergraduate-Scholarship-Scheme--Engineering_R31578?source=tjvacancy",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-03",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Aldermaston, Reading' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "f8e07a168a224e99",
+  "firm": "targetjobs",
+  "role_title": "Sizewell C Commercial Management Industrial Placement",
+  "division": "",
+  "location": "Bristol",
+  "url": "https://jobs.sizewellc.com/job-invite/37400/?utm_source=targetjobs&utm_medium=referral&utm_campaign=early-careers",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-03",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "435bfeb38f06f558",
+  "firm": "targetjobs",
+  "role_title": "Intern Program - Engineering Pathways (Arm)",
+  "division": "",
+  "location": "Sheffield, Manchester, Bristol, Cambridge",
+  "url": "https://careers.arm.com/job/manchester/intern-program-engineering-pathways/33099/101556166016?mode=job&iis=Job+Board&iisn=TargetJobs.com",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-03",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Sheffield, Manchester, Bristol, Cambridge' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "fc8eb1e94016fcc5",
+  "firm": "targetjobs",
+  "role_title": "Sizewell C Project Management Nuclear Island Industrial Placement",
+  "division": "",
+  "location": "London",
+  "url": "https://jobs.sizewellc.com/job-invite/37413/?utm_source=targetjobs&utm_medium=referral&utm_campaign=early-careers",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-03",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
