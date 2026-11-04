@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-11-03 20:54 UK
+# Scout feed, last run 2026-11-04 21:21 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | P1 | Morgan Stanley | 2027 Investment Management Summer Analyst Programme - Fixed Income | summer | ? | yes | eligible | 2026-10-09 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22271-2027-Investment-Management-Summer-Analyst-Programme-Fixed-Income-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Morgan Stanley | 2027 Summer Analyst Programme - Office of the COO | summer | ? | yes | eligible | 2026-10-12 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22272-2027-Investment-Management-Summer-Analyst-Programme-Office-of-the-COO-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Morgan Stanley | 2027 Summer Analyst Programme - Real Assets | summer | ? | yes | eligible | 2026-10-12 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/1/opp/22304-2027-Investment-Management-Summer-Analyst-Programme-Real-Assets-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | Morgan Stanley | 2027 Spring Insight: Finance, Risk & Business Services (Glasgow) | spring | ? | yes | check | 2026-11-04 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/candidate/so/pm/1/pl/2/opp/22388-2027-Spring-Insight-Careers-Across-Finance-Risk-Business-Services-Glasgow/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | PwC | Undergraduate Work Placement | unknown | ? | yes | check | 2026-09-19 | [open](https://www.pwc.co.uk/careers/early-careers/undergraduate/undergraduate-work-placement.html?utm_source=uk_rec_uk_rec_empadvocacy&utm_medium=ct1-dm2-sl1&utm_campaign=fy25-at1-dl1-ls11*springcampaigndiscoveropportunities) |
 | P1 | TP ICAP | Compliance Summer Internship 2027 | summer | ? | yes | eligible | 2026-11-01 | [open](https://tp.wd107.myworkdayjobs.com/en-US/TP-ICAP/job/Compliance-Summer-Internship-2027--London_R5997?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | TP ICAP | Internal Audit Summer Internship 2027 | summer | ? | yes | eligible | 2026-11-01 | [open](https://tp.wd107.myworkdayjobs.com/en-US/TP-ICAP/job/Internal-Audit-Summer-Internship-2027--London_R5999?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
@@ -203,6 +204,7 @@
 | P2 | targetjobs | Enterprise Skills Accelerator - UK | unknown | 2026-10-30 |  | check | 2026-10-03 | [open](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Enterprise-Skills-Accelerator---UK_JR6160581?source=APPLICANT_SOURCE-3-1204&utm_source=clo_targetjobs&utm_medium=paid) |
 | P2 | trackr-summer | Summer Internship | summer | 2026-10-30 |  | check | 2026-10-14 | [open](https://apply.workable.com/j/B4C2F9E69A?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P2 | trackr-summer | Actuarial Intern (Summer 2027) | summer | 2026-11-09 |  | check | 2026-10-28 | [open](https://transamerica.wd5.myworkdayjobs.com/en-US/AUK_JobSite/job/Actuarial-Intern--Summer-2027-_R20063117?source=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P2 | targetjobs | Graduate Management Trainee – Marketing (London) | unknown | 2026-11-20 |  | check | 2026-11-04 | [open](https://careers.loreal.com/en/job/london/graduate-management-trainee-marketing-london/3456/46477777408) |
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
@@ -373,6 +375,7 @@
 | P3 | GoCardless | Legal Counsel | unknown | ? |  | check | 2026-10-15 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8258602) |
 | P3 | GoCardless | Paralegal | unknown | ? |  | check | 2026-10-15 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8276080) |
 | P3 | GoCardless | Partner Solution Engineer III | unknown | ? |  | check | 2026-10-29 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8333586) |
+| P3 | GoCardless | Treasury Assistant | unknown | ? |  | check | 2026-11-04 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8301377) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -496,6 +499,7 @@
 | P3 | KPMG | #StudentCareers | unknown | ? |  | check | 2026-10-26 | [open](https://www.instagram.com/explore/tags/StudentCareers/) |
 | P3 | KPMG | #GraduateJobs | unknown | ? |  | check | 2026-10-26 | [open](https://www.instagram.com/explore/tags/GraduateJobs/) |
 | P3 | KPMG | #StudentEvents | unknown | ? |  | check | 2026-10-28 | [open](https://www.instagram.com/explore/tags/StudentEvents/) |
+| P3 | KPMG | #CareerDiscovery | unknown | ? |  | check | 2026-11-04 | [open](https://www.instagram.com/explore/tags/CareerDiscovery/) |
 | P3 | Klarna | For business | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/) |
 | P3 | Klarna | Press | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/press/) |
 | P3 | Klarna | Merchant support | unknown | ? |  | check | 2026-09-20 | [open](https://www.klarna.com/international/enterprise/merchant-support/) |
@@ -598,7 +602,3 @@
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-10-13 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/world-homelessness-day) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-15 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/15-10-2026-mg-acquires-153-new-homes-in-greater-paris-67million) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/27-10-2026) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/27-10-2026-am) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-10-30 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/community-in-action) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-11-03 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/03-11-2026) |
-| P3 | Macquarie Group | 2027 Macquarie Capital Summer Internship Programme | summer | ? |  | eligible | 2026-09-21 | [open](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=23632&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |

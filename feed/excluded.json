@@ -13000,5 +13000,93 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "d6f2c2b475de4550",
+  "firm": "Baillie Gifford",
+  "role_title": "Echoes from the first global crash Liaquat Ahamed talks to Merryn Somerset Webb about the crash of 1873. November 2026 Article 5 minutes",
+  "division": "",
+  "location": "",
+  "url": "https://www.bailliegifford.com/en/global/all-users/insights/ic-article/2026-q3-trust-53-echoes-from-the-first-global-crash-10066475/",
+  "source": "baillie-gifford",
+  "date_posted": null,
+  "date_found": "2026-11-04",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "e57991edc6606532",
+  "firm": "GoCardless",
+  "role_title": "Assistant Management Accountant",
+  "division": "",
+  "location": "Lisbon, Portugal",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8352299",
+  "source": "gocardless",
+  "date_posted": "2026-11-04",
+  "date_found": "2026-11-04",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Lisbon, Portugal' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "f7e632de94826ea7",
+  "firm": "targetjobs",
+  "role_title": "Graduate Finance Analyst - November 2026 Start",
+  "division": "",
+  "location": "Manchester",
+  "url": "https://apply.workable.com/grayce/j/6A5CB0D046",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-04",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "e3590ea55350a790",
+  "firm": "targetjobs",
+  "role_title": "Consulting Graduate - September 2027",
+  "division": "",
+  "location": "Bristol, Belfast",
+  "url": "https://www.rsmuk.com/careers/jobs?q=&page=1&filter.role-type=job-type:graduate&?utm_source=targetjobs&utm_medium=referral&utm_campaign=early-careers",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-04",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
