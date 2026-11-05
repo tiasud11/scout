@@ -13088,5 +13088,159 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "f27d984c57456a75",
+  "firm": "Brookfield",
+  "role_title": "Commentary Wayne Dahl Nov 2026 Podcast: Rates with Wayne Dahl",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/podcast-rates-wayne-dahl",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-11-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "63b38fca724ce0fa",
+  "firm": "Lloyd's",
+  "role_title": "Apprentices Looking for an alternative to university? See how our Lloyd’s apprenticeship schemes could fast-track your route into the world of work. Applications open on 08 February 2027. Explore apprenticeships",
+  "division": "",
+  "location": "",
+  "url": "https://www.lloyds.com/about-lloyds/careers/early-careers/apprentices",
+  "source": "lloyds-of-london",
+  "date_posted": null,
+  "date_found": "2026-11-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "c576d9f61c4bfa76",
+  "firm": "Lloyd's",
+  "role_title": "From Insurance graduate scheme to Cyber Practice Leader Read Simon's story",
+  "division": "",
+  "location": "",
+  "url": "https://www.lloyds.com/about-lloyds/careers/early-careers/our-people/simon",
+  "source": "lloyds-of-london",
+  "date_posted": null,
+  "date_found": "2026-11-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "dfe1dbc1dcf4f0e7",
+  "firm": "Lloyd's",
+  "role_title": "From Actuarial graduate scheme to Reinsurance Pricing Actuary Read Jack's story",
+  "division": "",
+  "location": "",
+  "url": "https://www.lloyds.com/about-lloyds/careers/early-careers/our-people/jack",
+  "source": "lloyds-of-london",
+  "date_posted": null,
+  "date_found": "2026-11-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "6b0a5f1e2a89ab74",
+  "firm": "Lloyd's",
+  "role_title": "From Insurance graduate scheme to Associate Director Read Jollie's story",
+  "division": "",
+  "location": "",
+  "url": "https://www.lloyds.com/about-lloyds/careers/early-careers/our-people/jollie",
+  "source": "lloyds-of-london",
+  "date_posted": null,
+  "date_found": "2026-11-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "be31bb5701fe0514",
+  "firm": "Lloyd's",
+  "role_title": "From Insurance graduate scheme to Cyber Underwriter Read Kieran's story",
+  "division": "",
+  "location": "",
+  "url": "https://www.lloyds.com/about-lloyds/careers/early-careers/our-people/kieran",
+  "source": "lloyds-of-london",
+  "date_posted": null,
+  "date_found": "2026-11-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "740f8d0c7181edd6",
+  "firm": "Monzo",
+  "role_title": "Regulatory Affairs Manager",
+  "division": "",
+  "location": "Dublin",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8355433",
+  "source": "monzo",
+  "date_posted": "2026-11-05",
+  "date_found": "2026-11-05",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Dublin' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

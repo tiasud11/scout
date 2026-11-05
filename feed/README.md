@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-11-04 21:21 UK
+# Scout feed, last run 2026-11-05 21:05 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | P1 | Morgan Stanley | 2027 Operations Summer Analyst Programme | summer | 2026-11-15 | yes | check | 2026-10-07 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-4213b0aec668/candidate/so/pm/1/pl/1/opp/21474-2027-Operations-Summer-Analyst-Programme-Glasgow/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Nomura | 2027 - Investment Banking - Client Financing Solutions - Summer Internship | summer | 2026-12-01 | yes | eligible | 2026-09-21 | [open](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-598163/xf-1181ef381c7b/candidate/so/pm/1/pl/1/opp/1426-2027-Investment-Banking-Client-Financing-Solutions-Summer-Internship-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-summer | Summer Associate 2027 | summer | 2027-01-03 | yes | eligible | 2026-09-20 | [open](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/user-566977/xf-ca8ef72fc76e/candidate/so/pm/1/pl/1/opp/4121-London-Office-Summer-Associate-2027/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
+| P1 | trackr-spring | Commercial Internship Week 2027 (North) | summer_likely | 2027-01-15 | yes | check | 2026-11-05 | [open](https://pg.wd5.myworkdayjobs.com/en-GB/1000/job/Harrogate/Commercial-Internship-Week-2027--North--Event_R000162326?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P1 | trackr-summer | Assessed Internship Programme 2027 | summer_likely | 2027-01-31 | yes | check | 2026-09-19 | [open](https://shell.wd3.myworkdayjobs.com/en-GB/ShellCareers/job/London---Shell-Centre/Shell-Assessed-Internship-Programme-2027---United-Kingdom_R205154?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=APPLICANT_SOURCE_NewChannel) |
 | P1 | Morgan Stanley | 2027 Spring Insight: Operations (Glasgow) | spring | 2027-03-21 | yes | check | 2026-10-26 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/candidate/so/pm/1/pl/2/opp/22398-2027-Spring-Insight-Operations-Glasgow/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Aon | Find out more | unknown | ? | yes | check | 2026-09-20 | [open](https://www.aon.com/careers/early-careers/uk/graduates) |
@@ -140,6 +141,9 @@
 | P1 | HSBC | Retail Banking - Internship (opens in new window) | summer_likely | ? | yes | check | 2026-10-26 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Leeds-Retail-Banking-Internship-LS98-1FD/1373615657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
 | P1 | HSBC | Investment Specialist - Alternatives - Graduate (opens in new window) | unknown | ? | yes | check | 2026-11-03 | [open](https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Specialist-Alternatives-Graduate-E14-5HQ/1376335257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
 | P1 | HSBC | Retail Banking - Internship (opens in new window) | summer_likely | ? | yes | check | 2026-11-03 | [open](https://apply.careers.hsbc.com/emergingtalent/job/Birmingham-Retail-Banking-Internship-B1-1HQ/1373615257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
+| P1 | HSBC | Corporate and Institutional Banking - Spring Insight Programme (opens in new window) | spring | ? | yes | check | 2026-11-05 | [open](https://apply.careers.hsbc.com/emergingtalent/job/London-Corporate-and-Institutional-Banking-Spring-Insight-Programme-E14-5HQ/1376330157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent) |
+| P1 | Hasbro | 2027 Summer Internships - Finance | summer | ? | yes | check | 2026-11-05 | [open](https://job-boards.greenhouse.io/hasbro/jobs/4476505009?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
+| P1 | Hasbro | 2027 Summer Internships - Commercial | summer | ? | yes | check | 2026-11-05 | [open](https://job-boards.greenhouse.io/hasbro/jobs/4479105009?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr) |
 | P1 | Hymans Robertson | Actuarial Consulting & Analytics: Summer Internship Programme | summer | ? | yes | check | 2026-10-01 | [open](https://hymans.current-vacancies.com/Jobs/Advert/4335929?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&cid=2054&t=Actuarial-Consulting-And-Analytics--Summer-Internship-Programme) |
 | P1 | Hymans Robertson | Pensions Governance & Investment Consulting: Summer Internship Programme | summer | ? | yes | check | 2026-10-01 | [open](https://hymans.current-vacancies.com/Jobs/Advert/4335935?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&cid=2054&t=Pensions-Governance-And-Investment-Consulting--Summer-Internship-Programme) |
 | P1 | ING | ING Financial Markets Internship Programme - Amsterdam | summer_likely | ? | yes | check | 2026-10-02 | [open](https://www.ing.jobs/en/job/amsterdam/ing-financial-markets-internship-programme-amsterdam/3121/45439484800) |
@@ -376,6 +380,7 @@
 | P3 | GoCardless | Paralegal | unknown | ? |  | check | 2026-10-15 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8276080) |
 | P3 | GoCardless | Partner Solution Engineer III | unknown | ? |  | check | 2026-10-29 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8333586) |
 | P3 | GoCardless | Treasury Assistant | unknown | ? |  | check | 2026-11-04 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8301377) |
+| P3 | GoCardless | Internal Communications Specialist (18 month FTC) | unknown | ? |  | check | 2026-11-05 | [open](https://job-boards.greenhouse.io/gocardless/jobs/8355218) |
 | P3 | HSBC | Consensus, buyback updates, and analyst coverage | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage) |
 | P3 | HSBC | Issuance programmes | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/investors/fixed-income-investors/issuance-programmes) |
 | P3 | HSBC | Students and graduates | unknown | ? |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates) |
@@ -597,8 +602,3 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-07 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/07-10-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-09 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/09-10-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/12-10-2026) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/asset-management-colleague-engagement-focuses-on-growth-confidence-group-collab) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/how-pension-savers-money-can-support-uk-growth-innovation-and-jobs) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-10-13 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/world-homelessness-day) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-15 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/15-10-2026-mg-acquires-153-new-homes-in-greater-paris-67million) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/27-10-2026) |
