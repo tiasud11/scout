@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-11-05 21:05 UK
+# Scout feed, last run 2026-11-07 14:59 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | P1 | trackr-summer | Finance Summer Placement | summer | 2026-11-01 |  | check | 2026-10-26 | [open](https://careers.sse.com/jobs/finance-summer-placement-glasgow-renfrewshire-renfrewshire-united-kingdom-perth-perthshire-scotland?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Monzo | Associate Software Engineer - Intern | summer_likely | 2026-11-13 | yes | check | 2026-09-28 | [open](https://job-boards.greenhouse.io/monzo/jobs/8156261) |
 | P1 | targetjobs | Business Summer Internship - UK | summer | 2026-11-13 |  | check | 2026-11-03 | [open](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Business-Summer-Internship---UK_JR6160587?source=APPLICANT_SOURCE-3-1204&utm_source=clo_targetjobs&utm_medium=paid) |
+| P1 | targetjobs | Business Year-Long Internship - UK | summer_likely | 2026-11-13 |  | check | 2026-11-07 | [open](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Business-Year-Long-Internship---UK_JR6160586?source=APPLICANT_SOURCE-3-1204&utm_source=clo_targetjobs&utm_medium=paid) |
 | P1 | Morgan Stanley | 2027 Operations Summer Analyst Programme | summer | 2026-11-15 | yes | check | 2026-10-07 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-4213b0aec668/candidate/so/pm/1/pl/1/opp/21474-2027-Operations-Summer-Analyst-Programme-Glasgow/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | Nomura | 2027 - Investment Banking - Client Financing Solutions - Summer Internship | summer | 2026-12-01 | yes | eligible | 2026-09-21 | [open](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-598163/xf-1181ef381c7b/candidate/so/pm/1/pl/1/opp/1426-2027-Investment-Banking-Client-Financing-Solutions-Summer-Internship-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-summer | Summer Associate 2027 | summer | 2027-01-03 | yes | eligible | 2026-09-20 | [open](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/user-566977/xf-ca8ef72fc76e/candidate/so/pm/1/pl/1/opp/4121-London-Office-Summer-Associate-2027/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -209,6 +210,7 @@
 | P2 | trackr-summer | Summer Internship | summer | 2026-10-30 |  | check | 2026-10-14 | [open](https://apply.workable.com/j/B4C2F9E69A?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P2 | trackr-summer | Actuarial Intern (Summer 2027) | summer | 2026-11-09 |  | check | 2026-10-28 | [open](https://transamerica.wd5.myworkdayjobs.com/en-US/AUK_JobSite/job/Actuarial-Intern--Summer-2027-_R20063117?source=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P2 | targetjobs | Graduate Management Trainee – Marketing (London) | unknown | 2026-11-20 |  | check | 2026-11-04 | [open](https://careers.loreal.com/en/job/london/graduate-management-trainee-marketing-london/3456/46477777408) |
+| P2 | targetjobs | Graduate Management Trainee – Supply Chain (London) | unknown | 2026-11-20 |  | check | 2026-11-07 | [open](https://careers.loreal.com/en/job/london/graduate-management-trainee-supply-chain-london/3456/46458004736) |
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
@@ -233,6 +235,9 @@
 | P3 | Apollo | New Heights for Air France-KLM How Apollo’s long-duration capital and aviation expertise h | unknown | ? |  | check | 2026-09-19 | [open](https://www.apollo.com/insights-news/insights/2025/04/air-france-klm--soaring-to-new-heights) |
 | P3 | Apollo | Watch the Replay of Investor Day Featuring senior leaders from across the business providi | unknown | ? |  | check | 2026-09-19 | [open](https://ir.apollo.com/news-events/investor-day-2024) |
 | P3 | Apollo | Insights & News | unknown | ? |  | check | 2026-09-19 | [open](https://www.apollo.com/insights-news) |
+| P3 | Apollo | Expanding Opportunity | unknown | ? |  | check | 2026-11-07 | [open](https://www.apollo.com/insights-news/insights/2026/06/purpose-in-action) |
+| P3 | Apollo | Expanding Opportunity | unknown | ? |  | check | 2026-11-07 | [open](https://www.apollo.com/insights-news/insights/2025/10/why-apollo-actively-encourages-non-profit-leadership) |
+| P3 | Apollo | Expanding Opportunity | unknown | ? |  | check | 2026-11-07 | [open](https://www.apollo.com/insights-news/insights/2024/11/the-inaugural-apollo-opportunity-foundation-summit) |
 | P3 | Ardian | Follow Ardian on Jobs on LinkedIn | unknown | ? |  | check | 2026-09-19 | [open](https://www.linkedin.com/showcase/jobs-&-internships/ ) |
 | P3 | Ardian | News & Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights) |
 | P3 | Ardian | ARTICLES | unknown | ? |  | check | 2026-09-19 | [open](https://www.ardian.com/news-insights/articles) |
@@ -294,6 +299,7 @@
 | P3 | Cinven | Read more → | unknown | ? |  | check | 2026-09-19 | [open](https://www.cinven.com/news-insights/cinven-closes-second-strategic-fund/) |
 | P3 | Cinven | Read more → | unknown | ? |  | check | 2026-09-29 | [open](https://www.cinven.com/news-insights/alter-domus-turning-ai-into-a-structural-advantage-in-fund-services/) |
 | P3 | Cinven | Read more → | unknown | ? |  | check | 2026-11-03 | [open](https://www.cinven.com/news-insights/cinven-to-acquire-theramex/) |
+| P3 | Cinven | Read more → | unknown | ? |  | check | 2026-11-07 | [open](https://www.cinven.com/news-insights/cinven-agrees-to-the-sale-of-restaurant-brands-europe/) |
 | P3 | Citi | Services, Summer Analyst, 2027 | summer | ? |  | check | 2026-09-21 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Services---Summer-Analyst--UK---London--2027_26995475?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | Citi | Commercial Banking, Summer Analyst, 2027 | summer | ? |  | check | 2026-09-21 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Commercial-Banking--Summer-Analyst--London---United-Kingdom-2027_26993448/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | Citi | Investment Banking - CEE, Summer Analyst, 2027 | summer | ? |  | check | 2026-10-26 | [open](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Banking--Investment-Banking--CEE--Greece---Cyprus--Summer-Analyst--London--United-Kingdom-2027_261002673?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
@@ -443,6 +449,7 @@
 | P3 | ING | Senior Data Analyst in Risk Area | unknown | ? |  | check | 2026-10-26 | [open](https://www.ing.jobs/en/job/warsaw/senior-data-analyst-in-risk-area/3121/46362822976) |
 | P3 | ING | Data Analyst in Risk Reporting | unknown | ? |  | check | 2026-10-26 | [open](https://www.ing.jobs/en/job/warsaw/data-analyst-in-risk-reporting/3121/46362822912) |
 | P3 | ING | Internship Human Resources Business Partners | summer_likely | ? |  | check | 2026-10-28 | [open](https://www.ing.jobs/en/job/amsterdam/internship-human-resources-business-partners/3121/46421137728) |
+| P3 | ING | Business Analyst PSS SEPA Direct Debit @ING Hubs Romania | unknown | ? |  | check | 2026-11-07 | [open](https://www.ing.jobs/en/job/bucharest/business-analyst-pss-sepa-direct-debit-ing-hubs-romania/3121/46684277376) |
 | P3 | Insight Investment | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/careers/#main-content) |
 | P3 | Insight Investment | Corporate | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/corporate/) |
 | P3 | Insight Investment | United Kingdom | unknown | ? |  | check | 2026-09-19 | [open](https://www.insightinvestment.com/uk/) |
@@ -595,10 +602,3 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026a) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/28-09-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-30 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/30-09-2026) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-01 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/01-10-2026) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026a) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-02 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/02-10-2026b) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-07 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/07-10-2026) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-09 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/09-10-2026) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-10-12 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/12-10-2026) |
