@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-11-07 14:59 UK
+# Scout feed, last run 2026-11-08 15:03 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -211,9 +211,11 @@
 | P2 | trackr-summer | Actuarial Intern (Summer 2027) | summer | 2026-11-09 |  | check | 2026-10-28 | [open](https://transamerica.wd5.myworkdayjobs.com/en-US/AUK_JobSite/job/Actuarial-Intern--Summer-2027-_R20063117?source=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P2 | targetjobs | Graduate Management Trainee – Marketing (London) | unknown | 2026-11-20 |  | check | 2026-11-04 | [open](https://careers.loreal.com/en/job/london/graduate-management-trainee-marketing-london/3456/46477777408) |
 | P2 | targetjobs | Graduate Management Trainee – Supply Chain (London) | unknown | 2026-11-20 |  | check | 2026-11-07 | [open](https://careers.loreal.com/en/job/london/graduate-management-trainee-supply-chain-london/3456/46458004736) |
+| P2 | targetjobs | ETF Sales Support Trainee | unknown | 2026-11-30 |  | check | 2026-11-08 | [open](https://www.investment2020.org.uk/latest-jobs/etf-sales-support-trainee-2/) |
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
+| P3 | targetjobs | Summer Programme - 2027 | summer | 2027-01-03 |  | check | 2026-11-08 | [open](https://apply.candidats.io/d564efe1-6c31-460d-b9ca-3f29ee11ab2a) |
 | P3 | trackr-summer | Junior Consultant Summer Internship 2027 | summer | 2027-01-04 |  | eligible | 2026-09-28 | [open](https://jobs.smartrecruiters.com/RolandBerger/744000152107209-junior-consultant-summer-internship-2027?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
 | P3 | trackr-summer | Summer Internship Program 2027 | summer | 2027-01-15 |  | check | 2026-11-03 | [open](https://www.stjadvisors.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | trackr-summer | Economic Research Summer Intern | summer | 2027-01-17 |  | eligible | 2026-10-29 | [open](https://app.beapplied.com/apply/modykqbj4m?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -600,5 +602,3 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-23 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/23-09-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-24 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-09-2026a) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-28 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/28-09-2026) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-30 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/30-09-2026) |

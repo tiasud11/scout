@@ -13418,5 +13418,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "86462212fe36af4c",
+  "firm": "targetjobs",
+  "role_title": "Part-Time Marketing Assistant (Mandarin Speaker)",
+  "division": "",
+  "location": "Leeds",
+  "url": "https://tpp-careers.com/roles/part-time-marketing-assistant-mandarin-speaker/",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-08",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Leeds' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "2682ea476b607529",
+  "firm": "targetjobs",
+  "role_title": "Women in Technology - Women who code - Insight Programme",
+  "division": "",
+  "location": "Sheffield",
+  "url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Women-in-Technology-Women-who-code-Insight-Programme-S1-4NB/1376922757/&jobPipeline=TargetJobs",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-08",
+  "deadline": null,
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Sheffield' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "228a2be995be446e",
+  "firm": "targetjobs",
+  "role_title": "Food Business Graduate Programme – Product Development",
+  "division": "",
+  "location": "London",
+  "url": "https://apply.mandsearlycareers.targetconnect.com/2027-ms-food-product-development-graduate-london/3/apply?utm_source=targetjobs&utm_medium=vacancy",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-08",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
