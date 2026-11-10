@@ -1,8 +1,8 @@
 {
- "run": "2026-11-10 20:52",
+ "run": "2026-11-10 21:15",
  "haiku": false,
- "opened": 41,
- "new": 35,
+ "opened": 0,
+ "new": 0,
  "sources": [
   {
    "source": "hsbc",
@@ -301,7 +301,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 13
+   "items": 33
   },
   {
    "source": "frontier-economics",
