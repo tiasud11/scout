@@ -1,8 +1,8 @@
 {
- "run": "2026-11-08 15:03",
+ "run": "2026-11-10 20:52",
  "haiku": false,
- "opened": 6,
- "new": 3,
+ "opened": 41,
+ "new": 35,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 20
+   "items": 19
   },
   {
    "source": "natixis",
@@ -62,8 +62,7 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 10
   },
   {
    "source": "investec",
@@ -98,8 +97,7 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 0,
-   "warn": "zero items, selector or URL may have changed"
+   "items": 6
   },
   {
    "source": "mandg",
@@ -160,7 +158,7 @@
   {
    "source": "brookfield",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "source": "partners-group",
@@ -283,7 +281,7 @@
   {
    "source": "kpmg",
    "ok": true,
-   "items": 43
+   "items": 42
   },
   {
    "source": "bcg",
@@ -303,7 +301,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -328,12 +326,12 @@
   {
    "source": "lloyds-of-london",
    "ok": true,
-   "items": 22
+   "items": 20
   },
   {
    "source": "wise",
    "ok": true,
-   "items": 16
+   "items": 19
   },
   {
    "source": "beazley",
@@ -360,7 +358,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 58
+   "items": 64
   },
   {
    "source": "starling",
@@ -380,17 +378,17 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 26
+   "items": 29
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 574
+   "items": 577
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 133
+   "items": 140
   },
   {
    "source": "brightnetwork-finance",
@@ -412,7 +410,7 @@
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 59
+   "items": 58
   },
   {
    "source": "jointheintake",

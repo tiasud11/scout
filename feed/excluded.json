@@ -13484,5 +13484,137 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "57b0c32f5c00e439",
+  "firm": "Wise",
+  "role_title": "Graduate Data Scientist",
+  "division": "",
+  "location": "",
+  "url": "https://wise.jobs/job/graduate-data-scientist-in-austin-jid-4490",
+  "source": "wise",
+  "date_posted": null,
+  "date_found": "2026-11-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027), (2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "0f60957b546fea3b",
+  "firm": "GoCardless",
+  "role_title": "Integration Engineer I",
+  "division": "",
+  "location": "Riga, Latvia",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8346105",
+  "source": "gocardless",
+  "date_posted": "2026-11-09",
+  "date_found": "2026-11-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Riga, Latvia' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "c4112fd66caf0fd6",
+  "firm": "targetjobs",
+  "role_title": "Graduate Leadership Programme",
+  "division": "",
+  "location": "Sandhurst",
+  "url": "https://jobs.army.mod.uk/regular-army/entry-options/officer/?cid=jobb1204311571",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Sandhurst' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "0ada4f3285e8f568",
+  "firm": "targetjobs",
+  "role_title": "Continuous Improvement Placement Programme",
+  "division": "",
+  "location": "Watford",
+  "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Watford-HER-WD17-1TX/Continuous-Improvement-Placement-Programme_REQ154855",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Watford' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "8a14093532442033",
+  "firm": "targetjobs",
+  "role_title": "2027 Graduate Scheme, Data, Tech & Transformation",
+  "division": "",
+  "location": "London",
+  "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Dublin-Ireland/ET-2027---Graduate-Scheme--Data--Tech---Transformation_JR260761?source=TARGETjobs",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "ef5463f63a7b9f66",
+  "firm": "targetjobs",
+  "role_title": "2027 Risk Analyst Graduate Programme - London",
+  "division": "",
+  "location": "London",
+  "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Risk-Analyst-Graduate-Programme-London_JR-0000129101",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-10",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
