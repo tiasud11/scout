@@ -1,8 +1,8 @@
 {
- "run": "2026-11-10 21:15",
+ "run": "2026-11-12 21:19",
  "haiku": false,
- "opened": 0,
- "new": 0,
+ "opened": 14,
+ "new": 8,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 19
+   "items": 18
   },
   {
    "source": "natixis",
@@ -62,7 +62,8 @@
   {
    "source": "peel-hunt",
    "ok": true,
-   "items": 10
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "investec",
@@ -158,7 +159,7 @@
   {
    "source": "brookfield",
    "ok": true,
-   "items": 9
+   "items": 7
   },
   {
    "source": "partners-group",
@@ -281,7 +282,7 @@
   {
    "source": "kpmg",
    "ok": true,
-   "items": 42
+   "items": 43
   },
   {
    "source": "bcg",
@@ -358,7 +359,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 64
+   "items": 60
   },
   {
    "source": "starling",
@@ -378,12 +379,12 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 29
+   "items": 28
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 577
+   "items": 578
   },
   {
    "source": "trackr-spring",
@@ -410,7 +411,7 @@
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 58
+   "items": 57
   },
   {
    "source": "jointheintake",

@@ -13616,5 +13616,137 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "bf8d923422937a9c",
+  "firm": "Brookfield",
+  "role_title": "Commentary Nov 2026 Infrastructure’s broadening investment universe: A snapshot",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/infrastructures-broadening-investment-universe-snapshot",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-11-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "8007461ea032e637",
+  "firm": "Brookfield",
+  "role_title": "Memos from Howard Marks Howard Marks Nov 2026 A layman thinks about AI",
+  "division": "",
+  "location": "",
+  "url": "https://www.brookfield.com/views-news/insights/layman-thinks-about-ai",
+  "source": "brookfield",
+  "date_posted": null,
+  "date_found": "2026-11-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "bf0595545ec24b80",
+  "firm": "Monzo",
+  "role_title": "Senior Treasury Capital Manager",
+  "division": "",
+  "location": "Dublin",
+  "url": "https://job-boards.greenhouse.io/monzo/jobs/8379323",
+  "source": "monzo",
+  "date_posted": "2026-11-11",
+  "date_found": "2026-11-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Dublin' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "c5b2beaae210f796",
+  "firm": "targetjobs",
+  "role_title": "Trainee Associate Programme 2028 and 2029",
+  "division": "",
+  "location": "London",
+  "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapply.candidats.io%2Fa361457c-3773-4eff-b6ac-8b15eaaabf02%3Futm_campaign%3DTargetJobs&data=05%7C02%7Cjennifer.aviles%40groupgti.com%7C9ef0070494ba4c1314a008df1eff1561%7C3b7a0241086246f7af0430c5b6cd57c4%7C1%7C0%7C639263753369046273%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=E9NckewnGx%2FyHbRyaae8pPidnL0LR9zcsLiVniUwCvo%3D&reserved=0",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2028', '2029'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "593701430e0d6a70",
+  "firm": "targetjobs",
+  "role_title": "Allianz Finance Graduate Scheme 2027",
+  "division": "",
+  "location": "Guildford",
+  "url": "https://internal-careers.allianz.com/job-invite/109479/",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "2a67e795206910f0",
+  "firm": "targetjobs",
+  "role_title": "HR Officer",
+  "division": "",
+  "location": "Sandhurst",
+  "url": "https://jobs.army.mod.uk/roles/adjutant-generals-corps/hr-officer/?cid=jobb4389312004",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-12",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Sandhurst' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
