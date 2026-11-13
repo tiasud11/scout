@@ -13748,5 +13748,159 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "ff24ca8706897bfe",
+  "firm": "GoCardless",
+  "role_title": "Senior Site Reliability Engineer (Database Focus)",
+  "division": "",
+  "location": "Riga, Latvia",
+  "url": "https://job-boards.greenhouse.io/gocardless/jobs/8385166",
+  "source": "gocardless",
+  "date_posted": "2026-11-13",
+  "date_found": "2026-11-13",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Riga, Latvia' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "b78465ba0cc2b34b",
+  "firm": "trackr-summer",
+  "role_title": "Internship - Junior Quantitative Analyst",
+  "division": "",
+  "location": "",
+  "url": "https://apply.workable.com/bmlltech/j/685458148E/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-summer",
+  "date_posted": null,
+  "date_found": "2026-11-13",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer_likely",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "sales, trading or quant role, not wanted"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "107fa140b94b7530",
+  "firm": "Fidelity International",
+  "role_title": "2027 Spring Insight Programme",
+  "division": "",
+  "location": "London",
+  "url": "https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/so/pm/1/pl/1/opp/1451-2027-Spring-Insight-Programme-London-UK/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-spring",
+  "date_posted": "2026-11-13T00:00:00.000Z",
+  "date_found": "2026-11-13",
+  "deadline": "2027-01-31",
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029), (2029, 2029), (2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "57d9fe35143ac0fb",
+  "firm": "Fidelity International",
+  "role_title": "2027 Women in Investment Management Spring Insight Programme ",
+  "division": "",
+  "location": "London",
+  "url": "https://fidelityinternational.tal.net/vx/lang-en-GB/mobile-0/brand-5/candidate/so/pm/1/pl/1/opp/1452-2027-Women-in-Investment-Management-Spring-Insight-Programme-London-UK/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+  "source": "trackr-spring",
+  "date_posted": "2026-11-13T00:00:00.000Z",
+  "date_found": "2026-11-13",
+  "deadline": "2027-01-31",
+  "rolling": false,
+  "type": "spring",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2029, 2029), (2029, 2029), (2029, 2029)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "79d976e28c7ccac2",
+  "firm": "targetjobs",
+  "role_title": "Software Engineering Internship Program (Summer 2027) - Cambridge",
+  "division": "",
+  "location": "Cambridge",
+  "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgrnh.se%2Fq13vse5e1us&data=05%7C02%7Ctristan.luton%40groupgti.com%7Ca7fc4b98f7ae40c1306b08df3b2501b0%7C3b7a0241086246f7af0430c5b6cd57c4%7C1%7C0%7C639294702297655989%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=lsT%2FYA406toz6cKjcSNIocjwtz9%2BTEAhRwD3yPNr6uo%3D&reserved=0",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-13",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Cambridge' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "2c1eba98c5b91595",
+  "firm": "targetjobs",
+  "role_title": "Corporate Graduate Programme 2027 – ETF Capital Markets & Product",
+  "division": "",
+  "location": "London",
+  "url": "https://www.investment2020.org.uk/latest-jobs/corporate-graduate-programme-2027-etf-capital-markets-product/",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-13",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "9fa22914b1b56e46",
+  "firm": "targetjobs",
+  "role_title": "Technical Graduate - Technology Engineer - Software, Cloud & Infrastructure 2027",
+  "division": "",
+  "location": "",
+  "url": "https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fcgi.njoyn.com%2Fcorp%2Fxweb%2Fxweb.asp%3FNTKN%3Dc%26clid%3D21001%26Page%3DJobDetails%26Jobid%3DJ1026-0240%26BRID%3D1338400%26lang%3D1__%3B!!AaIhyw!r0OJVfvqAMoT5M0frIff2cKqDg81c-gbxmzsyL2_0bRtroFLch7rZKAR9zSw3u-al9EgErE0FKrXZrj5mA%24&data=05%7C02%7Ctristan.luton%40groupgti.com%7C328cd8a7b9ac4c3f170e08df2de69373%7C3b7a0241086246f7af0430c5b6cd57c4%7C1%7C0%7C639280140820950962%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LXa51CAhOL3DGY15qsdBNvycnNK2S9%2FuDvoXdtkbdTs%3D&reserved=0",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-13",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

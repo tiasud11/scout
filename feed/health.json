@@ -1,8 +1,8 @@
 {
- "run": "2026-11-12 21:19",
+ "run": "2026-11-13 20:55",
  "haiku": false,
- "opened": 14,
- "new": 8,
+ "opened": 13,
+ "new": 6,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 18
+   "items": 21
   },
   {
    "source": "natixis",
@@ -98,12 +98,13 @@
   {
    "source": "carlyle",
    "ok": true,
-   "items": 6
+   "items": 0,
+   "warn": "zero items, selector or URL may have changed"
   },
   {
    "source": "mandg",
    "ok": true,
-   "items": 92
+   "items": 88
   },
   {
    "source": "lgim",
@@ -302,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -332,7 +333,7 @@
   {
    "source": "wise",
    "ok": true,
-   "items": 19
+   "items": 16
   },
   {
    "source": "beazley",
@@ -359,7 +360,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 60
+   "items": 57
   },
   {
    "source": "starling",
@@ -379,17 +380,17 @@
   {
    "source": "gocardless",
    "ok": true,
-   "items": 28
+   "items": 29
   },
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 578
+   "items": 582
   },
   {
    "source": "trackr-spring",
    "ok": true,
-   "items": 140
+   "items": 141
   },
   {
    "source": "brightnetwork-finance",

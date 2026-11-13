@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-11-12 21:19 UK
+# Scout feed, last run 2026-11-13 20:55 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | P1 | Morgan Stanley | 2027 Operations Summer Analyst Programme | summer | 2026-11-15 | yes | check | 2026-10-07 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-4213b0aec668/candidate/so/pm/1/pl/1/opp/21474-2027-Operations-Summer-Analyst-Programme-Glasgow/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | targetjobs | 2027 Summer Internship, Economic & Financial Consulting | summer | 2026-11-19 |  | eligible | 2026-11-10 | [open](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723?source=TARGETjobs) |
 | P1 | targetjobs | Graduate Management Trainee – Commercial (London) | unknown | 2026-11-20 |  | check | 2026-11-12 | [open](https://careers.loreal.com/en/job/london/graduate-management-trainee-commercial-london/3456/46458004672) |
+| P1 | ING | Internship Corporate Finance - FIG M&A (FI Advisory) | summer_likely | 2026-11-23 | yes | check | 2026-11-13 | [open](https://www.ing.jobs/en/job/amsterdam/internship-corporate-finance-fig-m-and-a-fi-advisory/3121/46627262272) |
 | P1 | Nomura | 2027 - Investment Banking - Client Financing Solutions - Summer Internship | summer | 2026-12-01 | yes | eligible | 2026-09-21 | [open](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-598163/xf-1181ef381c7b/candidate/so/pm/1/pl/1/opp/1426-2027-Investment-Banking-Client-Financing-Solutions-Summer-Internship-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-summer | Summer Associate 2027 | summer | 2027-01-03 | yes | eligible | 2026-09-20 | [open](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/user-566977/xf-ca8ef72fc76e/candidate/so/pm/1/pl/1/opp/4121-London-Office-Summer-Associate-2027/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-spring | Commercial Internship Week 2027 (North) | summer_likely | 2027-01-15 | yes | check | 2026-11-05 | [open](https://pg.wd5.myworkdayjobs.com/en-GB/1000/job/Harrogate/Commercial-Internship-Week-2027--North--Event_R000162326?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
@@ -601,4 +602,3 @@
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/50m-investment-to-improve-digital-banking-access-in-asia) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/573-senior-living-homes) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/75m-investment-into-green-agriculture) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2022/273000-people-with-improved-access-to-healthy-fruits) |
