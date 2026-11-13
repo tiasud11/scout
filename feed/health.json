@@ -1,8 +1,8 @@
 {
- "run": "2026-11-13 20:55",
+ "run": "2026-11-13 21:17",
  "haiku": false,
- "opened": 13,
- "new": 6,
+ "opened": 0,
+ "new": 0,
  "sources": [
   {
    "source": "hsbc",
@@ -18,7 +18,7 @@
   {
    "source": "ing",
    "ok": true,
-   "items": 21
+   "items": 20
   },
   {
    "source": "natixis",
@@ -355,7 +355,7 @@
   {
    "source": "gallagher",
    "ok": true,
-   "items": 14
+   "items": 15
   },
   {
    "source": "monzo",
