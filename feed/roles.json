@@ -38051,5 +38051,54 @@
   "classified_by": "rules",
   "priority": "P3",
   "posting_text": "feed/postings/3baac9f6d66829a9.txt"
+ },
+ {
+  "id": "0809914cde64aa43",
+  "firm": "targetjobs",
+  "role_title": "Risk & Compliance Graduate (London)",
+  "division": "",
+  "location": "London",
+  "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Risk---Compliance-Graduate--London-_R20815",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-14",
+  "deadline": "2026-12-31",
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "graduation year not stated"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/0809914cde64aa43.txt"
+ },
+ {
+  "id": "acc5d692c7545387",
+  "firm": "targetjobs",
+  "role_title": "Trainee Secondary Teacher - UK locations",
+  "division": "",
+  "location": "London, Birmingham, Milton Keynes, Portsmouth, Tunbridge Wells, Pontefract, Hastings",
+  "url": "https://www.arkteachertraining.org/apply-now/how-to-apply/",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-14",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "check",
+  "eligibility_notes": [
+   "programme type not explicit, confirm summer 2027 or spring 2027",
+   "no programme year stated",
+   "graduation year not stated"
+  ],
+  "ai_policy": "DO use an AI tool to. …better organise and clarify your thoughts for a statement or interview Your draft: “ I have had a positive impact on young people in my current role” AI prompt: “ Help me to think of how to quantify the impact I have had’” …research public information on Ark Teacher Training AI prompt: “ What are the core qualities that Ark Teacher Training values in its trainees, based on the public information about the Ark network?” …support you with adjustments for additional needs; ask our recruiters if you feel this would help DON'T use an AI tool to. …copy and paste answers from AI tools into your application Result: recruiters recognise phrasing and content in AI-generated statements, so we know we aren’t seeing the real ‘you’ or your written communication skills. Your ATT application…and the use of AI As a trainee teacher, you’ll find that one of the few predictable things about a live classroom environment is its unpredictability! Schools are fast-paced, and we need to know that you can think on your feet and communicate effectively to many different stakeholders at short notice (such as students, colleagues, parents). We also know that technology and AI tools are d",
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3",
+  "posting_text": "feed/postings/acc5d692c7545387.txt"
  }
 ]

@@ -13902,5 +13902,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "4726a3c4107ebd68",
+  "firm": "targetjobs",
+  "role_title": "Audit - Insurance - Graduate - London - September 2027",
+  "division": "",
+  "location": "London",
+  "url": "https://forvismazarsuk.wd107.myworkdayjobs.com/FM_1/job/London/Audit---Insurance---Graduate---London---September-2027_JR679",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-14",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "graduation window [(2027, 2027)] does not include 2028"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "f18f783c95f4693b",
+  "firm": "targetjobs",
+  "role_title": "2027 Internal Audit Analyst Summer Internship Programme - Knutsford",
+  "division": "",
+  "location": "Knutsford",
+  "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Internal-Audit-Analyst-Summer-Internship-Programme-Knutsford_JR-0000129570",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-14",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Knutsford' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "865e08abd3742b0c",
+  "firm": "targetjobs",
+  "role_title": "Transport Systems Graduate Programme",
+  "division": "",
+  "location": "London, Birmingham, Manchester, Epsom",
+  "url": "https://careers.atkinsrealis.com/en/jobs/transport-systems-graduate-programme-gr-247?utm_source=+targetjobsboard&utm_medium=targetjobs+&utm_campaign=targetjobsboard",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-14",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]

@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-11-13 21:17 UK
+# Scout feed, last run 2026-11-14 15:03 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | P3 | trackr-summer | Deutsche Bank | unknown | 2026-10-30 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/deutsche-bank) |
 | P3 | J.P. Morgan | 2027 Global Investment Banking Analyst Program - Summer Internship | summer | 2026-11-01 |  | eligible | 2026-09-21 | [open](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775710/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&iis=Trackr&sType=Trackr) |
 | P3 | HSBC | Skip to Primary navigation | unknown | 2026-11-30 |  | check | 2026-09-19 | [open](https://www.hsbc.com/careers/students-and-graduates/find-a-programme#goToNavigation) |
+| P3 | targetjobs | Risk & Compliance Graduate (London) | unknown | 2026-12-31 |  | check | 2026-11-14 | [open](https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Risk---Compliance-Graduate--London-_R20815) |
 | P3 | targetjobs | Summer Programme - 2027 | summer | 2027-01-03 |  | check | 2026-11-08 | [open](https://apply.candidats.io/d564efe1-6c31-460d-b9ca-3f29ee11ab2a) |
 | P3 | trackr-summer | Junior Consultant Summer Internship 2027 | summer | 2027-01-04 |  | eligible | 2026-09-28 | [open](https://jobs.smartrecruiters.com/RolandBerger/744000152107209-junior-consultant-summer-internship-2027?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
 | P3 | trackr-summer | Summer Internship Program 2027 | summer | 2027-01-15 |  | check | 2026-11-03 | [open](https://www.stjadvisors.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -601,4 +602,3 @@
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2025/global-ai-driven-infrastructure) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/50m-investment-to-improve-digital-banking-access-in-asia) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/573-senior-living-homes) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/75m-investment-into-green-agriculture) |
