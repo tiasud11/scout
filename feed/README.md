@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-11-14 15:03 UK
+# Scout feed, last run 2026-11-21 20:58 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -81,7 +81,14 @@
 | P1 | Morgan Stanley | 2027 Operations Summer Analyst Programme | summer | 2026-11-15 | yes | check | 2026-10-07 | [open](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-4213b0aec668/candidate/so/pm/1/pl/1/opp/21474-2027-Operations-Summer-Analyst-Programme-Glasgow/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | targetjobs | 2027 Summer Internship, Economic & Financial Consulting | summer | 2026-11-19 |  | eligible | 2026-11-10 | [open](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Economic---Financial-Consulting_JR260723?source=TARGETjobs) |
 | P1 | targetjobs | Graduate Management Trainee – Commercial (London) | unknown | 2026-11-20 |  | check | 2026-11-12 | [open](https://careers.loreal.com/en/job/london/graduate-management-trainee-commercial-london/3456/46458004672) |
+| P1 | ratemyplacement | Technology Intern - LMD Wire Placement 2027 GKN Aerospace Deadline: 22nd November 2026 Pla | summer_likely | 2026-11-22 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46884/gkn-aerospace/technology-intern-lmd-wire-placement-2027) |
+| P1 | ratemyplacement | Technology Intern - Powder Bed Placement 2027 GKN Aerospace Deadline: 22nd November 2026 P | summer_likely | 2026-11-22 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46886/gkn-aerospace/technology-intern-powder-bed-placement-2027) |
+| P1 | ratemyplacement | Technology Intern - Composites Placement 2027 GKN Aerospace Deadline: 22nd November 2026 P | summer_likely | 2026-11-22 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46882/gkn-aerospace/technology-intern-composites-placement-2027) |
+| P1 | ratemyplacement | Technology Intern - Machining Placement 2027 GKN Aerospace Deadline: 22nd November 2026 Pl | summer_likely | 2026-11-22 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46887/gkn-aerospace/technology-intern-machining-placement-2027) |
+| P1 | ratemyplacement | Technology Intern - Automation Placement 2027 GKN Aerospace Deadline: 22nd November 2026 P | summer_likely | 2026-11-22 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46885/gkn-aerospace/technology-intern-automation-placement-2027) |
+| P1 | ratemyplacement | Technology Intern - Digital and Simulation Placement 2027 GKN Aerospace Deadline: 22nd Nov | summer_likely | 2026-11-22 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46883/gkn-aerospace/technology-intern-digital-and-simulation-placement-2027) |
 | P1 | ING | Internship Corporate Finance - FIG M&A (FI Advisory) | summer_likely | 2026-11-23 | yes | check | 2026-11-13 | [open](https://www.ing.jobs/en/job/amsterdam/internship-corporate-finance-fig-m-and-a-fi-advisory/3121/46627262272) |
+| P1 | ratemyplacement | Development Engineer Placement 2027 Cummins Deadline: 23rd November 2026 Placement (10 Mon | unknown | 2026-11-23 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46456/cummins/development-engineer-placement-2027) |
 | P1 | Nomura | 2027 - Investment Banking - Client Financing Solutions - Summer Internship | summer | 2026-12-01 | yes | eligible | 2026-09-21 | [open](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-598163/xf-1181ef381c7b/candidate/so/pm/1/pl/1/opp/1426-2027-Investment-Banking-Client-Financing-Solutions-Summer-Internship-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-summer | Summer Associate 2027 | summer | 2027-01-03 | yes | eligible | 2026-09-20 | [open](https://lek.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/user-566977/xf-ca8ef72fc76e/candidate/so/pm/1/pl/1/opp/4121-London-Office-Summer-Associate-2027/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P1 | trackr-spring | Commercial Internship Week 2027 (North) | summer_likely | 2027-01-15 | yes | check | 2026-11-05 | [open](https://pg.wd5.myworkdayjobs.com/en-GB/1000/job/Harrogate/Commercial-Internship-Week-2027--North--Event_R000162326?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
@@ -227,6 +234,7 @@
 | P3 | targetjobs | Risk & Compliance Graduate (London) | unknown | 2026-12-31 |  | check | 2026-11-14 | [open](https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Risk---Compliance-Graduate--London-_R20815) |
 | P3 | targetjobs | Summer Programme - 2027 | summer | 2027-01-03 |  | check | 2026-11-08 | [open](https://apply.candidats.io/d564efe1-6c31-460d-b9ca-3f29ee11ab2a) |
 | P3 | trackr-summer | Junior Consultant Summer Internship 2027 | summer | 2027-01-04 |  | eligible | 2026-09-28 | [open](https://jobs.smartrecruiters.com/RolandBerger/744000152107209-junior-consultant-summer-internship-2027?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&trid=Trackr&dcr_ci=Trackr) |
+| P3 | trackr-summer | 2027 Investment Internship Programme | summer_likely | 2027-01-08 |  | check | 2026-11-21 | [open](https://clientsites.sanctuarygraduates.co.uk/sjp2026/roles/620916?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | trackr-summer | Summer Internship Program 2027 | summer | 2027-01-15 |  | check | 2026-11-03 | [open](https://www.stjadvisors.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | trackr-summer | Economic Research Summer Intern | summer | 2027-01-17 |  | eligible | 2026-10-29 | [open](https://app.beapplied.com/apply/modykqbj4m?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | trackr-summer | Shell | unknown | 2027-01-31 |  | check | 2026-09-19 | [open](https://app.the-trackr.com/company/shell) |
@@ -290,6 +298,7 @@
 | P3 | Bain & Company | Japan (日本語) | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/ja/careers/work-with-us/students/) |
 | P3 | Bain & Company | Explore Bain Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.bain.com/insights/) |
 | P3 | Bain & Company | Internships & Programs | summer_likely | ? |  | check | 2026-09-19 | [open](https://www.bain.com/careers/work-with-us/internships-programs/) |
+| P3 | Bank of America | 2027 Spring Insight - Operations, Technology & Finance (Chester) | spring | ? |  | check | 2026-11-21 | [open](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/so/pm/1/pl/1/opp/15299-2027-Spring-Insight-Operations-Technology-Finance-Chester/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Brevan Howard | 2027 Summer Internship Program - Systematic Trading | summer | ? |  | check | 2026-09-24 | [open](https://careers.brevanhoward.com/gb/en/job/JR101619/2027-Summer-Internship-Program-Systematic-Trading-London?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
 | P3 | Brookfield | Skip to main content | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/careers/students-and-graduates#main-content) |
 | P3 | Brookfield | Insights | unknown | ? |  | check | 2026-09-19 | [open](https://www.brookfield.com/views-news/insights) |
@@ -420,6 +429,14 @@
 | P3 | Harrison Street | Summer 2027 Asset Management Intern | summer | ? |  | check | 2026-09-21 | [open](https://jobs.lever.co/harrisonst/e79af1ff-8b36-4eae-987c-57170652a8ff?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&lever-source=Trackr) |
 | P3 | Harrison Street | Summer 2027 Transactions Intern | summer | ? |  | check | 2026-09-21 | [open](https://jobs.lever.co/harrisonst/7d1a258e-fb69-42bf-8a5e-5790af9a0170?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&lever-source=Trackr) |
 | P3 | Harrison Street | Summer 2027 Investor Solutions Group Intern | summer | ? |  | check | 2026-10-08 | [open](https://jobs.lever.co/harrisonst/98f7e3e7-9145-43a2-bc26-ee7f9fa9de0c?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&lever-source=Trackr) |
+| P3 | Hg Capital | The Value Creation Team is now Hg Catalyst | unknown | ? |  | check | 2026-11-21 | [open](https://hgcapital.com/insights/the-value-creation-team-is-now-hg-catalyst) |
+| P3 | Hg Capital | Quarterly Report | unknown | ? |  | check | 2026-11-21 | [open](https://hgcapital.com/insights/hgs-quarterly-update) |
+| P3 | Hg Capital | 3E secures majority investment from Hg | unknown | ? |  | check | 2026-11-21 | [open](https://hgcapital.com/insights/3e-secures-majority-investment-from-hg) |
+| P3 | Hg Capital | Software in the AI era: Why specialisation matters more than ever | unknown | ? |  | check | 2026-11-21 | [open](https://hgcapital.com/insights/software-in-the-ai-era-why-specialisation-matters-more-than-ever) |
+| P3 | Hg Capital | Navigate what’s next: a new brand system for Hg | unknown | ? |  | check | 2026-11-21 | [open](https://hgcapital.com/insights/navigate-whats-next-a-new-brand-system-for-hg) |
+| P3 | Hg Capital | What German software leaders are telling us about AI | unknown | ? |  | check | 2026-11-21 | [open](https://hgcapital.com/insights/what-german-software-leaders-are-telling-us-about-ai) |
+| P3 | Hg Capital | Nic Humphries on Bloomberg Television News | unknown | ? |  | check | 2026-11-21 | [open](https://hgcapital.com/insights/nic-humphries-on-bloomberg-television) |
+| P3 | Hg Capital | Orbit Podcast | unknown | ? |  | check | 2026-11-21 | [open](https://hgcapital.com/insights/orbit-podcast) |
 | P3 | Houlihan Lokey | 2027 Summer Financial Analyst – Capital Solutions | summer | ? |  | eligible | 2026-09-21 | [open](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2027-Summer-Financial-Analyst---Capital-Solutions--London_R3517?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | Houlihan Lokey | 2027 Summer Financial Analyst - Corporate Finance (M&A) | summer | ? |  | check | 2026-09-21 | [open](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2027-Summer-Financial-Analyst---Corporate-Finance--M-A-_R3564?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
 | P3 | Houlihan Lokey | Summer Financial Analyst 2027 - Financial Restructuring | summer | ? |  | eligible | 2026-09-21 | [open](https://hl.wd1.myworkdayjobs.com/en-US/Campus/job/Summer-Financial-Analyst-2027---Financial-Restructuring--London_R3495?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr) |
@@ -585,20 +602,3 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/07-09-2026) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/broadcast-interviews-put-m-and-g-s-momentum-and-growth-in-the-spotlight) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/01-09-2026) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/24-08-2026) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/the-ribbon-transforming-oxford-street-through-long-term-investment) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/25m-pounds-invested-in-grid-decarbonisation-technology) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/23-07-2026) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2025/09-12-2025) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/03-07-2026) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/17-06-2026) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/investing-in-regenerative-agriculture) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/239-million-investment-into-the-living-sector-in-spain) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/19-05-2026-am) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/13-07-2026) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2022/700m-investment-in-japans-office-market) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/28-04-2026) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/05-01-2026) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2025/global-ai-driven-infrastructure) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2024/50m-investment-to-improve-digital-banking-access-in-asia) |
-| P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/573-senior-living-homes) |
