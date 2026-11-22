@@ -1,8 +1,8 @@
 {
- "run": "2026-11-21 20:58",
+ "run": "2026-11-22 21:06",
  "haiku": false,
- "opened": 71,
- "new": 41,
+ "opened": 13,
+ "new": 10,
  "sources": [
   {
    "source": "hsbc",
@@ -145,7 +145,7 @@
   {
    "source": "tpg",
    "ok": true,
-   "items": 12
+   "items": 10
   },
   {
    "source": "eqt",
@@ -303,7 +303,7 @@
   {
    "source": "fti",
    "ok": true,
-   "items": 33
+   "items": 13
   },
   {
    "source": "frontier-economics",
@@ -360,7 +360,7 @@
   {
    "source": "monzo",
    "ok": true,
-   "items": 59
+   "items": 58
   },
   {
    "source": "starling",
@@ -385,7 +385,7 @@
   {
    "source": "trackr-summer",
    "ok": true,
-   "items": 590
+   "items": 592
   },
   {
    "source": "trackr-spring",
@@ -411,7 +411,7 @@
   {
    "source": "targetjobs",
    "ok": true,
-   "items": 58
+   "items": 60
   },
   {
    "source": "jointheintake",

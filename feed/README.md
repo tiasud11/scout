@@ -1,4 +1,4 @@
-# Scout feed, last run 2026-11-21 20:58 UK
+# Scout feed, last run 2026-11-22 21:06 UK
 
 | Pri | Firm | Role | Type | Deadline | Rolling | Status | Found | Link |
 |---|---|---|---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | P1 | ratemyplacement | Technology Intern - Machining Placement 2027 GKN Aerospace Deadline: 22nd November 2026 Pl | summer_likely | 2026-11-22 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46887/gkn-aerospace/technology-intern-machining-placement-2027) |
 | P1 | ratemyplacement | Technology Intern - Automation Placement 2027 GKN Aerospace Deadline: 22nd November 2026 P | summer_likely | 2026-11-22 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46885/gkn-aerospace/technology-intern-automation-placement-2027) |
 | P1 | ratemyplacement | Technology Intern - Digital and Simulation Placement 2027 GKN Aerospace Deadline: 22nd Nov | summer_likely | 2026-11-22 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46883/gkn-aerospace/technology-intern-digital-and-simulation-placement-2027) |
+| P1 | targetjobs | 2027 Audit Summer Internship Programme | summer | 2026-11-22 |  | eligible | 2026-11-22 | [open](https://ad.doubleclick.net/ddm/clk/651813602;457700165;c) |
 | P1 | ING | Internship Corporate Finance - FIG M&A (FI Advisory) | summer_likely | 2026-11-23 | yes | check | 2026-11-13 | [open](https://www.ing.jobs/en/job/amsterdam/internship-corporate-finance-fig-m-and-a-fi-advisory/3121/46627262272) |
 | P1 | ratemyplacement | Development Engineer Placement 2027 Cummins Deadline: 23rd November 2026 Placement (10 Mon | unknown | 2026-11-23 | yes | check | 2026-11-21 | [open](https://higherin.com/jobs/46456/cummins/development-engineer-placement-2027) |
 | P1 | Nomura | 2027 - Investment Banking - Client Financing Solutions - Summer Internship | summer | 2026-12-01 | yes | eligible | 2026-09-21 | [open](https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-598163/xf-1181ef381c7b/candidate/so/pm/1/pl/1/opp/1426-2027-Investment-Banking-Client-Financing-Solutions-Summer-Internship-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027) |
@@ -601,4 +602,3 @@
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/08-09-2026-am) |
 | P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/07-09-2026) |
 | P3 | M&G | Read more | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/views-and-insights/2026/broadcast-interviews-put-m-and-g-s-momentum-and-growth-in-the-spotlight) |
-| P3 | M&G | View press release | unknown | ? |  | check | 2026-09-19 | [open](https://www.mandg.com/news-and-insights/press-releases/2026/01-09-2026) |

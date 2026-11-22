@@ -14628,5 +14628,71 @@
   "injection_suspect": false,
   "classified_by": "rules",
   "priority": "P3"
+ },
+ {
+  "id": "eac0d8cca1113531",
+  "firm": "targetjobs",
+  "role_title": "Audit Graduate Programme - April 2027 intake",
+  "division": "",
+  "location": "London",
+  "url": "https://ad.doubleclick.net/ddm/trackclk/N284201.140092TARGETJOBS/B36918701.457757498;dc_trk_aid=652143565;dc_trk_cid=264960155;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-22",
+  "deadline": null,
+  "rolling": false,
+  "type": "other",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "not an internship or spring week (graduate, placement or experienced)"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "73504287125212e1",
+  "firm": "targetjobs",
+  "role_title": "Cyber Security Engineer Graduate",
+  "division": "",
+  "location": "Chippenham",
+  "url": "https://jobs.siemens.com/externaljobs/JobDetail?folderId=518617&source=TargetJobs",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-22",
+  "deadline": null,
+  "rolling": false,
+  "type": "unknown",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "location 'Chippenham' is not London"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
+ },
+ {
+  "id": "89d43008c6e79dfc",
+  "firm": "targetjobs",
+  "role_title": "Graduate Economist & Summer Internship Programme 2026/27",
+  "division": "",
+  "location": "London",
+  "url": "https://cezanneondemand.intervieweb.it/rbbecon/jobs/2627-application-to-rbb-economics-63289/en/",
+  "source": "targetjobs",
+  "date_posted": null,
+  "date_found": "2026-11-22",
+  "deadline": null,
+  "rolling": false,
+  "type": "summer",
+  "eligibility": "excluded",
+  "eligibility_notes": [
+   "programme year ['2026'] not 2027"
+  ],
+  "ai_policy": null,
+  "injection_suspect": false,
+  "classified_by": "rules",
+  "priority": "P3"
  }
 ]
